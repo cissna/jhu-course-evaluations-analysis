@@ -2,6 +2,12 @@
 Uses classes for classes, where a class a scraper method that gets the relevant data from https://asen-jhu.evaluationkit.com/Report/Public/Results
 """
 
+import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+import requests
+import urllib.parse
 import re
 
 
@@ -86,7 +92,54 @@ class SpecificClassScraper():
         specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
 
     def scrape_pdf(self):
-        pass
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")  # change to "--headless" if using older Chrome
+        chrome_options.add_argument("--disable-gpu")
+        driver = webdriver.Chrome(options=chrome_options)
+
+        try:
+            # Step 1: Go to redirect URL
+            url = 'https://asen-jhu.evaluationkit.com/Login/ReportPublic?id=THo7RYxiDOgppCUb8vkY%2bPMVFDNyK2ADK0u537x%2fnZsNvzOBJJZTTNEcJihG8hqZi'
+            driver.get(url)
+
+            # Step 2: Wait for redirect and page to load
+            time.sleep(2)
+
+            # Step 3: Find input box and type in the class code
+            search_input = driver.find_element(By.ID, "Course")
+            search_input.send_keys(self.specific_class_code)
+            search_input.submit()  # presses "Enter"
+
+            # Step 4: Wait for results to load
+            time.sleep(3)
+
+            # Step 5: Find the PDF download link
+            pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
+
+            # Extract download parameters from attributes
+            data_id0 = pdf_button.get_attribute("data-id0")
+            data_id1 = pdf_button.get_attribute("data-id1")
+            data_id2 = pdf_button.get_attribute("data-id2")
+            data_id3 = pdf_button.get_attribute("data-id3")
+
+            # Construct actual PDF download URL
+            base = "https://asen-jhu.evaluationkit.com/Report/PDF"
+            query = f"id0={data_id0}&id1={urllib.parse.quote(data_id1)}&id2={urllib.parse.quote(data_id2)}&id3={urllib.parse.quote(data_id3)}"
+            pdf_url = f"{base}?{query}"
+
+            # Step 6: Use requests to download the file
+            response = requests.get(pdf_url)
+            if response.status_code == 200:
+                file_name = f"{self.specific_class_code.replace('.', '_')}.pdf"
+                with open(file_name, 'wb') as f:
+                    f.write(response.content)
+                print(f"Downloaded PDF as {file_name}")
+                return file_name
+            else:
+                print("Failed to download PDF.")
+                return None
+        finally:
+            driver.quit()
 
             
 
