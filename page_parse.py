@@ -94,19 +94,35 @@ class SpecificClassScraper():
         self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
 
     def scrape_pdf(self):
-        from seleniumwire import webdriver
-        from selenium.webdriver.common.by import By
-        from selenium.webdriver.chrome.options import Options
-        from selenium.webdriver.support.ui import WebDriverWait
-        from selenium.webdriver.support import expected_conditions as EC
-        import time
-        import requests
-        import re
 
         chrome_options = Options()
-        # chrome_options.add_argument("--headless")  # optional: remove comment to see browser
+        chrome_options.add_argument("--headless")  # optional: comment line to see browser
         chrome_options.add_argument("--disable-gpu")
+        # chrome_options.add_experimental_option("prefs", {
+        #     "plugins.always_open_pdf_externally": True,  # Don't download PDFs
+        #     "download.prompt_for_download": False,
+        #     "download.directory_upgrade": True
+        # })
         driver = webdriver.Chrome(options=chrome_options)
+        driver = webdriver.Chrome(options=chrome_options)
+        PDF_URL = None
+
+        def intercept_request(request):
+            """
+            This interceptor should only abort the PDF link,
+            so we don't open it and download it to my Downloads folder, but also save the link
+            """
+            global PDF_URL
+            print("TEST")
+            if "Report/Public/Pdf" in request.url:
+                PDF_URL = request.url
+                request.abort()
+
+        driver.request_interceptor = intercept_request
+        PDF_URL = None
+        # This interceptor should only abort the pdf link, so we don't open it and download it to my Downloads folder, but also save the link
+        driver.request_interceptor = lambda request: (PDF_URL := request.url, request.abort()) if "Report/Public/Pdf" in request.url else None
+
 
         try:
             url = 'https://asen-jhu.evaluationkit.com/Login/ReportPublic?id=THo7RYxiDOgppCUb8vkY%2bPMVFDNyK2ADK0u537x%2fnZsNvzOBJJZTTNEcJihG8hqZ'
@@ -121,12 +137,22 @@ class SpecificClassScraper():
             pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
             pdf_button.click()
 
-            WebDriverWait(driver, 10).until(
-                lambda d: any(
-                    "Report/Public/Pdf" in r.url and r.response and r.response.status_code == 200
-                    for r in d.requests
+            try:
+                WebDriverWait(driver, 10).until(
+                    lambda d: any(
+                        "Report/Public/Pdf" in r.url and r.response and r.response.status_code == 200
+                        for r in d.requests
+                    )
                 )
-            )
+            except Exception as e:
+                if not 'TimeoutException' in type(e).__name__:
+                    # raise e
+                    print(str(e))
+                
+
+
+            print(PDF_URL)
+            exit()
 
             for request in driver.requests:
                 if (
@@ -137,7 +163,7 @@ class SpecificClassScraper():
                     print("✅ Found PDF URL:", request.url)
                     response = requests.get(request.url)
                     if response.status_code == 200:
-                        file_name = f"{self.specific_class_code.replace('.', '_')}.pdf"
+                        file_name = f"pdfs/{self.specific_class_code.replace('.', '_')}.pdf"
                         with open(file_name, 'wb') as f:
                             f.write(response.content)
                         print(f"Downloaded PDF as {file_name}")
