@@ -6,6 +6,8 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import requests
 import urllib.parse
 import re
@@ -89,7 +91,7 @@ class SpecificClassScraper():
         year = parse_year(year_string)
         section = parse_section(section_string)
         # at this point, the variables we care about are year, period, section, and class_code, here's how we use them:
-        specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
+        self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
 
     def scrape_pdf(self):
         chrome_options = Options()
@@ -103,7 +105,7 @@ class SpecificClassScraper():
             driver.get(url)
 
             # Step 2: Wait for redirect and page to load
-            time.sleep(2)
+            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "Course")))
 
             # Step 3: Find input box and type in the class code
             search_input = driver.find_element(By.ID, "Course")
@@ -111,7 +113,7 @@ class SpecificClassScraper():
             search_input.submit()  # presses "Enter"
 
             # Step 4: Wait for results to load
-            time.sleep(3)
+            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.sr-pdf")))
 
             # Step 5: Find the PDF download link
             pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
@@ -142,5 +144,3 @@ class SpecificClassScraper():
             driver.quit()
 
             
-
-        
