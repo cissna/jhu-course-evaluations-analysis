@@ -94,35 +94,28 @@ class SpecificClassScraper():
         self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
 
     def scrape_pdf(self):
-
         chrome_options = Options()
         chrome_options.add_argument("--headless")  # optional: comment line to see browser
         chrome_options.add_argument("--disable-gpu")
-        # chrome_options.add_experimental_option("prefs", {
-        #     "plugins.always_open_pdf_externally": True,  # Don't download PDFs
-        #     "download.prompt_for_download": False,
-        #     "download.directory_upgrade": True
-        # })
-        driver = webdriver.Chrome(options=chrome_options)
-        driver = webdriver.Chrome(options=chrome_options)
-        PDF_URL = None
 
-        def intercept_request(request):
-            """
-            This interceptor should only abort the PDF link,
-            so we don't open it and download it to my Downloads folder, but also save the link
-            """
-            global PDF_URL
-            print("TEST")
+        # Set download prefs to reduce Chrome's influence
+        chrome_options.add_experimental_option("prefs", {
+            "download.prompt_for_download": False,
+            "download.directory_upgrade": True
+        })
+
+        driver = webdriver.Chrome(options=chrome_options)
+
+        # 🛑 Intercept and block the PDF request before Chrome handles it
+        pdf_url_holder = {"url": None}
+
+        def interceptor(request):
             if "Report/Public/Pdf" in request.url:
-                PDF_URL = request.url
-                request.abort()
+                print("🚫 Blocking request to:", request.url)
+                pdf_url_holder["url"] = request.url
+                request.abort()  # <- prevent download
 
-        driver.request_interceptor = intercept_request
-        PDF_URL = None
-        # This interceptor should only abort the pdf link, so we don't open it and download it to my Downloads folder, but also save the link
-        driver.request_interceptor = lambda request: (PDF_URL := request.url, request.abort()) if "Report/Public/Pdf" in request.url else None
-
+        driver.request_interceptor = interceptor
 
         try:
             url = 'https://asen-jhu.evaluationkit.com/Login/ReportPublic?id=THo7RYxiDOgppCUb8vkY%2bPMVFDNyK2ADK0u537x%2fnZsNvzOBJJZTTNEcJihG8hqZ'
@@ -137,43 +130,24 @@ class SpecificClassScraper():
             pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
             pdf_button.click()
 
-            try:
-                WebDriverWait(driver, 10).until(
-                    lambda d: any(
-                        "Report/Public/Pdf" in r.url and r.response and r.response.status_code == 200
-                        for r in d.requests
-                    )
-                )
-            except Exception as e:
-                if not 'TimeoutException' in type(e).__name__:
-                    # raise e
-                    print(str(e))
-                
+            # Give it a second to be intercepted
+            WebDriverWait(driver, 10).until(lambda d: pdf_url_holder["url"] is not None)
 
-
-            print(PDF_URL)
-            exit()
-
-            for request in driver.requests:
-                if (
-                    request.response
-                    and "Report/Public/Pdf" in request.url
-                    and request.response.status_code == 200
-                ):
-                    print("✅ Found PDF URL:", request.url)
-                    response = requests.get(request.url)
-                    if response.status_code == 200:
-                        file_name = f"pdfs/{self.specific_class_code.replace('.', '_')}.pdf"
-                        with open(file_name, 'wb') as f:
-                            f.write(response.content)
-                        print(f"Downloaded PDF as {file_name}")
-                        return file_name
-                    else:
-                        print("❌ Failed to download PDF.")
-                        return None
-
-            print("❌ No PDF URL found.")
-            return None
+            if pdf_url_holder["url"]:
+                print("✅ Found PDF URL:", pdf_url_holder["url"])
+                response = requests.get(pdf_url_holder["url"])
+                if response.status_code == 200:
+                    file_name = f"pdfs/{self.specific_class_code.replace('.', '_')}.pdf"
+                    with open(file_name, 'wb') as f:
+                        f.write(response.content)
+                    print(f"Downloaded PDF as {file_name}")
+                    return file_name
+                else:
+                    print("❌ Failed to download PDF.")
+                    return None
+            else:
+                print("❌ No PDF URL intercepted.")
+                return None
 
         finally:
             driver.quit()
