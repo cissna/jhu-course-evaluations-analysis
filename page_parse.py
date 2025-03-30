@@ -121,7 +121,12 @@ class SpecificClassScraper():
             pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
             pdf_button.click()
 
-            time.sleep(3)
+            WebDriverWait(driver, 10).until(
+                lambda d: any(
+                    "Report/Public/Pdf" in r.url and r.response and r.response.status_code == 200
+                    for r in d.requests
+                )
+            )
 
             for request in driver.requests:
                 if (
@@ -146,4 +151,3 @@ class SpecificClassScraper():
 
         finally:
             driver.quit()
-            
