@@ -3,7 +3,7 @@ Uses classes for classes, where a class a scraper method that gets the relevant 
 """
 
 import time
-from selenium import webdriver
+from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
@@ -94,53 +94,56 @@ class SpecificClassScraper():
         self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
 
     def scrape_pdf(self):
+        from seleniumwire import webdriver
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.chrome.options import Options
+        from selenium.webdriver.support.ui import WebDriverWait
+        from selenium.webdriver.support import expected_conditions as EC
+        import time
+        import requests
+        import re
+
         chrome_options = Options()
-        chrome_options.add_argument("--headless=new")  # change to "--headless" if using older Chrome
+        # chrome_options.add_argument("--headless")  # optional: remove comment to see browser
         chrome_options.add_argument("--disable-gpu")
         driver = webdriver.Chrome(options=chrome_options)
 
         try:
-            # Step 1: Go to redirect URL
-            url = 'https://asen-jhu.evaluationkit.com/Login/ReportPublic?id=THo7RYxiDOgppCUb8vkY%2bPMVFDNyK2ADK0u537x%2fnZsNvzOBJJZTTNEcJihG8hqZi'
+            url = 'https://asen-jhu.evaluationkit.com/Login/ReportPublic?id=THo7RYxiDOgppCUb8vkY%2bPMVFDNyK2ADK0u537x%2fnZsNvzOBJJZTTNEcJihG8hqZ'
             driver.get(url)
 
-            # Step 2: Wait for redirect and page to load
-            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "Course")))
-
-            # Step 3: Find input box and type in the class code
+            WebDriverWait(driver, 10).until(EC.url_contains("Report/Public"))
             search_input = driver.find_element(By.ID, "Course")
             search_input.send_keys(self.specific_class_code)
-            search_input.submit()  # presses "Enter"
+            search_input.submit()
 
-            # Step 4: Wait for results to load
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.sr-pdf")))
-
-            # Step 5: Find the PDF download link
             pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
+            pdf_button.click()
 
-            # Extract download parameters from attributes
-            data_id0 = pdf_button.get_attribute("data-id0")
-            data_id1 = pdf_button.get_attribute("data-id1")
-            data_id2 = pdf_button.get_attribute("data-id2")
-            data_id3 = pdf_button.get_attribute("data-id3")
+            time.sleep(3)
 
-            # Construct actual PDF download URL
-            base = "https://asen-jhu.evaluationkit.com/Report/PDF"
-            query = f"id0={data_id0}&id1={urllib.parse.quote(data_id1)}&id2={urllib.parse.quote(data_id2)}&id3={urllib.parse.quote(data_id3)}"
-            pdf_url = f"{base}?{query}"
+            for request in driver.requests:
+                if (
+                    request.response
+                    and "Report/Public/Pdf" in request.url
+                    and request.response.status_code == 200
+                ):
+                    print("✅ Found PDF URL:", request.url)
+                    response = requests.get(request.url)
+                    if response.status_code == 200:
+                        file_name = f"{self.specific_class_code.replace('.', '_')}.pdf"
+                        with open(file_name, 'wb') as f:
+                            f.write(response.content)
+                        print(f"Downloaded PDF as {file_name}")
+                        return file_name
+                    else:
+                        print("❌ Failed to download PDF.")
+                        return None
 
-            # Step 6: Use requests to download the file
-            response = requests.get(pdf_url)
-            if response.status_code == 200:
-                file_name = f"{self.specific_class_code.replace('.', '_')}.pdf"
-                with open(file_name, 'wb') as f:
-                    f.write(response.content)
-                print(f"Downloaded PDF as {file_name}")
-                return file_name
-            else:
-                print("Failed to download PDF.")
-                return None
+            print("❌ No PDF URL found.")
+            return None
+
         finally:
             driver.quit()
-
             
