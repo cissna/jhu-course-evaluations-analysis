@@ -2,6 +2,7 @@
 Uses classes for classes, where a class a scraper method that gets the relevant data from https://asen-jhu.evaluationkit.com/Report/Public/Results
 """
 
+from datetime import datetime
 import time
 from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
@@ -132,7 +133,16 @@ class SpecificClassScraper():
             search_input.send_keys(self.specific_class_code)
             search_input.submit()
 
-            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.sr-pdf")))
+            WebDriverWait(driver, 10).until(EC.url_contains("Report/Public/Results"))
+            
+            # Check for 'no records found' alert
+            try:
+                no_results_alert = driver.find_element(By.CSS_SELECTOR, "div.alert.alert-info")
+                print("❌ No records found for this search.")
+                return None
+            except:
+                pass  # If the alert isn't found, continue as normal
+
             pdf_button = driver.find_element(By.CSS_SELECTOR, "a.sr-pdf")
             pdf_button.click()
 
@@ -171,6 +181,41 @@ class GeneralClassScraper():
         self.intersession = intersession
         self.summer = summer
 
+        now = datetime.now()
+        self.year_after_year_including_most_recent_evals = now.year
+        self.last_period = 'FA'
+        if now.month > 5:  # past may
+            self.year_after_year_including_most_recent_evals += 1  # it will make this year actually next year, but it just works in the code
+            self.last_period = 'SP'
+
 
     def scrape_all_pdfs(self):
-        ...
+        specifics: SpecificClassScraper = []
+        specifics.append(1)
+
+        dates = []
+
+        start_year = self.year_after_year_including_most_recent_evals - self.years
+
+        if self.intersession:
+            dates = [("IN", year) for year in range(start_year, self.year_after_year_including_most_recent_evals)]
+        elif self.summer:
+            spring_offset = -1 if self.last_period == 'SP' else 0
+            summer_year_range = range(start_year + spring_offset, self.year_after_year_including_most_recent_evals + spring_offset)
+            dates = [("SU", year) for year in summer_year_range]
+        else:
+            if self.last_period == 'SP':
+                dates.append(('FA', start_year - 1))
+            for year in range(start_year, self.year_after_year_including_most_recent_evals):
+                for period in ['SP', 'FA']:
+                    dates.append((period, year))
+            if self.last_period == 'SP':
+                dates.pop()  # remove fall of year_after_year_including_most_recent_evals since it hasn't happened yet if last period is spring
+        # all of above code is just gathering dates list that is used below. consider making it a helper.
+            
+        for period, year in dates:
+            for i in range(100):  # i think 33 is the highest, but a more dynamic strategy would be better, ofc.
+                s = SpecificClassScraper(self.class_code, period, str(year), str(i))
+                result = s.scrape_pdf()
+                if result is None:
+                    break
