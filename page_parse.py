@@ -13,7 +13,7 @@ import urllib.parse
 import re
 
 
-def parse_period(period_string: str) -> str:
+def parse_period(period_string: str, expecting_special=False) -> str:
     """Processes period_string to ensure consistency
 
     Args:
@@ -27,13 +27,19 @@ def parse_period(period_string: str) -> str:
     """
     period_string = period_string.lower().strip()
     if period_string == 'sp' or period_string == 'spring':
+        if expecting_special:
+            raise ValueError(f'Special period string, "{period_string}" should be intersession or summer')
         return 'SP'
     if period_string == 'fa' or period_string == 'fall':
+        if expecting_special:
+            raise ValueError(f'Special period string, "{period_string}" should be intersession or summer')
         return 'FA'
     if period_string == 'in' or period_string == 'intersession':
         return 'IN'
     if period_string == 'su' or period_string == 'summer':
         return 'SU'
+    if expecting_special:
+        raise ValueError(f'Special period string, "{period_string}" should be intersession or summer')
     raise ValueError(f'Period String, "{period_string}" should be spring, fall, intersession, or summer')
 
 
@@ -151,3 +157,20 @@ class SpecificClassScraper():
 
         finally:
             driver.quit()
+
+
+class GeneralClassScraper():
+    """
+    Contains SpecificClassScraper()s for all versions of a class in the last (default=5) years
+    """
+    def __init__(self, class_code: str, years=5, intersession=False, summer=False):
+        self.years = years
+        self.class_code = class_code
+        if intersession and summer:
+            raise ValueError("Summer and Intersession do not go together")
+        self.intersession = intersession
+        self.summer = summer
+
+
+    def scrape_all_pdfs(self):
+        ...
