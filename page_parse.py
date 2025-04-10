@@ -214,7 +214,7 @@ class GeneralClassScraper():
         # all of above code is just gathering dates list that is used below. consider making it a helper.
             
         for period, year in dates:
-            for i in range(100):  # i think 33 is the highest, but a more dynamic strategy would be better, ofc.
+            for i in range(1000):  # i think 33 is the highest, but a more dynamic strategy would be better, ofc.
                 s = SpecificClassScraper(self.class_code, period, str(year), str(i))
                 result = s.scrape_pdf()
                 if result is None:
