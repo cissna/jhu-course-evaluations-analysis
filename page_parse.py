@@ -100,19 +100,7 @@ class SpecificClassScraper():
         # at this point, the variables we care about are year, period, section, and class_code, here's how we use them:
         self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
 
-    def scrape_pdf(self):
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")  # optional: comment line to see browser
-        chrome_options.add_argument("--disable-gpu")
-
-        # Set download prefs to reduce Chrome's influence
-        chrome_options.add_experimental_option("prefs", {
-            "download.prompt_for_download": False,
-            "download.directory_upgrade": True
-        })
-
-        driver = webdriver.Chrome(options=chrome_options)
-
+    def scrape_pdf(self, driver):
         # 🛑 Intercept and block the PDF request before Chrome handles it
         pdf_url_holder = {"url": None}
 
@@ -124,7 +112,14 @@ class SpecificClassScraper():
 
         driver.request_interceptor = interceptor
 
-        try:
+        # Check if driver is already on a 'Report/Public/Results' page
+        if "Report/Public/Results" in driver.current_url:
+            # Directly update the URL with the new course code
+            new_url = f"https://asen-jhu.evaluationkit.com/Report/Public/Results?Course={self.specific_class_code}"
+            driver.get(new_url)
+            WebDriverWait(driver, 10).until(EC.url_contains("Report/Public/Results"))
+        else:
+            # Follow the original workflow
             url = 'https://asen-jhu.evaluationkit.com/Login/ReportPublic?id=THo7RYxiDOgppCUb8vkY%2bPMVFDNyK2ADK0u537x%2fnZsNvzOBJJZTTNEcJihG8hqZ'
             driver.get(url)
 
@@ -165,9 +160,6 @@ class SpecificClassScraper():
                 print("❌ No PDF URL intercepted.")
                 return None
 
-        finally:
-            driver.quit()
-
 
 class GeneralClassScraper():
     """
@@ -190,32 +182,44 @@ class GeneralClassScraper():
 
 
     def scrape_all_pdfs(self):
-        specifics: SpecificClassScraper = []
-        specifics.append(1)
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_experimental_option("prefs", {
+            "download.prompt_for_download": False,
+            "download.directory_upgrade": True
+        })
+        driver = webdriver.Chrome(options=chrome_options)
 
-        dates = []
+        try:
+            specifics: SpecificClassScraper = []
+            specifics.append(1)
 
-        start_year = self.year_after_year_including_most_recent_evals - self.years
+            dates = []
 
-        if self.intersession:
-            dates = [("IN", year) for year in range(start_year, self.year_after_year_including_most_recent_evals)]
-        elif self.summer:
-            spring_offset = -1 if self.last_period == 'SP' else 0
-            summer_year_range = range(start_year + spring_offset, self.year_after_year_including_most_recent_evals + spring_offset)
-            dates = [("SU", year) for year in summer_year_range]
-        else:
-            if self.last_period == 'SP':
-                dates.append(('FA', start_year - 1))
-            for year in range(start_year, self.year_after_year_including_most_recent_evals):
-                for period in ['SP', 'FA']:
-                    dates.append((period, year))
-            if self.last_period == 'SP':
-                dates.pop()  # remove fall of year_after_year_including_most_recent_evals since it hasn't happened yet if last period is spring
-        # all of above code is just gathering dates list that is used below. consider making it a helper.
+            start_year = self.year_after_year_including_most_recent_evals - self.years
+
+            if self.intersession:
+                dates = [("IN", year) for year in range(start_year, self.year_after_year_including_most_recent_evals)]
+            elif self.summer:
+                spring_offset = -1 if self.last_period == 'SP' else 0
+                summer_year_range = range(start_year + spring_offset, self.year_after_year_including_most_recent_evals + spring_offset)
+                dates = [("SU", year) for year in summer_year_range]
+            else:
+                if self.last_period == 'SP':
+                    dates.append(('FA', start_year - 1))
+                for year in range(start_year, self.year_after_year_including_most_recent_evals):
+                    for period in ['SP', 'FA']:
+                        dates.append((period, year))
+                if self.last_period == 'SP':
+                    dates.pop()  # remove fall of year_after_year_including_most_recent_evals since it hasn't happened yet if last period is spring
             
-        for period, year in dates:
-            for i in range(1000):  # i think 33 is the highest, but a more dynamic strategy would be better, ofc.
-                s = SpecificClassScraper(self.class_code, period, str(year), str(i))
-                result = s.scrape_pdf()
-                if result is None:
-                    break
+            for period, year in dates:
+                for i in range(1000):  # i think 33 is the highest, but a more dynamic strategy would be better, ofc.
+                    s = SpecificClassScraper(self.class_code, period, str(year), str(i))
+                    result = s.scrape_pdf(driver)
+                    if result is None:
+                        break
+                    
+        finally:
+            driver.quit()
