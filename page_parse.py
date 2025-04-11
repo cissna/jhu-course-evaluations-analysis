@@ -295,6 +295,8 @@ class SpecificClassScraper():
 
         os.remove(self.pdf_file)
 
+        return file_path
+
 
 
 class GeneralClassScraper():
