@@ -198,13 +198,13 @@ class SpecificClassScraper():
 
         # Extract Course Name.
         # Looks for a line like: "Course: EN.553.291.03.FA24 : Linear Algebra and Differential Equations"
-        course_match = re.search(r"Course:\s*[^:]+:\s*(.+)", text)
+        course_match = re.search(r"\nCourse:\s*[^:]*:\s(.+)\n", text)
         if course_match:
             self.course_name = course_match.group(1).strip()
 
         # Extract Instructor Name.
         # This pattern assumes the instructor name appears on a line ending with "Instructor:"
-        instructor_match = re.search(r"\b([A-Z][a-zA-Z.\- ]+?)\s*Instructor:", text)
+        instructor_match = re.search(r"\nInstructor:\s(.+)\n", text)
         if instructor_match:
             self.instructor_name = instructor_match.group(1).strip()
 
