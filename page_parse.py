@@ -344,6 +344,10 @@ class GeneralClassScraper():
             start_year = self.year_after_year_including_most_recent_evals - self.years
 
             if self.intersession:
+                print("WARNING: intersession does not currently work because of edge case with sections not starting at 1")
+                # possible changes:
+                # just search through sections and find it (slow, but not too many intersession courses and minimal work)
+                # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
                 dates = [("IN", year) for year in range(start_year, self.year_after_year_including_most_recent_evals)]
             elif self.summer:
                 spring_offset = -1 if self.last_period == 'SP' else 0
