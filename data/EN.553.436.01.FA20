@@ -1,0 +1,63 @@
+{
+    "course_name": "Introduction to Data Science",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyesh",
+        "Shreyash",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shaurya",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyash Kumar",
+        "Shreyash Kumar"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 5,
+        "Typical": 7,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

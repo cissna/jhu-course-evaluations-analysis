@@ -1,0 +1,93 @@
+{
+    "course_name": "Time Series Analysis",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 7,
+        "Satisfactory": 19,
+        "Good": 38,
+        "Excellent": 64
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 7,
+        "Satisfactory": 16,
+        "Good": 31,
+        "Excellent": 74
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 18,
+        "Good": 36,
+        "Excellent": 73
+    },
+    "ta_frequency": {
+        "Poor": 7,
+        "Weak": 5,
+        "Satisfactory": 15,
+        "Good": 20,
+        "Excellent": 59
+    },
+    "ta_names": [
+        "Bicheng Zhu",
+        "N/A",
+        "Chuyu He",
+        "Bicheng Zhu",
+        "BiCheng Zhu",
+        "Bichen Zhu",
+        "All",
+        "bicheng zhu",
+        "Bicheng Zhu",
+        "Bicheng Zhu",
+        "Bicheng Zhu",
+        "Bicheng Zhu",
+        "zhihan cai",
+        "..",
+        "Zhihan Cai",
+        "Xinye Chen",
+        "Chuyu He",
+        "Chuyu He",
+        "Zhihan Cai",
+        "Bicheng",
+        "Bichen Zhang",
+        "Shihong Wei",
+        "Xinye Chen",
+        "Zhu Bichen",
+        "Bicheng",
+        "Shihong Wei",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Chuyu He",
+        "Bicheng Zhu",
+        "Mujidouwa",
+        "Bincheng",
+        "Bicheng Zhu",
+        "Bicheng Zhu",
+        "SHEN YI",
+        "Chuyu He",
+        "zhihan cai",
+        "Bicheng Zhu",
+        "None",
+        "Bichen Zhu",
+        "TAs",
+        "Chuyu He",
+        "Zhihan Cai",
+        "Zhihan Cai",
+        "Bicheng Zhu",
+        "Bicheng Zhu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 8,
+        "Disagree somewhat": 9,
+        "Neither agree nor disagree": 21,
+        "Agree somewhat": 37,
+        "Agree strongly": 54
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 62,
+        "Somewhat heavier": 39,
+        "Much heavier": 25
+    }
+}

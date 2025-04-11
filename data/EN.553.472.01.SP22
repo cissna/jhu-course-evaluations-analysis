@@ -1,0 +1,59 @@
+{
+    "course_name": "Graph Theory",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Jack Krew",
+        "Jack Krew",
+        "Jack Krew",
+        "Jack Krew",
+        "Jack Krew, Tongtong Chen, Vittorio",
+        "Jack Krew",
+        "Vittorio Loprinzo",
+        "Jack Krew",
+        "jack krew",
+        "Jack Krew",
+        "Jack Krew"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 4,
+        "Much heavier": 8
+    }
+}

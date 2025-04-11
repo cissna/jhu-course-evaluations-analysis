@@ -1,0 +1,72 @@
+{
+    "course_name": "Probability and Statistics for the Life Sciences",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 8,
+        "Good": 12,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Molly Ma",
+        "Molly Ma",
+        "Molly Ma",
+        "Ahmed Elsory",
+        "Molly Ma",
+        "Molly Ma",
+        "Molly Ma",
+        "Molly",
+        "Michelle Low",
+        "Molly Ma",
+        "Molly Ma",
+        "Molly Ma",
+        "Molly Ma",
+        "Molly Ma",
+        "Nile Liu",
+        "Livia Anderson",
+        "Molly Ma",
+        "Molly Ma",
+        "Molly Ma",
+        "Sadhana Pani",
+        "Ahmed El-Morsey",
+        "Molly Ma",
+        "All TAs",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 11,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 13,
+        "Much heavier": 8
+    }
+}

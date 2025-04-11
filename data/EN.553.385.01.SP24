@@ -1,0 +1,69 @@
+{
+    "course_name": "Introduction to Computational Mathematics",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 15,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Sofia Taylor",
+        "Sofia",
+        "Sophia Taylor",
+        "Sofia Taylor",
+        "Sofia Taylor",
+        "Sofia Taylor",
+        "Brendan Burkhart",
+        "Sofia Taylor",
+        "Sofia Taylor",
+        "Sofia Taylor",
+        "Sofia",
+        "sofia",
+        "Sofia Taylor",
+        "Sofia Taylor",
+        "Sofia",
+        "Brendan, Sofia",
+        "Sofia",
+        "N/A",
+        "Sofia Taylor",
+        "Sofia Taylor",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 13,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 16,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

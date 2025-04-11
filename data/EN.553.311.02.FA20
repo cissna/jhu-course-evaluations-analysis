@@ -1,0 +1,58 @@
+{
+    "course_name": "Probability and Statistics for the Biological Sciences and Engineering",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Jason Werenski",
+        "Amy van Ee",
+        "Jason Werenski",
+        "Jason Werenski",
+        "Jason Werenski",
+        "Jason Werenski",
+        "Jason Werenski",
+        "Jason Werkenski",
+        "Jason Werenski",
+        "Jason Werenski"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 8,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

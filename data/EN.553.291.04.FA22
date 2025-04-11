@@ -1,0 +1,63 @@
+{
+    "course_name": "Linear Algebra and Differential Equations",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 12,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Eileen",
+        "Eileen Stiles",
+        "Eileen Stiles",
+        "Eileen Stiles",
+        "Eileen Stiles",
+        "Eileeen Stiles",
+        "Eileen Stiles",
+        "Eileen",
+        "Eileen Stiles",
+        "Sabahat Rahman",
+        "Eileen",
+        "Eileen Stiles",
+        "Eileen STILES",
+        "Eileen",
+        "Eileen Stiles"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 13,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 7,
+        "Much heavier": 11
+    }
+}

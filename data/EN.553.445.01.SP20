@@ -1,0 +1,70 @@
+{
+    "course_name": "Interest Rate and Credit Derivatives",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Kevin Hu",
+        "Jason Lenh",
+        "N/A",
+        "Peiheng Gao",
+        "all",
+        "Peiheng Gao",
+        "Haonan Hu",
+        "Peiheng Gao",
+        "Peiheng Gao",
+        "Haonan Hu",
+        "Kevin Hu",
+        "Haonan Hu",
+        "Peiheng Gao Haonan Hu",
+        "HAONAN HU",
+        "Hu",
+        "Kevin Hu",
+        "Kevin Hu",
+        "kevin",
+        "Penghao Gao",
+        "Peiheng Gao",
+        "Kevin Hu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 12,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 28,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "course_name": "Introduction to Financial Derivatives",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Qiushi Zhao",
+        "Qiushi",
+        "Qiushi Zhao",
+        "qiushi zhao",
+        "Qiushi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 2,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

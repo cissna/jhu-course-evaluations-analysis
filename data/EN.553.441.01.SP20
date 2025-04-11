@@ -1,0 +1,56 @@
+{
+    "course_name": "Equity Markets and Quantitative Trading",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 17
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "I dont think there is a TA",
+        "Tu Nguyan",
+        "Tu Nguyen",
+        "Never met with TA",
+        "I don't even know",
+        "TuNguyen",
+        "Tu Nguyen",
+        "Tu Nguyen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 7,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 21,
+        "Somewhat heavier": 6,
+        "Much heavier": 3
+    }
+}

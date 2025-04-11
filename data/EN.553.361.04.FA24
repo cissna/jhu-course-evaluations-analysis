@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to Optimization",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Allen",
+        "Alvin Zhang",
+        "Allen Hao",
+        "Allen Hao",
+        "Yeninda",
+        "Alvin",
+        "Allen Hao",
+        "Allen",
+        "Allen",
+        "Allen",
+        "Allen Hao",
+        "Allen Hao"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 8,
+        "Much heavier": 3
+    }
+}

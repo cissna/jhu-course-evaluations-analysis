@@ -1,0 +1,64 @@
+{
+    "course_name": "Introduction to Optimization",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "n/a",
+        "Huixin Huang",
+        "Huixin Huang",
+        "Huixin",
+        "Huixin Huang",
+        "Huixin Huang",
+        "Huixin",
+        "Huixin Huang",
+        "Linda",
+        "Huixin Huang, Kesavan Venkatesh",
+        "Huixin",
+        "Huixin",
+        "Lily",
+        "Huixin Huang",
+        "Huixin Huang",
+        "Huixin Huang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

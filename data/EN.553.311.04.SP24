@@ -1,0 +1,63 @@
+{
+    "course_name": "Intermediate Probability and Statistics",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 6,
+        "Satisfactory": 8,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_names": [
+        ".",
+        "Noah",
+        "Noah",
+        "Enoch",
+        "enoch toh",
+        "Noah Zahn",
+        "Noah",
+        "Noah Zahn",
+        "Noah Zahn",
+        "Noah Zahn",
+        "Noah",
+        "Noah Kahn",
+        "Grace, Sayantika",
+        "Noah Zahn",
+        "Noah Zahn"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 10,
+        "Much heavier": 3
+    }
+}

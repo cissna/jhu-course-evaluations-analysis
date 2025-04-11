@@ -1,0 +1,61 @@
+{
+    "course_name": "Probability and Statistics for the Life Sciences",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Jasmine Lee, etc",
+        "Molly Ma",
+        "Vivia, Sandana, Michelle",
+        "Jasmine Lee",
+        "na",
+        "Micheal",
+        "Vivia Lung",
+        "Jasmine Lee",
+        "Alice Han",
+        "Michelle and Vivia are amazing and I love them. The rest as also pretty good. The grad TA isn't very helpful though.",
+        "Vivia Lung",
+        "Jasmine Lee",
+        "Michelle"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 10,
+        "Much heavier": 4
+    }
+}

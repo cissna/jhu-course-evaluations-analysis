@@ -1,0 +1,69 @@
+{
+    "course_name": "Introduction to Optimization",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 11,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle S",
+        "Kyle",
+        "Kyle Schneider",
+        "Mihir Chakravarthi",
+        "Kyle Schneider",
+        "Kyle Snchider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle Schneider",
+        "Kyle",
+        "Irfan",
+        "Kyle",
+        "I don't know, I stopped attending the sections 2 weeks in.",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 15,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 9,
+        "Much heavier": 1
+    }
+}

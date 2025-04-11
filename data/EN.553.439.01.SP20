@@ -1,0 +1,71 @@
+{
+    "course_name": "Time Series Analysis",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 8,
+        "Satisfactory": 17,
+        "Good": 27,
+        "Excellent": 30
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 7,
+        "Satisfactory": 19,
+        "Good": 22,
+        "Excellent": 33
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 14,
+        "Good": 29,
+        "Excellent": 35
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 21,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Phoebe Du",
+        "a couple",
+        "Phoebe",
+        "Shihong Wei",
+        "Phoebe Du",
+        "Phoebe Du",
+        "all of them",
+        "Phebie",
+        "Phoebe Du",
+        "all",
+        "I don't even know who they are, so that should tell you something",
+        "Caiyi Li",
+        "Caiyi Li",
+        "Xuanxian Du",
+        "Shihong Wei",
+        "Caiyi Li",
+        "Caiyi",
+        "caiyi li",
+        "Caiyi Li",
+        "Shihong Wei",
+        "Phoebe Du, Caiyi Li, ShihongWei",
+        "Phoebe Du",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 9,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 28,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 7,
+        "Typical": 45,
+        "Somewhat heavier": 19,
+        "Much heavier": 6
+    }
+}

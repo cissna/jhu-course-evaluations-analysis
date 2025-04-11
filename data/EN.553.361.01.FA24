@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to Optimization",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Dilum",
+        "Thursday 9am",
+        "Yeninda",
+        "I forgot, but I have him every Thursday at 9 AM in Shaffer 304.",
+        "Dilum",
+        "Dilum Fernando",
+        "Dilum Fernando",
+        "Beruwalathotage Amila Canicius Dilum Fernando",
+        "Dilum Fernando",
+        "Dimiri Sarris",
+        "Yeninda",
+        "Yamato Okura"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 14,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

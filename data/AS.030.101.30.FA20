@@ -1,0 +1,62 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Divya Yadav",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Yifu Zhou",
+        "Divya Yadav"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 2,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

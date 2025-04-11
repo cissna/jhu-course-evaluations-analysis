@@ -1,0 +1,62 @@
+{
+    "course_name": "Introduction to Data Science",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 5,
+        "Satisfactory": 7,
+        "Good": 11,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 13,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Will",
+        "Will Shiber",
+        "Jake",
+        "Will Shiber",
+        "N/A",
+        "Josiah Lim",
+        "William Shiber",
+        "Will Shiber",
+        "Will Shiber",
+        "Josiah Lim",
+        "Josiah Lim",
+        "All of them?",
+        "Will Shiber",
+        "Eric Kim"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 14,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 8,
+        "Typical": 13,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Intermediate Probability and Statistics",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Sun",
+        "Sun Tanomkiattikun",
+        "Sun Tanomkiattikun",
+        "Sun",
+        "Sun",
+        "Sun",
+        "Sun",
+        "Sun, Enoch, Sayantika, Noah, I've been to their sessions and they are all great!",
+        "Grace",
+        "Sun",
+        "Sun",
+        "Sun",
+        "Sun Tanomkiattikun"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 10,
+        "Much heavier": 6
+    }
+}

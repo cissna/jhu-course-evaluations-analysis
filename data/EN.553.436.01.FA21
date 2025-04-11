@@ -1,0 +1,55 @@
+{
+    "course_name": "Introduction to Data Science",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Xiaoxun Liu",
+        "Xiaoxun Liu",
+        "idk",
+        "Xiaoxun Liu",
+        "Don't know",
+        "All TAs are fine.",
+        "Jack Krew"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 4,
+        "Typical": 4,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

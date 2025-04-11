@@ -1,0 +1,62 @@
+{
+    "course_name": "Probability and Statistics for the Life Sciences",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 17,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Charles",
+        "Charles Liu",
+        "Charles",
+        "Charles",
+        "All",
+        "Charles Liu",
+        "Yoona",
+        "Charles",
+        "Charles",
+        "Charles Yang",
+        "Charles.. and all of them",
+        "Charles",
+        "Charles Liu",
+        "Charles Liu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 8,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 13,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}
