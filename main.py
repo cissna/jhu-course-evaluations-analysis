@@ -2,7 +2,7 @@ import json
 import os
 from page_parse import GeneralClassScraper
 
-code = "EN.553.420"
+code = "EN.553.421"
 
 # Define the mappings from rating labels to numeric scores.
 quality_mapping = {
@@ -112,6 +112,8 @@ for file in file_list:
         overall_data_recent["quality"][1] += quality_count
         overall_data_recent["workload"][0] += workload_sum
         overall_data_recent["workload"][1] += workload_count
+
+print(f"\n\nClass: {data.get('course_name')}    Code: {code}\n\n")
 
 # Print the aggregated averages.
 print("Averages per instructor:")
