@@ -2,3 +2,5 @@ __pycache__/
 pdfs/
 .DS_Store
 course_catalog_*
+old_*
+scratch.py
