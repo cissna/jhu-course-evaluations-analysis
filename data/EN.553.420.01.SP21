@@ -1,0 +1,81 @@
+{
+    "course_name": "Introduction to Probability",
+    "instructor_name": "Fred Torcaso",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 18,
+        "Excellent": 24
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 34
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 11,
+        "Excellent": 34
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 33
+    },
+    "ta_names": [
+        "Tanuj Alapati",
+        "Amy Van Ee",
+        "Tanuj Alapati",
+        "Tanuj Alapati",
+        "Tanuj Alapati",
+        "Tanuj Alapati",
+        "Tony",
+        "Tanuj",
+        "Tanuj Alapati",
+        "Head TA",
+        "Tanuj Alapati",
+        "Gabe Gormezano",
+        "Tanuj Alapati",
+        "Tanuj Alapati",
+        "Tanuj Alapati",
+        "Gabe Gormezano / Amy van Ee",
+        "Tanuj",
+        "Tanuj Alapati",
+        "Section 2 TA",
+        "Amy van Ee",
+        "ALAPATI, TANUJ; ZHU, TONY; GORMEZANO, GABE; VAN EE, AMY; ZHOU, AMBER; LIN, JIANYU; SHAH, KESHAV",
+        "Tony Zhu",
+        "Amy Van EE",
+        "Tanuj Alapati",
+        "Gabe",
+        "Keshav Shah",
+        "Amy van Ee",
+        "Amy Van Ee, Gabe, Keshav Shah",
+        "Keshav Shah",
+        "Keshav Shah",
+        "Keshav",
+        "Keshav Shah",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 22,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 15,
+        "Somewhat heavier": 14,
+        "Much heavier": 13
+    }
+}

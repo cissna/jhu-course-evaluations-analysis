@@ -1,0 +1,68 @@
+{
+    "course_name": "Probability",
+    "instructor_name": "Fred Torcaso",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Cecilia Chen",
+        "Katherine",
+        "Katherine",
+        "Katherine",
+        "NA",
+        "Catherine",
+        "Cecilia",
+        "Katherine Song",
+        "Katherine Song",
+        "Katherine Song",
+        "Katherine",
+        "Katherine",
+        "Sanne Wu, Sun Tanomkiattikun, and Katherine Song were all really helpful",
+        "Tienjen Bai",
+        "Katherine Song",
+        "Cecilia",
+        "Haojun Shi",
+        "Katherine Song",
+        "Katherine Song",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 10,
+        "Much heavier": 13
+    }
+}
