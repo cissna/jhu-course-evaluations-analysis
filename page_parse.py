@@ -177,10 +177,14 @@ class SpecificClassScraper():
                 self.pdf_file = file_name
                 return file_name
             else:
-                print("❌ Failed to download PDF.")
+                print(f"❌ Failed to download PDF: {self.specific_class_code}")
+                with open("failed_pdf_downloads.txt", 'a') as f:
+                    f.write("self.specific_class_code" + '\n')
                 return None
         else:
-            print("❌ No PDF URL intercepted.")
+            print(f"❌ No PDF URL intercepted: {self.specific_class_code}")
+            with open("failed_pdf_downloads.txt", 'a') as f:
+                f.write("self.specific_class_code" + '\n')
             return None
 
     def parse_pdf(self):
@@ -200,7 +204,7 @@ class SpecificClassScraper():
 
         # Extract Instructor Name.
         # This pattern assumes the instructor name appears on a line ending with "Instructor:"
-        instructor_match = re.search(r"\n\s*([A-Za-z\s\-]+)Instructor:", text)
+        instructor_match = re.search(r"\b([A-Z][a-zA-Z.\- ]+?)\s*Instructor:", text)
         if instructor_match:
             self.instructor_name = instructor_match.group(1).strip()
 
@@ -324,7 +328,7 @@ class GeneralClassScraper():
             for line in f.readlines():
                 if line.strip() == self.class_code.strip():
                     print(f'{self.class_code} already cached, remove from course_cache.txt to download its data.')
-                    return
+                    return ["data/" + f for f in os.listdir("data") if self.class_code in f]
 
         chrome_options = Options()
         chrome_options.add_argument("--headless")
@@ -367,15 +371,19 @@ class GeneralClassScraper():
                 if self.last_period == 'SP':
                     dates.pop()  # remove fall of year_after_year_including_most_recent_evals since it hasn't happened yet if last period is spring
             
+            data_files = []
             for period, year in dates:
-                for i in range(1, 1000):  # i think 33 is the highest, but a more dynamic strategy would be better, ofc.
+                for i in range(1, 1000):  # I think 33 is the highest, but a more dynamic strategy would be better, ofc.
                     s = SpecificClassScraper(self.class_code, period, str(year), str(i))
                     result = s.scrape_pdf(driver)
                     if result is None:
                         break
-                    s.parse_pdf()
+                    data_files.append(s.parse_pdf())
             with open("course_cache.txt", 'a') as f:
                 f.write(self.class_code + '\n')
-                    
+            
+        
         finally:
             driver.quit()
+        
+        return data_files  # will error if there is an exception, which is probably fine.
