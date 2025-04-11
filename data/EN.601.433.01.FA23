@@ -1,0 +1,78 @@
+{
+    "course_name": "Intro Algorithms",
+    "instructor_name": "Gagan Garg",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 32,
+        "Excellent": 30
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 31,
+        "Excellent": 32
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 22,
+        "Excellent": 45
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 16,
+        "Excellent": 32
+    },
+    "ta_names": [
+        "Nihaar Thakkar",
+        "Stella Huo",
+        "Whoever is grading my homework has been very petty",
+        "n/a",
+        "Stella Huo",
+        "n/a",
+        "Sofia",
+        "N/A",
+        "Kunal Kotkar",
+        "Matthew Francis Landeau",
+        "Matthew Francis-Landau",
+        "All the TA's",
+        "elaine zhao",
+        "Jamie",
+        "All",
+        "Janya",
+        "Thomas Yu, James Yu",
+        "all of them",
+        "Jerry Chen",
+        "Matthew Landau",
+        "Elaine Zhao",
+        "Elaine Zhao, Maliha Qassamali, Mishal Qassamali, Jiarui Chen, Jiahao Wang, Nihaar Thakkar, Jamie Stelnik, Stella Huo, Alexa Delaney",
+        "Sofia Lovuolo",
+        "Someone",
+        "Matthew-Francis Landau",
+        "Matthew",
+        "Jamie",
+        "All of them, honestly.",
+        "Edward",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 38,
+        "Agree strongly": 22
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 27,
+        "Somewhat heavier": 38,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Sean Gruber",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 13,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Alvaro Belmont",
+        "Alvaro Belmonte",
+        "Alvaro Belmonte",
+        "Alvaro Belmonte",
+        "Alvaro",
+        "Lam",
+        "Alvaro Belmonte",
+        "Alvaro Belmonte",
+        "Alvaro Belmonte",
+        "Alvaro Belmonte",
+        "Alvaro Belmonte"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 13,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 10,
+        "Much heavier": 2
+    }
+}

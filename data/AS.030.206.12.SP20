@@ -1,0 +1,64 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Thomas Lectka",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Fan Fang",
+        "Stefan Harry",
+        "Muhammad Kasim",
+        "Arvin Gao",
+        "Stefan Harry",
+        "Stefan Harry",
+        "Stefan Harry",
+        "Stephen Harry",
+        "Harry",
+        "Stefan Andrew Harry",
+        "Stefan Harry",
+        "Boya Feng",
+        "Stefan Harry",
+        "Stefan Harry",
+        "Stefan harry",
+        "Fan Fang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 4,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 10,
+        "Somewhat heavier": 2,
+        "Much heavier": 3
+    }
+}

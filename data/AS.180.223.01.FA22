@@ -1,0 +1,60 @@
+{
+    "course_name": "Economic Development in Sub-Saharan Africa",
+    "instructor_name": "Hellen Seshie-Nasser",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Fangzhu Yang, Abena Otu-Adum",
+        "Abena",
+        "Fangzhu Yang and Abena Otu-Adum",
+        "Abena",
+        "I don't know - never interacted with them",
+        "Abena Otu-Adum",
+        "I dont remember",
+        "Abena",
+        "Fangzhu Yang",
+        "Abena Otu-Adum",
+        "Abena, someone else",
+        "Fang zhu Yang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 13,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

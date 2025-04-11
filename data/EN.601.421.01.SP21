@@ -1,0 +1,91 @@
+{
+    "course_name": "Object Oriented Software Engineering",
+    "instructor_name": "Ali Madooei",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 27,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 17,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 24,
+        "Excellent": 23
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 28
+    },
+    "ta_names": [
+        "Zach Zhou",
+        "Erika Hwang",
+        "Nick Xitco",
+        "Shriya",
+        "Erica Hwang",
+        "Nick",
+        "Shreyas Aiyar",
+        "Erica Huang",
+        "Nick Xitco",
+        "Shriya Kaneria",
+        "Yixin Pan",
+        "Yixin",
+        "Erica Hwang",
+        "Yixin Pan",
+        "Steven Tan",
+        "Zach Zhou",
+        "Shriya Kaneriya",
+        "Zach Zhou",
+        "Nanxi",
+        "Shriya Kaneriya!",
+        "Shriya Kaneriya",
+        "Shriya Kaneriya",
+        "Amrit",
+        "Shreyas",
+        "Nanxi Yang",
+        "Amrit Nidhi",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Shreyas Aiyar",
+        "Steven Tan",
+        "Yixin Pan",
+        "Steven Tan",
+        "Amrit Nidhi",
+        "Yixin Pan",
+        "Nanxi",
+        "Yixin Pan",
+        "Nanxi Ye",
+        "Nick Xitco",
+        "Steven Tan",
+        "Nick Xitco",
+        "Nick Xitco",
+        "Zach Zhou",
+        "Nanxi Ye",
+        "Zach Zhou"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 21,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 24,
+        "Much heavier": 19
+    }
+}

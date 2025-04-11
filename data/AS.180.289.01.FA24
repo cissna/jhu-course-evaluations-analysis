@@ -1,0 +1,63 @@
+{
+    "course_name": "Economics of Health",
+    "instructor_name": "Gatien De Broucker",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 13,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Adam",
+        "Adam Edwards",
+        "Adam Edwards",
+        "Adam Edwards",
+        "N/A",
+        "idk",
+        "No TA",
+        "Adam Edwards",
+        "N/A",
+        "Adam Edwards",
+        "Adam",
+        "Adam Edwards",
+        "Adam Edwards",
+        "Adam Edwards",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 22,
+        "Somewhat heavier": 5,
+        "Much heavier": 3
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "course_name": "Causal Inference",
+    "instructor_name": "Ilya Shpitser",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Jaron Lee",
+        "Jaron",
+        "Jaron Jia Rong Lee",
+        "Jaron Lee",
+        "Jaron Lee",
+        "Jaron Lee",
+        "jaron lee",
+        "Jaron Lee",
+        "Jaron",
+        "JARON LEE"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics for Physical Sciences Majors (AL)",
+    "instructor_name": "Morris Swartz",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "DaVont\u00e9 Lewis",
+        "Davonte, Ed",
+        "Dante",
+        "DaVonte Lewis",
+        "Jackson Davis",
+        "Tim Reid",
+        "Davante, but all of the TA in office hours were extremely helpful.",
+        "Andrew",
+        "Tim Reeder",
+        "DaVont\u00e9 Lewis",
+        "DaVonte Lewis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 4,
+        "Much heavier": 8
+    }
+}

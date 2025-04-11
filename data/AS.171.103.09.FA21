@@ -1,0 +1,64 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 7,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Grayson F.",
+        "Grayson",
+        "Grayson",
+        "grayson frazier",
+        "Grayson",
+        "Grayson Frazier",
+        "Grayson",
+        "Grayson",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Gracyn",
+        "Greyson Frazier",
+        "Grayson",
+        "Grayson Frazier",
+        "Grayson",
+        "Grayson Frazier"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 5,
+        "Much heavier": 14
+    }
+}

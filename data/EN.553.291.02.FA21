@@ -1,0 +1,63 @@
+{
+    "course_name": "Linear Algebra and Differential Equations",
+    "instructor_name": "Mario Micheli",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 13,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Ishan K.",
+        "Tuesday 3pm",
+        "Zeqing",
+        "Diane Lee",
+        "Ishan Kalburge",
+        "NA",
+        "Shreya Hariharakumar",
+        "Ishan Kalburge",
+        "Ishan Kalburge",
+        "Ishan Kalburge",
+        "Ishan Kalburge",
+        "Ishan Kalburge",
+        "Diane Lee",
+        "Ishan Kalburge",
+        "Ishan Kalburge"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 16,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 5,
+        "Much heavier": 17
+    }
+}

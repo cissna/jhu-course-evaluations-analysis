@@ -1,0 +1,54 @@
+{
+    "course_name": "Equity Markets and Quantitative Trading",
+    "instructor_name": "John Miller",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 30
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 33
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 23
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "John Miller",
+        "no",
+        "N/A",
+        "NA",
+        "N/A",
+        "There is no TA for this class."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 20,
+        "Somewhat heavier": 17,
+        "Much heavier": 4
+    }
+}

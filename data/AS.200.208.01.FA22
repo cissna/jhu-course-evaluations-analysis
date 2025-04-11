@@ -1,0 +1,75 @@
+{
+    "course_name": "Animal Behavior",
+    "instructor_name": "Kirsten Bohn",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 16,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 13,
+        "Excellent": 24
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 23
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 16,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Aditya Krishna",
+        "Ady",
+        "Adi",
+        "Aditya Krishna",
+        "Ari",
+        "Aditya Krishna",
+        "Aditya Krishna",
+        "Aditya Krishna",
+        "Adi",
+        "unsure",
+        "Aditya Krishna",
+        "Aditya Krishna",
+        "Aditya",
+        "Aditya Krishna",
+        "Aditya",
+        "Aditya Krishna",
+        "Adi",
+        "Aditya Krishna",
+        "Adi",
+        "Aditya Krishna",
+        "Aditya",
+        "Aditya",
+        "Adi",
+        "Aditya Krishna",
+        "Aditya Krishna",
+        "Aditya Krishna",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 19,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 12,
+        "Typical": 24,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

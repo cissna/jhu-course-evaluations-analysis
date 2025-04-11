@@ -1,0 +1,63 @@
+{
+    "course_name": "Nuclear Weapons and World Politics",
+    "instructor_name": "Daniel Deudney",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 17
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "valerie",
+        "Valerie De Koeijar",
+        "Valerie De Koeijer",
+        "Valerie",
+        "Valerie De Koeijer",
+        "Valerie de Koeijer",
+        "Valerie De Koeijer",
+        "Valerie De Koeijer",
+        "Valerie",
+        "Valerie",
+        "Valerie",
+        "Victoria",
+        "Valerie De Koeijer",
+        "Valerie",
+        "Valerie"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 8,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "course_name": "Macroeconomic Theory",
+    "instructor_name": "Ludmila Poliakova",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 13,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 11,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Julien",
+        "Julien",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien",
+        "Julien Acalin",
+        "Julien Acalien",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "Julien Acalin",
+        "julien acalin",
+        "Julien Acalin",
+        "Julien the french guy",
+        "Julian",
+        "Sinem",
+        "Julien Acalin",
+        "Julien, Kyung Woong Koh",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 12,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 14,
+        "Somewhat heavier": 12,
+        "Much heavier": 3
+    }
+}

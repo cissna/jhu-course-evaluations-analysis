@@ -1,0 +1,82 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "J D Tovar",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 12,
+        "Good": 13,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 10,
+        "Good": 10,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 27
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Ryann",
+        "Ryann",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryan",
+        "Ryann Kemmerling",
+        "ryann kemerling",
+        "Ryann Kimerling",
+        "Ryann Kimmerling",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryann",
+        "Ryann",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryann Kemerling",
+        "Ryann",
+        "Ryann",
+        "Ryann",
+        "Ryann",
+        "Ryann K.",
+        "Ryann K",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryann K.",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Ryann Kemerling",
+        "Ryann K",
+        "Ryann Kemmerling",
+        "Ryann Kemmerling",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 12,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 8,
+        "Somewhat heavier": 15,
+        "Much heavier": 5
+    }
+}

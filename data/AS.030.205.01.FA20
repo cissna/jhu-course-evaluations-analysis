@@ -1,0 +1,68 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Lawrence Principe",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Marnie Kotlyar",
+        "Yuki Osumi",
+        "Calvin Hong",
+        "Jasper Ballot",
+        "all",
+        "Eric Holt",
+        "Grant Hall",
+        "Yuki Osumi",
+        "Marissa Coschigano",
+        "Eric Holt",
+        "Shijun",
+        "Yuki",
+        "Jonathan Mahlum",
+        "Marissa Coscigano",
+        "Grant Hall",
+        "Kexin Yang",
+        "Calvin Hong",
+        "Calvin Hong",
+        "Grant Hall",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 6,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 3,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 4,
+        "Somewhat heavier": 10,
+        "Much heavier": 3
+    }
+}

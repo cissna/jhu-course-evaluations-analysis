@@ -1,0 +1,86 @@
+{
+    "course_name": "Machine Learning",
+    "instructor_name": "Mark Dredze",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 19,
+        "Excellent": 23
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 21,
+        "Excellent": 23
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 34
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 27
+    },
+    "ta_names": [
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "NA",
+        "Aditya",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan",
+        "Xuan Zhang",
+        "Xuan",
+        "Yuan",
+        "Xuan Zhang",
+        "Not sure",
+        "Xuan Zhang",
+        "wang",
+        "Xuan Zhang",
+        "Xuan",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Yuli Wang, Sophia Sklaviadis",
+        "Xuan",
+        "Xuan Zhang",
+        "Xuan",
+        "Aditya",
+        "Xuan Zhang",
+        "Xuan",
+        "all the TAs",
+        "Xuan Zhang",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 19,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 13,
+        "Somewhat heavier": 23,
+        "Much heavier": 17
+    }
+}

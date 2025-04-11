@@ -1,0 +1,61 @@
+{
+    "course_name": "Introductory Chemistry Laboratory II",
+    "instructor_name": "Jamie Young",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 25
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 28
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Kai Abiola",
+        "Kai Abiola",
+        "Kelsey Zhang",
+        "N/A",
+        "Kelsey",
+        "Kai Abiola",
+        "Kelsey Zhang",
+        "Kai",
+        "Kai Abiola",
+        "Kai Channel",
+        "Kelsey Zhang",
+        "Kelsey Zhang",
+        "Kelsey Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 10,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 26,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

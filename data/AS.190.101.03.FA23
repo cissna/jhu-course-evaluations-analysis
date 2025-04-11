@@ -1,0 +1,62 @@
+{
+    "course_name": "Introduction to American Politics",
+    "instructor_name": "Robert Lieberman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Kathleen Nganga",
+        "Kathy Nganga",
+        "Kathy",
+        "Kathy",
+        "Kathy",
+        "Kathy",
+        "Kathy",
+        "Kathy",
+        "Kathleen Nganga",
+        "Kathleen Nganga",
+        "Kathleen Nganga",
+        "Kathleen Nganga",
+        "Kathleen",
+        "Kathleen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 5,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 6,
+        "Typical": 5,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

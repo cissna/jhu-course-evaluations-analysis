@@ -1,0 +1,53 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Eli Kengmana",
+        "All",
+        "Ekroop Cheema",
+        "all",
+        "Students are not assigned a specific TA, however they are in charge of running the Thursday problem sessions. And from what I've seen they are generally pretty"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 4,
+        "Much heavier": 4
+    }
+}

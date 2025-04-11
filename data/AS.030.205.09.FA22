@@ -1,0 +1,69 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 17,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 6,
+        "Satisfactory": 17,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Eric Holt",
+        "Deborah Rodriguez",
+        "Eric Holt",
+        "All of them (main TA is Eric Holt, though)",
+        "No assigned TA",
+        "ERIC HOLT AND COMPANY",
+        "Eric",
+        "All",
+        "Eric Holt",
+        "eric",
+        "Eric",
+        "Eric Holt, Nathaniel Garrison",
+        "eric holt",
+        "Eric",
+        "Eric Holt",
+        "Eric Holt",
+        "Eric",
+        "Eric",
+        "N/A",
+        "Eric Holt",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 3,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 3,
+        "Typical": 6,
+        "Somewhat heavier": 7,
+        "Much heavier": 9
+    }
+}

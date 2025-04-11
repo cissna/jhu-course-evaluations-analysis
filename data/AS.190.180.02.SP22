@@ -1,0 +1,68 @@
+{
+    "course_name": "Introduction to Political Theory",
+    "instructor_name": "Jane Bennett",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Conor Bean",
+        "Connor",
+        "Conor Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Connor Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Coner Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Connor Bean",
+        "connor bean",
+        "Connor Bean",
+        "Conor Bean",
+        "Conor Bean",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 3,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

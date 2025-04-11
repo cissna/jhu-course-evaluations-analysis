@@ -1,0 +1,60 @@
+{
+    "course_name": "Cognitive Development",
+    "instructor_name": "Julia Yarmolinskaya",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Kwan Srijomkwan",
+        "Kwan",
+        "Kwan",
+        "Kwan",
+        "Kwan",
+        "Kwan Srijomkwan",
+        "Kwan",
+        "kwan",
+        "Kwan Srijomkwan",
+        "Kwan",
+        "Kwan Srijomkwan",
+        "Kwan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

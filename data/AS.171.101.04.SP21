@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Robert Leheny",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Tom",
+        "Tom Halloran",
+        "tom",
+        "Tom Halloran",
+        "Tom Halloran",
+        "Tom Halloran",
+        "Tom Halloran",
+        "tom holland",
+        "Tom Halloran",
+        "Tom Holloran",
+        "lei zeng",
+        "Tom Halloran",
+        "Tom Halloran",
+        "Tom Hollaran",
+        "Tom Halloran"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 9,
+        "Much heavier": 6
+    }
+}

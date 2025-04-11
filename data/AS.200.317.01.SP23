@@ -1,0 +1,47 @@
+{
+    "course_name": "Interpersonal Relations",
+    "instructor_name": "Steve Drigotas",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "ta_names": [],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 13,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

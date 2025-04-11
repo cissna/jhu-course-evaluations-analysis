@@ -1,0 +1,69 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Ben Stephens",
+        "Alessandra Bertacche",
+        "Yuzuka Karube",
+        "Anna Li",
+        "Anna Li",
+        "Yuzuka Karube",
+        "Anna Li",
+        "Benjamin Stephens",
+        "Benjamin Stephens",
+        "Manusha Gamage",
+        "Fan Fang",
+        "Fan Fang",
+        "Alessandra",
+        "Fan Fang",
+        "Alessandra Bertacche",
+        "Benjamin O Stephens",
+        "Yifei",
+        "Yuzuka Karube",
+        "Fan Fang",
+        "PILOT help was more helpful than any of the TAs",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 10,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 5,
+        "Somewhat heavier": 4,
+        "Much heavier": 7
+    }
+}

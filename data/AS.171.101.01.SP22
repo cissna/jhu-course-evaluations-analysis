@@ -1,0 +1,55 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Robert Leheny",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 1,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Kezi",
+        "Kezi Li",
+        "Kezi Li",
+        "Kezi Li",
+        "Kezi Li",
+        "Kezi Li, Ruoxi Wang, Zhenisbek Tagay",
+        "Kezie and his team."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 1,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 5,
+        "Much heavier": 4
+    }
+}

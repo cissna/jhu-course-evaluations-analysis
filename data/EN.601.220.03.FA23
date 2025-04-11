@@ -1,0 +1,68 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "Ali Darvish",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 11,
+        "Good": 14,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 12,
+        "Good": 10,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 20
+    },
+    "ta_names": [
+        "Edmund",
+        "Edwin",
+        "EDMUND",
+        "Edmund Sumpena",
+        "Edmund",
+        "Chloe Donelan",
+        "Edmund",
+        "Chloe Donelan",
+        "Edmund Sumpena, Oriel Savir, Sofia Floody",
+        "Edmund",
+        "Yongjae Lee",
+        "Edmund, Oriel",
+        "Edmund",
+        "Edmund",
+        "Evan",
+        "Edmund",
+        "Edmund",
+        "Edwin",
+        "Edmund Sumpena and Oriel Savir",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 19,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 19,
+        "Much heavier": 9
+    }
+}

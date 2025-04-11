@@ -1,0 +1,57 @@
+{
+    "course_name": "Linear Algebra and Differential Equations",
+    "instructor_name": "Mario Micheli",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Astrid",
+        "all of them",
+        "Astrid",
+        "astrid",
+        "Astrid Jiang",
+        "Shivam, Hope, Vara",
+        "Astrid Jiang",
+        "Multiple.",
+        "Iris Kwon"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 12,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 6,
+        "Much heavier": 13
+    }
+}

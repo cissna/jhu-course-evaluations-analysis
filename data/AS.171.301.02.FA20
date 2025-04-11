@@ -1,0 +1,53 @@
+{
+    "course_name": "Electromagnetic Theory II",
+    "instructor_name": "Collin Broholm",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Yi Luo",
+        "Yi Luo",
+        "Yi Luo",
+        "Yi Luo",
+        "Yi Luo"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 2,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

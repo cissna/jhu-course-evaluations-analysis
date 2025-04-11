@@ -1,0 +1,55 @@
+{
+    "course_name": "Global Security Politics",
+    "instructor_name": "Daniel Deudney",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 1,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Michael Albert",
+        "Michael Albert",
+        "Michael Albert",
+        "Michael",
+        "Michael Albert",
+        "Michael",
+        "Michael Albert"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 1,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

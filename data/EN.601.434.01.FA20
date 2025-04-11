@@ -1,0 +1,60 @@
+{
+    "course_name": "Randomized and Big Data Algorithms",
+    "instructor_name": "Vladimir Braverman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Xuan Wu",
+        "Xuan Wu",
+        "Xuan Wu",
+        "X. Wu",
+        "All staff",
+        "Xuan Wu",
+        "Xuan Xu",
+        "Xuan Wu",
+        "Xuan Wu",
+        "Xuan Wu",
+        "Xuan Wu",
+        "Xuan Wu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 3,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 14,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

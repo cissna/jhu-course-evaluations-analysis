@@ -1,0 +1,64 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Sean Gruber",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Zari",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zhang",
+        "Zehong Zhang",
+        "Zheng Zhong",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zheong Zang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Na"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 12,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 14,
+        "Somewhat heavier": 5,
+        "Much heavier": 3
+    }
+}

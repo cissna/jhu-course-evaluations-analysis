@@ -1,0 +1,70 @@
+{
+    "course_name": "Diseases & Disorders of the Nervous System",
+    "instructor_name": "Dani Smith",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 15,
+        "Excellent": 38
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 38
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 13,
+        "Excellent": 40
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "n/a",
+        "Ikshu Pandley, Daniel Capuzzi",
+        "Ikshu",
+        "Ikshu Pandey",
+        "N/A",
+        "Ikshu Pandey",
+        "Ikshu",
+        "I don't know their names",
+        "Daniel",
+        "Ikshu",
+        "Rajaa",
+        "all of them",
+        "Ikshu",
+        "I have no remarkable comments for any of the specific TAs. They were helpful at OH + with reviews.",
+        "N/A",
+        "there were 5 idk",
+        "All of them!",
+        "Ikshu",
+        "None",
+        "Ikshu Pandey, Daniel Capuzzi",
+        "Rajaa Alhamd, Daniel Capuzzi, Isha Patel, Ikshu Pandy",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 13,
+        "Agree somewhat": 18,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 10,
+        "Typical": 20,
+        "Somewhat heavier": 18,
+        "Much heavier": 5
+    }
+}

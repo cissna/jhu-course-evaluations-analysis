@@ -1,0 +1,64 @@
+{
+    "course_name": "Neuroscience Laboratory",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "CASEY!!!!",
+        "casey and kavya",
+        "Casey and Kaavya",
+        "Casey",
+        "Kavya and Casey",
+        "Kavya Velliangiri",
+        "Kavya, Casey",
+        "Casey Brody",
+        "Casey Brody and Kavya Velliangiri",
+        "Kavya & Casey",
+        "Casey Brody, Kavya Velliangiri",
+        "Kavya and Casey",
+        "Kavya & Casey",
+        "Casey, respectfully, was never able to answer any of my anatomy questions. I understand that sometimes we may forget things, but Casey could never answer a",
+        "Kavya Velliangiri; Casey Brody",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 10,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

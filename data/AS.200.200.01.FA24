@@ -1,0 +1,63 @@
+{
+    "course_name": "Research Methods in Psychology",
+    "instructor_name": "Dylan Selterman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Aneesh Bal",
+        "Aneesh Bal",
+        "Aneesh",
+        "Aneesh Bal",
+        "Aneesh",
+        "Aneesh Bal",
+        "Aneesh",
+        "dont remember their name",
+        "Aneesh",
+        "Aneesh",
+        "Aneesh Bal",
+        "Annesh Bal",
+        "Aneesh Bal",
+        "Aneesh Bal",
+        "Gabbi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 12,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

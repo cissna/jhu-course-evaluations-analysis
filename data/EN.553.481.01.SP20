@@ -1,0 +1,52 @@
+{
+    "course_name": "Numerical Analysis",
+    "instructor_name": "Mario Micheli",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Ke Chen",
+        "Shiqing Sun",
+        "I did not really utilize the TAs",
+        "Ke Chen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 5,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 8,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

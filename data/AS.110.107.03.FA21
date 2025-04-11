@@ -1,0 +1,62 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Alexander Mramor",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 6,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "anthony",
+        "Anthony Agwu",
+        "Anthony",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "N/A",
+        "Andrew"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 6,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 3,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

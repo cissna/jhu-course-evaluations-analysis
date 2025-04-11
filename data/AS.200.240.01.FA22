@@ -1,0 +1,78 @@
+{
+    "course_name": "Industrial and Organizational Psychology",
+    "instructor_name": "Heather Roberts Fox",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 17,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 10,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 14,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 14,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jerema",
+        "I don't know",
+        "I don't even know.",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Anne",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Anne",
+        "Ann Jared",
+        "Ann Jarema",
+        "ann",
+        "Ann",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jerema",
+        "Ann Jarema",
+        "N/A",
+        "anne",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 14,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 7,
+        "Typical": 27,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

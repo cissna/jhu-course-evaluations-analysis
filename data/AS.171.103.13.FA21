@@ -1,0 +1,72 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 10,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Yukei Murakami",
+        "n/a",
+        "Yukei Murakami",
+        "Yukei",
+        "Yukei",
+        "Yukei Murakami",
+        "Yukei",
+        "Yukei",
+        "Yukei Murakami",
+        "Yukei Murakami",
+        "Yukei Murakami",
+        "Yukei",
+        "Yukei Murakami",
+        "Will Liang",
+        "Yukei Murakami",
+        "David Barbalas",
+        "Yukei",
+        "Yukhei Murakami",
+        "Yukei",
+        "Yukei Murakami",
+        "Yukei Murakami",
+        "Yukei",
+        "Yukei",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 14,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 4,
+        "Somewhat heavier": 7,
+        "Much heavier": 13
+    }
+}

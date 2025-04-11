@@ -1,0 +1,74 @@
+{
+    "course_name": "Machine Learning: Deep Learning",
+    "instructor_name": "Silvio Amir Moreira",
+    "overall_quality_frequency": {
+        "Poor": 6,
+        "Weak": 18,
+        "Satisfactory": 16,
+        "Good": 15,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 7,
+        "Weak": 13,
+        "Satisfactory": 22,
+        "Good": 13,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 18,
+        "Good": 26,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 7,
+        "Satisfactory": 10,
+        "Good": 21,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Darius",
+        "Keshuai Xu",
+        "Keshuai Xu",
+        "Keshuai",
+        "Keshuai Xu",
+        "Shijie Wu, Keshuai Xu",
+        "Shijie Wu",
+        "Keshuai",
+        "ALL",
+        "Keshuai",
+        "Shijie Wu",
+        "All of them.",
+        "Shijie Wu",
+        "Keshuai",
+        "Keshuai Xu",
+        "Don't remember names",
+        "All of them",
+        "Shijie Wu",
+        "Keshuai Xu, Shijie Wu",
+        "Keshuai",
+        "Shijie Wu",
+        "Shijie Wu, Keshuai Xu, Shereya Chakraborty",
+        "Keshuai Xu; Shijie Wu; Shreya Chakraborty",
+        "Lezhou Feng",
+        "Shijie Wu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 12,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 20,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 7,
+        "Typical": 35,
+        "Somewhat heavier": 18,
+        "Much heavier": 3
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Lucas Kang",
+        "Lucas",
+        "Lucas",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "david barbalas",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas, Youzhe, Brian, Andrew, Justin, Wesley, Gene, Justin",
+        "Lucas Kang",
+        "Lucas Kang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 7,
+        "Much heavier": 9
+    }
+}

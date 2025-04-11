@@ -1,0 +1,76 @@
+{
+    "course_name": "Data Structures",
+    "instructor_name": "Ali Madooei",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 21,
+        "Excellent": 43
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 52
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 21,
+        "Excellent": 41
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "all of them",
+        "no one in particular",
+        "James",
+        "N/A",
+        "Don't have a specific TA",
+        "Justin Zhao",
+        "All TAs",
+        "Chris",
+        "Kayla Laufer",
+        "All the TAs",
+        "many TAs",
+        "Camden Schultz",
+        "Kayla Laufer",
+        "all the TAs for Data Structures",
+        "I didn't realize we had a specific TA, but they were all generally great.",
+        "All of the CAs",
+        "N/A",
+        "All of them!",
+        "N/A",
+        "Kyuhee",
+        "Arpan Sahoo",
+        "All",
+        "James Wang",
+        "Will and Kayla",
+        "NA",
+        "Camden schultz",
+        "Justin Nam",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 36,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 15,
+        "Somewhat heavier": 34,
+        "Much heavier": 19
+    }
+}

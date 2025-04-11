@@ -1,0 +1,64 @@
+{
+    "course_name": "Quantum Mechanics II",
+    "instructor_name": "Yi Li",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

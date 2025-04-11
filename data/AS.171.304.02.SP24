@@ -1,0 +1,62 @@
+{
+    "course_name": "Quantum Mechanics II",
+    "instructor_name": "Surjeet Rajendran",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 5,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 4,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Nicolas Speeney",
+        "Nicholas Speeney",
+        "Nick Speeney",
+        "Nick",
+        "Nick Speeney",
+        "Nick Speeney",
+        "Nicholas Speeney",
+        "Nicholas Speeney",
+        "Nicholas Speeny",
+        "Nicholas Speeney",
+        "Nick Speeney",
+        "Nicholas Speeney",
+        "nick speeney",
+        "Nicholas Speeney"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 6,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

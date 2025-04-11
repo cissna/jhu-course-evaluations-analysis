@@ -1,0 +1,52 @@
+{
+    "course_name": "The Ethics of Artificial Intelligence and Automation",
+    "instructor_name": "Monica Lopez-Gonzalez",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "N/A",
+        "Josh Curtis",
+        "Josh Curtis",
+        "Josh Curtis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 4,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 3,
+        "Typical": 9,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

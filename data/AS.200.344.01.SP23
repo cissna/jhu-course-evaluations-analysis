@@ -1,0 +1,87 @@
+{
+    "course_name": "Behavioral Endocrinology",
+    "instructor_name": "Kirsten Bohn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 19,
+        "Excellent": 43
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 50
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 24,
+        "Excellent": 41
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 31
+    },
+    "ta_names": [
+        "Adhit",
+        "Stefano Montalvo",
+        "Stefano Montalvo and Aditya Krishna",
+        "Aditya",
+        "Adi and Stefano",
+        "Aditya Krishna, Omar Montalvo",
+        "Adi",
+        "Adi",
+        "Stefano",
+        "Adi, Stefano",
+        "Stefano, Adithya",
+        "Aditya Krishna",
+        "Both TA's",
+        "Stefon",
+        "Aditya",
+        "Aditya Krishna and Stefano Montalvo",
+        "Aditya Krishna",
+        "Stefano",
+        "Stefano Montalvo",
+        "Stefano Montalvo",
+        "Stefano Montalvo",
+        "Stefano",
+        "Aditya Krishna, Stefano Montalvo",
+        "Aditya Krishna",
+        "Aditya Krishna and Stefano Montalvo",
+        "-",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Aditya Krishna",
+        "Aditya Krishna",
+        "Aditya Krishnan",
+        "Omar Molatavo",
+        "Aditya Krishna, Omar Montalvo",
+        "Aditya Kumar",
+        "Omar Montalvo",
+        "Aditya Krishna and Stefano Montalvo",
+        "na",
+        "Aditya Krishna and Stefano Montalvo",
+        "Aditya Krishna; Omar Montalvo",
+        "Aditya Krishna and Stefano Montalvo"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 28,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 52,
+        "Somewhat heavier": 10,
+        "Much heavier": 0
+    }
+}

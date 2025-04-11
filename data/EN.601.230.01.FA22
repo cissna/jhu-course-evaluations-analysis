@@ -1,0 +1,56 @@
+{
+    "course_name": "Mathematical Foundations for Computer Science",
+    "instructor_name": "Sara More",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Farnaz Yousefi",
+        "Farnaz",
+        "FARNAZ YOUSEFI",
+        "Farnaz",
+        "Farnaz",
+        "Faurez",
+        "Farnaz",
+        "I don't remember her name tbh"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 11,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

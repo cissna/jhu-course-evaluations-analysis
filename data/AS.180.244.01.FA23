@@ -1,0 +1,58 @@
+{
+    "course_name": "Market Design",
+    "instructor_name": "Marcelo Ariel Fernandez",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Huan Deng",
+        "Huan Deng",
+        "Huan Deng",
+        "N/A",
+        "Huan",
+        "Huan Deng",
+        "Huan Deng",
+        "Hua Deng",
+        "Huan Deng",
+        "Huan Deng"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 18,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

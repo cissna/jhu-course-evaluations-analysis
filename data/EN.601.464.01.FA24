@@ -1,0 +1,80 @@
+{
+    "course_name": "Artificial Intelligence",
+    "instructor_name": "Musad Haque",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 9,
+        "Satisfactory": 23,
+        "Good": 32,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 6,
+        "Satisfactory": 14,
+        "Good": 36,
+        "Excellent": 27
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 4,
+        "Weak": 1,
+        "Satisfactory": 25,
+        "Good": 39,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 18,
+        "Weak": 9,
+        "Satisfactory": 14,
+        "Good": 15,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Michael Kim",
+        "Chelsea Wang",
+        "All of the TAs",
+        "Laila Paredes Jaicaman",
+        "all of them",
+        "Every TA",
+        "NA",
+        "Chelsea Wang, Arjun Chavan",
+        "Most TA's",
+        "Michael Kim",
+        "Wui Wang Lui",
+        "Chelsea Wang",
+        "N/A",
+        "Chelsea Wang",
+        "All",
+        "I attended 4 OH throughout the semester and the TA's were not present for a single one. When i posted on piazza if the OH were still happening (and emailed the",
+        "Michael",
+        "Chelsea Wang",
+        "Most of them; they were not in sync with professors policies, barely answered on Piazza, and sometimes weren\u2019t even there in office hours",
+        "Every single TA was terrible at responding on Piazza and grading assignments.",
+        "Chelsea Wang",
+        "All of them.",
+        "Wui (Eddie) Wang Lui",
+        "No idea of which is responsible for specific homework grading, but there are frequent grading errors, and the regrade process is difficult",
+        "Wui Wang Lui",
+        "Chelsea Wang",
+        "Michael Kim",
+        "Multiple TAs that did not show up for office hours and did not provide explanations or delay notifications. TAs not responding to emails.",
+        "ALL",
+        "Aidan Alme",
+        "Michael Kim",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 15,
+        "Disagree somewhat": 15,
+        "Neither agree nor disagree": 19,
+        "Agree somewhat": 19,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 12,
+        "Typical": 63,
+        "Somewhat heavier": 6,
+        "Much heavier": 3
+    }
+}

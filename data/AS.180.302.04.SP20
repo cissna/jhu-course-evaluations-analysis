@@ -1,0 +1,64 @@
+{
+    "course_name": "Macroeconomic Theory",
+    "instructor_name": "Ludmila Poliakova",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Pablo",
+        "Pablo",
+        "Pablo Hernando-Kaminsky",
+        "Pablo",
+        "Pablo Hernando-Kaminsky",
+        "Pablo",
+        "Pablo Hernandez",
+        "Pablo",
+        "Pablo",
+        "Pablo",
+        "Pablo Hernando-Kaminsky",
+        "Pablo Hernando-Kaminsky",
+        "Pablo",
+        "Pablo Hernandez-Kaminsky",
+        "Pablo",
+        "Pablo Hernando-Kaminsky"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 11,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 14,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

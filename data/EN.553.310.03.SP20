@@ -1,0 +1,66 @@
+{
+    "course_name": "Probability & Statistics for the Physical and Information Sciences & Engineering",
+    "instructor_name": "Fred Torcaso",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Elizabeth",
+        "Elizabeth Helmke",
+        "Ellen Wang",
+        "Elizabeth Helmke",
+        "Amy VanEe",
+        "Elizabeth Helmke",
+        "Amy Van Ee",
+        "Elizabeth Helmke",
+        "Elizabeth Helmke",
+        "Elizabeth",
+        "Amy",
+        "Amanda Li",
+        "Vani Kumar",
+        "Elizabeth Helmke",
+        "Elizabeth",
+        "Elizabeth Helmke",
+        "Elizabeth",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 11,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 17,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

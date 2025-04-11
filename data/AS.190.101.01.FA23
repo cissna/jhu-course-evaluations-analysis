@@ -1,0 +1,61 @@
+{
+    "course_name": "Introduction to American Politics",
+    "instructor_name": "Robert Lieberman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 1,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Lynsy Smithson-Stanley",
+        "Lynsy",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsey Smith Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy",
+        "Lynsy Smithson-Stanley",
+        "Lindsey Stanley-Smith",
+        "Lynsy",
+        "Lindsay Smithson-Stanley",
+        "Lindsey",
+        "Lynsy Smithson-Stanley"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

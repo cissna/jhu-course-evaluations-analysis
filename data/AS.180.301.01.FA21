@@ -1,0 +1,67 @@
+{
+    "course_name": "Microeconomic Theory",
+    "instructor_name": "Edi Karni",
+    "overall_quality_frequency": {
+        "Poor": 7,
+        "Weak": 5,
+        "Satisfactory": 11,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 9,
+        "Weak": 7,
+        "Satisfactory": 10,
+        "Good": 3,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 12,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 4,
+        "Weak": 4,
+        "Satisfactory": 9,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Eric",
+        "Yen-Lin Chiu",
+        "Eric",
+        "Yen-lin chiu",
+        "Eric Chiu",
+        "Yen-Lin Chiu",
+        "Yen-Lin Chiu",
+        "Yen-Liu Chiu",
+        "Yen-lin Chiu",
+        "Yen-Lin Chiu",
+        "Eric",
+        "Yen-Lin Chiu",
+        "Yen-Lin Chiu",
+        "Zheng",
+        "Eric Chu",
+        "Eric Chiu",
+        "Eric",
+        "Eric Chiu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 10,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 11,
+        "Agree somewhat": 4,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 7,
+        "Typical": 17,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

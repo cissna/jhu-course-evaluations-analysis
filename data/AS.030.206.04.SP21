@@ -1,0 +1,70 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Marnie Kotlyar",
+        "Marnie Kotlyar",
+        "Alessandra Bertacche",
+        "Yuzuka Karube",
+        "Nicholas Adams",
+        "Marissa Coschigno",
+        "Marnie K.",
+        "Marissa Coshigano",
+        "Alessandra",
+        "yuki",
+        "Marissa Coschigano",
+        "Nicholas Adams",
+        "Nicholas Peter Adams",
+        "Juan Sanfiel (he's not a TA, but whatever he does an amazing job as a PILOT leader & want to give him a shoutout)",
+        "Ewa Harazinska",
+        "Marnie Kotlyar",
+        "Ewa Harazinska",
+        "shijun gao",
+        "Marissa Coschigano",
+        "Alessandra Bertacche",
+        "Marissa",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 11,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 8,
+        "Much heavier": 6
+    }
+}

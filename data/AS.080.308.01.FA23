@@ -1,0 +1,89 @@
+{
+    "course_name": "Neuroeconomics",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 44
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 13,
+        "Excellent": 46
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 21,
+        "Excellent": 36
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 36
+    },
+    "ta_names": [
+        "Reef Ide",
+        "Reef Ide",
+        "Valeria and Reef",
+        "Reef Ide",
+        "Reef, Valeria",
+        "Reef Ide",
+        "Reef Ide",
+        "Reef",
+        "Reef Ide",
+        "Reef & Valeria",
+        "Reef Ide",
+        "Valeria",
+        "Reef Ide",
+        "Reef Ide",
+        "Valeria Leal Serna, Reef Ide",
+        "Reef and Valeria",
+        "Reef Ide",
+        "Both",
+        "Reef Ida",
+        "Reef Ide",
+        "Reef, Valeria",
+        "Reef and Valeria",
+        "Reed and Valerie",
+        "Valeria Leal",
+        "Valeria",
+        "Valeria/ Reef",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Reef, Valeria",
+        "Reef Ide",
+        "Valeria, Reef",
+        "Valerie",
+        "Reef Ide",
+        "Reed Ife",
+        "Reef Ide, Valeria Leal",
+        "Reef Ide",
+        "Valeria, Reef",
+        "Reef Ide",
+        "Valeria Leal Serna, Reef Ide",
+        "Reef Ide",
+        "Valeria and Reef",
+        "students"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 24,
+        "Agree strongly": 26
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 11,
+        "Typical": 40,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

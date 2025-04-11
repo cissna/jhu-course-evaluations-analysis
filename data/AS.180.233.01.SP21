@@ -1,0 +1,49 @@
+{
+    "course_name": "Economics of Transition and Institutional Change",
+    "instructor_name": "Ludmila Poliakova",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Pavel Solis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 4,
+        "Typical": 6,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

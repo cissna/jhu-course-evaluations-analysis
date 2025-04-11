@@ -1,0 +1,62 @@
+{
+    "course_name": "Social Policy Implications of Behavioral Economics",
+    "instructor_name": "Nicholas Papageorge",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Emma Kalish",
+        "Emma",
+        "Emma",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish",
+        "Emma Kalish"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

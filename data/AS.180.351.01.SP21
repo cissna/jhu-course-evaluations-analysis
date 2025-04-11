@@ -1,0 +1,54 @@
+{
+    "course_name": "Labor Economics",
+    "instructor_name": "Muhammad Husain",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Don't remember",
+        "Raul Betancourt",
+        "Jiwon Kim",
+        "n/a",
+        "Unsure",
+        "Raul Betancourt Martinez"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 9,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 15,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

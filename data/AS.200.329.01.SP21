@@ -1,0 +1,57 @@
+{
+    "course_name": "Real World Human Data: Analysis & Visualization",
+    "instructor_name": "Janice Chen",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Yunfei Liu",
+        "Yun-Fei Liu",
+        "I forgot...",
+        "Yun-Fei",
+        "Yun Fei Liu",
+        "Yun Fei",
+        "Yunfei Li",
+        "Yun-Fei Liu",
+        "Yun-Fei"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 2,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

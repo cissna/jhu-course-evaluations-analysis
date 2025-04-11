@@ -1,0 +1,64 @@
+{
+    "course_name": "Advanced Seminar in Forensic Psychology",
+    "instructor_name": "Chelsea Howe",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "ann jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jerema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jerema"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Rishi Bhandia",
+        "Rishi Bhandia",
+        "Rishi Bhandia",
+        "Rishi Bhandia",
+        "Rishi Bhandia",
+        "All of them",
+        "Rishi Bhandia",
+        "Grayson Frasier",
+        "Rishi Bhandia",
+        "Rishi Bhandia",
+        "Annie Zhao",
+        "Rishi",
+        "Rishi Bhandia",
+        "Rishi",
+        "Rishi Bhandia",
+        "Rishi Bhandia"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 8,
+        "Much heavier": 9
+    }
+}

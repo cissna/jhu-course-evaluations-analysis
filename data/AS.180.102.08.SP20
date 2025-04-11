@@ -1,0 +1,61 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Bruce Hamilton",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao",
+        "Tao Wang",
+        "Tao wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 5,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 3,
+        "Typical": 7,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

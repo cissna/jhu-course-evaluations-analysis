@@ -1,0 +1,59 @@
+{
+    "course_name": "Introduction to Data Science",
+    "instructor_name": "Soledad Villar",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 8,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 10,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 15,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Eric Kim",
+        "Eric Kim",
+        "overall",
+        "Eric Kim",
+        "Eric",
+        "Josiah Lim",
+        "Josiah",
+        "Tongchen Zhu",
+        "William Shiber",
+        "Eric Kim",
+        "?"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 11,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 8,
+        "Typical": 12,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Peter Hu",
+        "Peter",
+        "Peter Hu",
+        "Anisha",
+        "Peter",
+        "Peter Hu",
+        "Peter Hu",
+        "Michael",
+        "don't remember",
+        "All of the TAs were helpful during my Section",
+        "Peter"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 6,
+        "Much heavier": 8
+    }
+}

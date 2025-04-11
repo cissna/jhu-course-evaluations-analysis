@@ -1,0 +1,61 @@
+{
+    "course_name": "Macroeconomic Strategies",
+    "instructor_name": "Robert Barbera",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Pavel Solis",
+        "Pavel Solis",
+        "Pavel",
+        "Pavel Solis",
+        "Pavel",
+        "Pavel Solis",
+        "Pavel",
+        "N/A",
+        "n/a",
+        "Pavel Solis",
+        "Pavel Solid",
+        "Pavel Solis",
+        "Pavel Solis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 7,
+        "Typical": 12,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "course_name": "U.S. Foreign Policy",
+    "instructor_name": "Sebastian Schmidt",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Colin Lahiff",
+        "Colin Lahiff",
+        "Colin Lahiff",
+        "Colin",
+        "Colin",
+        "Colin Lahiff",
+        "Colin",
+        "Colin Lahiff",
+        "Colin Lahiff",
+        "Colin Lahif",
+        "Colin Lahiff",
+        "Colin"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 7,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Fan Huang",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 0,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "I don't know",
+        "Prisha",
+        "i cannot for the life of me remember my ta's name but she was pretty great",
+        "Prisha Jhala",
+        "Xuanto Chen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 3,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Olivier Nsengiyumva",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 28
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 31
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 28
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 15,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Nick",
+        "a",
+        "Don't Know Their Names",
+        "Nick, Jordan, Tony",
+        "All",
+        "Jordan, Daniel, Tony, and Joe",
+        "Antonin Knirsch",
+        "Jordan lamar",
+        "Daniel Liu and Keven Luciano",
+        "n/a",
+        "all of them",
+        "Jordan",
+        "Nicholas Fromel",
+        "Justin",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 21,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 4,
+        "Typical": 12,
+        "Somewhat heavier": 16,
+        "Much heavier": 5
+    }
+}

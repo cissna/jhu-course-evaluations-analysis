@@ -1,0 +1,76 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Liming Sun",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 15,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 25
+    },
+    "ta_names": [
+        "Julia",
+        "Julia Costacurta",
+        "Julia C",
+        "Julia",
+        "Julia",
+        "Julia Costacurta",
+        "Julia Costacurta",
+        "Julia Costacurta",
+        "Julia",
+        "Julia Costcura",
+        "Julia Costacurta",
+        "julia costacurta",
+        "Julia Costacurta",
+        "Section 8",
+        "Julia Costacurta",
+        "Julia Costacurta",
+        "Julia Costacurta",
+        "Julia C",
+        "Julia",
+        "Julia",
+        "Julia Costacurta",
+        "Julia Costacurta",
+        "Julia Costacurta",
+        "Julia CostaCurta",
+        "Julia",
+        "julia",
+        "Julia Costacurta",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 13,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 17,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

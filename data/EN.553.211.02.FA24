@@ -1,0 +1,63 @@
+{
+    "course_name": "Probability and Statistics for the Life Sciences",
+    "instructor_name": "Runbing Zheng",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 16,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Alisa Leong",
+        "Alisa",
+        "Alisa Leong",
+        "Alisa Leong",
+        "Alisa Leong",
+        "Saanvi Sudhir",
+        "Alisa Leong",
+        "Alisa Leong",
+        "Allisa Leong",
+        "Alisa",
+        "alisa",
+        "Alissa",
+        "Alisa",
+        "Ira Chaturvedi",
+        "Jennifer He"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 11,
+        "Somewhat heavier": 7,
+        "Much heavier": 3
+    }
+}

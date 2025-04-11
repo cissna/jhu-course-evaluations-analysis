@@ -1,0 +1,62 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Yuchin Sun",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "N/A",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Tuesday TA",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 4,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 14,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

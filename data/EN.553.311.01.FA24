@@ -1,0 +1,61 @@
+{
+    "course_name": "Intermediate Probability and Statistics",
+    "instructor_name": "Josue Tonelli Cueto",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 5,
+        "Satisfactory": 6,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Sehee Park",
+        "Aarushi Pant",
+        "Seehee",
+        "Aadit, Natasha",
+        "Grace Liu",
+        "Sehee Park",
+        "Natasha; Aadit; Sreyas",
+        "Tuesday 9am (I forgot her name) (Side note, Natasha wasn't my TA but had the most helpful office hours)",
+        "Sehee Park",
+        "Seehee",
+        "Sehee Park",
+        "Seehee",
+        "Aarushi Pant"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 2,
+        "Much heavier": 5
+    }
+}

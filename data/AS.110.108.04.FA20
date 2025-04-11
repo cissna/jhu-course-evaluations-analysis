@@ -1,0 +1,64 @@
+{
+    "course_name": "Calculus I (Physical Sciences & Engineering)",
+    "instructor_name": "Christian Kuemmerle",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Elham Mantipour",
+        "Elham Matinpour",
+        "I do not now any of the TAs well enough to comment",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Matinpour",
+        "Elham Mantinpour",
+        "Elham Matinpour",
+        "Elham Matinpour"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

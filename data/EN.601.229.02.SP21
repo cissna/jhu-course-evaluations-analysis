@@ -1,0 +1,76 @@
+{
+    "course_name": "Computer System Fundamentals",
+    "instructor_name": "David Hovemeyer",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 21,
+        "Excellent": 32
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 13,
+        "Excellent": 42
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 18,
+        "Excellent": 36
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "Ryan Rubel",
+        "Max Hahn",
+        "Max",
+        "All TAs for this course are helpful.",
+        "Sabrina Li and Simon Alleca",
+        "Max Hahn",
+        "Max Hahn",
+        "Max Hahn",
+        "Max Hahn",
+        "Ryan Rubel",
+        "All of them! Max Hahn especially",
+        "Max Hahn, Rebecca, Ryan",
+        "Sabrina Li",
+        "I evaluated the combined efforts of the many, many CAs in this course.",
+        "All of them, on average?",
+        "Rebecca Yu",
+        "Sabrina, Max",
+        "Sabrina Lui",
+        "Max Hahn",
+        "Rebecca Yu",
+        "Max Hahn",
+        "N/A",
+        "Max Hahn",
+        "Ryan Rubel",
+        "Gary",
+        "All.",
+        "David",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 28,
+        "Agree strongly": 22
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 27,
+        "Much heavier": 18
+    }
+}

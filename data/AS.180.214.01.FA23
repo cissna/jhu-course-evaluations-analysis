@@ -1,0 +1,77 @@
+{
+    "course_name": "The Economic Experience of the BRIC Countries",
+    "instructor_name": "Somasree Dasgupta",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 19,
+        "Excellent": 29
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 14,
+        "Excellent": 33
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 19,
+        "Excellent": 22
+    },
+    "ta_frequency": {
+        "Poor": 4,
+        "Weak": 3,
+        "Satisfactory": 14,
+        "Good": 16,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Silin",
+        "Silin Huang, Avnika Dubey, Jacob Paikin, Chris Xiao",
+        "Silin Huang",
+        "Silin Huang",
+        "Jacob Paikan",
+        "Jacob Paikin",
+        "Silin, Chris Yao",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Jacob Paikin",
+        "Chris",
+        "Silin Huang",
+        "Silin Huang",
+        "Chris",
+        "Silin",
+        "Silin Huang",
+        "Chris Xiao",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin",
+        "Silin Huang",
+        "Silin, Chris, Avnika, Jacob",
+        "Silin, Christopher Xiao",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 25,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 9,
+        "Typical": 28,
+        "Somewhat heavier": 11,
+        "Much heavier": 6
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "Computer Science Innovation & Entrepreneurship II",
+    "instructor_name": "Lawrence Aronhime",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Ricardo",
+        "Ricardo",
+        "Ricardo",
+        "Ricardo (Manuel) Morales Gonzalez",
+        "Ricardo",
+        "Ricardo",
+        "Ricardo Morales Gonzalez",
+        "Riccardo Gonzalez",
+        "Ricardo",
+        "Ricardo",
+        "Ricardo Morales Gonzalez"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

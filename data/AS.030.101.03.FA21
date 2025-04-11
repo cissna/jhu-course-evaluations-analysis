@@ -1,0 +1,70 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Joel Tolman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 13,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runhai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Runlai wang",
+        "Brett O'Brian",
+        "Ruilang wang",
+        "Runlai",
+        "Runlai Wang",
+        "Runlai Wang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 14,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

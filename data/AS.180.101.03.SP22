@@ -1,0 +1,68 @@
+{
+    "course_name": "Elements of Macroeconomics",
+    "instructor_name": "Hellen Seshie-nasser",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 9,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 5,
+        "Satisfactory": 9,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Mateo Velasquez Giraldo",
+        "Mateo",
+        "Mateo",
+        "Mateo",
+        "Matteo",
+        "Mateo Valasquez-Giraldo",
+        "Mateo Velasquez",
+        "Mateo Velasquez-Geraldo",
+        "Mateo",
+        "Mateo",
+        "Mateo Velasquez-Giraldo",
+        "Mateo",
+        "Mateo",
+        "Mateo Vasquez Geraldo",
+        "Mateo Velasquez-Giraldo",
+        "Mateo",
+        "Mateo",
+        "Mateo",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "nasser"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 3,
+        "Typical": 11,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

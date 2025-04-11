@@ -1,0 +1,76 @@
+{
+    "course_name": "What You Need to Know About Chinese Politics (Part 1)",
+    "instructor_name": "Andrew Mertha",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 24
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 25
+    },
+    "ta_names": [
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia",
+        "Felica",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jiang",
+        "Felicia",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Felicia Jing",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 13,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 14,
+        "Much heavier": 2
+    }
+}

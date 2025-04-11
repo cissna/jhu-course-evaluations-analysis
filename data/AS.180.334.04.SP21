@@ -1,0 +1,63 @@
+{
+    "course_name": "Econometrics",
+    "instructor_name": "Elena Krasnokutskaya",
+    "overall_quality_frequency": {
+        "Poor": 6,
+        "Weak": 8,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 9,
+        "Weak": 6,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Sinem Toraman",
+        "Sinem Yagmur Toraman",
+        "Sinem",
+        "Sinem",
+        "I don't even know their name.",
+        "Sinem",
+        "Sinem",
+        "Sinem",
+        "Sinem",
+        "Sinem Toraman",
+        "SInem",
+        "NA",
+        "Sinem Yagmur Toraman",
+        "Sinem",
+        "Sinem"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 8,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 2,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 8,
+        "Somewhat heavier": 6,
+        "Much heavier": 4
+    }
+}

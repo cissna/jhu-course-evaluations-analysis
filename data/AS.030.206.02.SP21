@@ -1,0 +1,63 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Yuzuka Karube",
+        "Yuzuka Karube",
+        "Yazuka Karube",
+        "Yuzuka Karube",
+        "Marissa Coschigano",
+        "Marissa",
+        "Nick",
+        "Alexandra Bertacche",
+        "Yuzuka",
+        "Marissa Coshigano",
+        "Alessandra Bertacche",
+        "Marnie Kotlyar",
+        "Juan Sanfiel",
+        "Yuzuka Karube",
+        "Yuzuka Karube"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 4,
+        "Somewhat heavier": 8,
+        "Much heavier": 3
+    }
+}

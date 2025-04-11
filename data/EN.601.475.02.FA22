@@ -1,0 +1,62 @@
+{
+    "course_name": "Machine Learning",
+    "instructor_name": "Mark Dredze",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Xuan Zhang",
+        "No",
+        "Xuan Zhang",
+        "Xuan",
+        "Aditya",
+        "Xuan Zhang, Aditya, Yuli Wang, Sophia Sklaviadis",
+        "Xuan Zhang was far the best TA in terms of helpfulness/availability compared to other TAs.",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan",
+        "Xuan",
+        "Xuan Zhang",
+        "Xuan Zhang",
+        "Xuan Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 15,
+        "Much heavier": 8
+    }
+}

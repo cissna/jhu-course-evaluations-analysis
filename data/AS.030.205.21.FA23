@@ -1,0 +1,70 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "J D Tovar",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 10,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Mengjiao",
+        "Mengjiao Wang",
+        "Mijeng",
+        "Mengjiao Wang and Grant Hall",
+        "I dont know my TA",
+        "Mengjiao Wang",
+        "Mengjiao Wang",
+        "Meng Jiao",
+        "Mengjiao",
+        "Menjiao Wang",
+        "Mengyao",
+        "Mengjiao",
+        "Mengjiao",
+        "Maryland 109",
+        "Jiayang Gao",
+        "Mengjiao",
+        "Menjgiao",
+        "Mengjiao Wang",
+        "Menjiao",
+        "Mengjiao Wang",
+        "Meng Xiao",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 12,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 14,
+        "Much heavier": 8
+    }
+}

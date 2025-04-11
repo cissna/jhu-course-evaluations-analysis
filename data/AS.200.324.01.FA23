@@ -1,0 +1,49 @@
+{
+    "course_name": "How to build a mind: Lessons from babies, animals, and AI",
+    "instructor_name": "Qiong Cao",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

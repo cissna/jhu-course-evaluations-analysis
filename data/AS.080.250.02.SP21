@@ -1,0 +1,53 @@
+{
+    "course_name": "Neuroscience Laboratory",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 13,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Lexy Balshi",
+        "All of them were very helpful hosting review sessions",
+        "lexy balshi",
+        "Lexy",
+        "All"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 12,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Bryan Ocampo",
+        "Yong qi wang",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 7,
+        "Much heavier": 7
+    }
+}

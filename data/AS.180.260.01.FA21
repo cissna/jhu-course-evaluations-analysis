@@ -1,0 +1,77 @@
+{
+    "course_name": "Real Estate Economics and Finance",
+    "instructor_name": "Brendan Daley",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 17,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 29
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 17,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 14,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Yusuf",
+        "a",
+        "Yusuf",
+        "Yusuf Khan",
+        "Yousef",
+        "Yusuf Kulu",
+        "Yusuf Suha Kulu",
+        "Yusuf",
+        "Alexandria Rothschild-Edwards, Yusuf Suha Kulu",
+        "Yusuf Suha Kula",
+        "Yusuf Kulu",
+        "Alexandria Edwards",
+        "Lexi",
+        "Yusuf",
+        "don't know",
+        "Yusuf Suha Kulu",
+        "Yusuf",
+        "yusuf",
+        "Yusuf Khan",
+        "Yusuf",
+        "Yusuf",
+        "Yusuf",
+        "Yusuf",
+        "Yusuf Suha Kulu",
+        "Yusuf Kulu",
+        "Yusuf",
+        "Yusuf",
+        "Yusuf Suha Kulu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 20,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 23,
+        "Somewhat heavier": 12,
+        "Much heavier": 3
+    }
+}

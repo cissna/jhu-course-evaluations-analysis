@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier and Ralph Romero",
+        "Grayson",
+        "Josh Campbell",
+        "Gene Fu",
+        "grayson frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "Grayson Frazier",
+        "I worked with almost all the TA staff at some point in office hours, and all of them were generally helpful."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 8,
+        "Much heavier": 11
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Fei Lu",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 7,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 10,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin & Junu P",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Su Jin",
+        "Unsure",
+        "Su Jin",
+        "Su Jin, Junu Park",
+        "Su Jin",
+        "Su Jin",
+        "yingfeir mu",
+        "Su Jin",
+        "Su Jin",
+        "The one for tuesdays",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 8,
+        "Much heavier": 3
+    }
+}

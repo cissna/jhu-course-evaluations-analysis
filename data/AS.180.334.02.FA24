@@ -1,0 +1,63 @@
+{
+    "course_name": "Econometrics",
+    "instructor_name": "Lixiong Li",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Mark Drozd",
+        "All of them",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Mark Drozd, but he took a leave of absence during the semester",
+        "Mark Drozd",
+        "Mark Drozd",
+        "Soonhyun Kim"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 6,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 12,
+        "Somewhat heavier": 8,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics: Physical Science Majors II",
+    "instructor_name": "Emanuele Berti",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Mark Cheung",
+        "Enoch Leung",
+        "Mark Cheung",
+        "The two TAs who come Tuesday from 5:00-6:00 pm",
+        "Not sure",
+        "Mark Cheung",
+        "Mark Cheung",
+        "All the TAs I've met in this class.",
+        "Enoch Leung",
+        "Mark Cheung",
+        "Mark Cheung",
+        "Mark Cheung",
+        "Enoch",
+        "Mark Cheung",
+        "Mark Cheung"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 13,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 11,
+        "Much heavier": 9
+    }
+}

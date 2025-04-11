@@ -1,0 +1,64 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Joel Tolman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 13,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz, Blankenship",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Mortiz Blankenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blakenhorn",
+        "Moritz Blankenhorn",
+        "Moritz Blankenhorn"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 15,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

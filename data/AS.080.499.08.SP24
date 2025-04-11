@@ -1,0 +1,50 @@
+{
+    "course_name": "Scientific Communication and Mentoring",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 1,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 2,
+        "Typical": 1,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

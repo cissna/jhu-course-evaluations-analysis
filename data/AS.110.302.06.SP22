@@ -1,0 +1,63 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Alexander Mramor",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 6,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyang Zhang",
+        "Not a TA as far as I know but my Pilot leader Chloe Paris has been amazing. Most helpful pilot leader I've ever had.",
+        "Junyan Zhang",
+        "Junyan Zhang",
+        "Junyan Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 2,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 10,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

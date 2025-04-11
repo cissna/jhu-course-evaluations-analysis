@@ -1,0 +1,64 @@
+{
+    "course_name": "Life and Death",
+    "instructor_name": "Ben Holgu\u00edn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "rooke christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke Christy",
+        "Rooke"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 10,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 9,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

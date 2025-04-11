@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to Optimization",
+    "instructor_name": "Donniell Fishkind",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Logan Donaldson",
+        "Logan Donaldson",
+        "Logan",
+        "Logan Donaldson",
+        "Logan Donaldson",
+        "Logan Donaldson",
+        "Logan Donaldson",
+        "Logan Donaldson",
+        "Logan Donaldson",
+        "Chloe Warren",
+        "Logan Donaldson",
+        "Logan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 8,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

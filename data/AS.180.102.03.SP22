@@ -1,0 +1,85 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Muhammad Husain",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 23,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 17,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 12,
+        "Good": 19,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Alex",
+        "Alex Mejia",
+        "Daniel",
+        "alex",
+        "Alex",
+        "Alex",
+        "Alex Meija",
+        "Alex Mejia",
+        "Alex",
+        "Alex",
+        "Alex Mejia",
+        "Alex",
+        "Alex Mejia",
+        "Alex Meijia",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex",
+        "Alex Meja",
+        "Alex Meija",
+        "Alex Mejia",
+        "Alex Mejia",
+        "NA",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex Dmejia",
+        "Alex Mejia",
+        "Alex",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex Mejia",
+        "Alex",
+        "Alex Mejia",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 15,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 30,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

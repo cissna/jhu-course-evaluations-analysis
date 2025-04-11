@@ -1,0 +1,68 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Daniel Pezzi",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Liam",
+        "Liam",
+        "Liam Baca",
+        "Liam Baca",
+        "Liam Baca",
+        "Liam and Ashley",
+        "Liam Baca",
+        "Liam Baca",
+        "Ashley Cluff",
+        "Liam Baca",
+        "Liam Baca",
+        "Liam Baca",
+        "Liam",
+        "Liam Baca",
+        "Liam Baca",
+        "Liam B",
+        "Liam Baca",
+        "Liam",
+        "Liam Baca",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 13,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 6,
+        "Much heavier": 3
+    }
+}

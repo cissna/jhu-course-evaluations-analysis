@@ -1,0 +1,61 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Prairie Wentworth-Nice",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Derek and Shuhan",
+        "Daniel Pezzi",
+        "Daniel",
+        "Chuhuan Huang",
+        "Derek",
+        "Shuhan",
+        "Shoohan",
+        "Shuhan Yang",
+        "Shuhan",
+        "Chuhuan Huang",
+        "Derek Witzig",
+        "Shuhan",
+        "My TA's name is Shuhan."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

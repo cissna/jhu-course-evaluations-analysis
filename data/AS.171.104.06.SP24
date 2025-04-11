@@ -1,0 +1,54 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Vishal",
+        "Vishal Desai",
+        "Vishal",
+        "Dylan",
+        "Grayson Frazier",
+        "TA's holding review sessions"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 7,
+        "Much heavier": 11
+    }
+}

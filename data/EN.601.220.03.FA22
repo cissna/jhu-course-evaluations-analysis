@@ -1,0 +1,66 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "Mohammad Ali Darvish Darab",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 15,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 6,
+        "Good": 14,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Anika, Mark, honestly all of the TAs in office hours and in class",
+        "Justin Winkler",
+        "Justin",
+        "Jake Rasmussen",
+        "everyone",
+        "Edward",
+        "Mark",
+        "Mark Tiavises",
+        "Have interacted with several in office hours and during class.",
+        "Justin Winkler",
+        "Aprina Wang",
+        "Mark Tiavises",
+        "Aprina Wang",
+        "All the CAs",
+        "Chris",
+        "N/A",
+        "Christopher",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 16,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 15,
+        "Much heavier": 8
+    }
+}

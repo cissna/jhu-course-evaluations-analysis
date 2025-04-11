@@ -1,0 +1,61 @@
+{
+    "course_name": "Discrete Mathematics",
+    "instructor_name": "Apurva Nakade",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Adam Tsou",
+        "Adam Tsou",
+        "Adam Tsou",
+        "Spencer Huang",
+        "Thursday 3-3:50",
+        "Adam Tsou",
+        "Adam Tsou",
+        "Adam Tsou",
+        "Adam Tsou",
+        "Adam Tsou",
+        "Adam Tsou",
+        "adam tsou",
+        "Thursday 3-3:50"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 9,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 11,
+        "Much heavier": 4
+    }
+}

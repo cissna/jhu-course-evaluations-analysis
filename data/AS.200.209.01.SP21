@@ -1,0 +1,89 @@
+{
+    "course_name": "Personality",
+    "instructor_name": "Chelsea Howe",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 12,
+        "Excellent": 28
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 34
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 17,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 25
+    },
+    "ta_names": [
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jerema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann jarema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 14,
+        "Agree strongly": 21
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 9,
+        "Typical": 24,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "course_name": "Digital Health and Biomedical Informatics",
+    "instructor_name": "Harold Lehmann",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Jessica Patricoski",
+        "Jessica Patricoski",
+        "Jessica",
+        "Jessica P.",
+        "Jessica Patricoski",
+        "Jessica",
+        "Jessica",
+        "Jessica",
+        "JESSICA PATRICOSKI",
+        "Jessica"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 8,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 11,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

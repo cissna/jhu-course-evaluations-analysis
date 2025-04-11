@@ -1,0 +1,63 @@
+{
+    "course_name": "Physical Cosmology",
+    "instructor_name": "Chuck Bennett",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Yan Yan Chen",
+        "Carol Chan",
+        "Yan Yan Chan",
+        "Carol Chan",
+        "Carol Chan",
+        "Carol Chan",
+        "Carol Chen",
+        "Carol",
+        "Carol Chan",
+        "Carol",
+        "Carol Chan",
+        "Carol",
+        "Carol",
+        "Carol Chan",
+        "Carol Chan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 10,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 13,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

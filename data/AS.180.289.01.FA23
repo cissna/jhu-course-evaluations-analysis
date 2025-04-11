@@ -1,0 +1,61 @@
+{
+    "course_name": "Economics of Health",
+    "instructor_name": "Gatien De Broucker",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 11,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "N/A",
+        "Yusuf",
+        "Kulu, Yusuf Suha",
+        "Yusuf Suha Kula",
+        "Yusuf Suha Kulu",
+        "Yusuf Suha Kulu",
+        "Yusuf Kulu",
+        "Yusuf Kulu",
+        "Yusuf Kulu",
+        "Yusuf Suha",
+        "Yusuf Khalal",
+        "Yusuf Kulu",
+        "n/a"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 13,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 7,
+        "Typical": 25,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

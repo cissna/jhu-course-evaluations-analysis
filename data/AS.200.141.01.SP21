@@ -1,0 +1,92 @@
+{
+    "course_name": "Foundations of Brain, Behavior and Cognition",
+    "instructor_name": "Dani Smith",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 25,
+        "Good": 62,
+        "Excellent": 35
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 8,
+        "Satisfactory": 32,
+        "Good": 46,
+        "Excellent": 39
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 13,
+        "Good": 51,
+        "Excellent": 63
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 29,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Lauren Brewster",
+        "n/a",
+        "Yoko Yamashita",
+        "unsure",
+        "Ariadni Xydia",
+        "Lauren Brewster, Jashendeep Lobana, Hayley O\u2019Brion, Ariadni Xydia, Yoko Yamashita",
+        "Lauren Brewster",
+        "There were many TA's (all of them)",
+        "Lauren Brewster",
+        "Ariadni Xydia",
+        "Jashandeep Singh",
+        "Lauren",
+        "Jashandeep Singh Lobana",
+        "N/A",
+        "Ann Jarema",
+        "Hayley O'Brion",
+        "Ariadni Xydia",
+        "Hayley O'Brion",
+        "Ariadni Xydia",
+        "Lauren Brewster",
+        "Jashandeep Singh Lobana",
+        "Hayley O'Brion",
+        "Hayley Morgan O'Brion",
+        "All",
+        "Ariadni Xydia",
+        "lauren",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Lauren Brewster",
+        "hayley o'brien",
+        "no specific",
+        "N/A",
+        "Jashendeep Lobana",
+        "N/A",
+        "Lauren Brewster",
+        "n/a",
+        "Jashendeep Lobana, Lauren Brewster, Hayley O'Brion",
+        "Hayley O' Brien",
+        "Hayley Morgan O'Brion, Ariadni Xydia, Jashandeep Singh Loban, Lauren Riley Brewster",
+        "Hayley O'Brion",
+        "Lauren Brewster",
+        "Yoko Yamashita",
+        "Lauren Brewster",
+        "all TAs",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 14,
+        "Neither agree nor disagree": 21,
+        "Agree somewhat": 53,
+        "Agree strongly": 22
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 9,
+        "Typical": 48,
+        "Somewhat heavier": 48,
+        "Much heavier": 18
+    }
+}

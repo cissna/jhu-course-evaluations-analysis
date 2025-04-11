@@ -1,0 +1,62 @@
+{
+    "course_name": "Global Security Politics",
+    "instructor_name": "Daniel Deudney",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews",
+        "George Andrews"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 3,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 13,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

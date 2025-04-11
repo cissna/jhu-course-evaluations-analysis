@@ -1,0 +1,64 @@
+{
+    "course_name": "Special Relativity/Waves",
+    "instructor_name": "Julian Krolik",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Bastian Pradenas",
+        "Bastian Pradenas",
+        "Bastian Pradenas",
+        "Basti\u00e1n Pradenas",
+        "Bastin Pradenas",
+        "Bastion/Neha",
+        "Bastian Pradenas",
+        "Bastian Pradenas",
+        "Basti\u00e1n",
+        "Bastian Pradenas",
+        "Bastian",
+        "Bastian",
+        "Bastian Pradenas",
+        "Bastian Pradenas",
+        "Bastian Pradenas",
+        "Bastian"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 4,
+        "Much heavier": 8
+    }
+}

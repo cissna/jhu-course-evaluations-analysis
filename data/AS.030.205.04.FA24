@@ -1,0 +1,69 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 8,
+        "Satisfactory": 10,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Crystal Peng",
+        "Crystal Peng",
+        "Manusha Gamage",
+        "Crystal Peng",
+        "I don't even know which one of the TAs is the one assigned to my section",
+        "Manusha",
+        "All",
+        "Manusha, Crystal, Cameron",
+        "Crystal and Luoxi",
+        "Crystal Peng, Andrew Thampoe, Manusha Gamage",
+        "Andrew Thampoe",
+        "N/A",
+        "Andrew",
+        "Andrew Thampoe",
+        "everyone in the mudd section",
+        "Andrew Thampoe",
+        "Menusha",
+        "Manusha",
+        "Crystal Peng",
+        "Andrew Thampoe",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 13,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 7,
+        "Typical": 5,
+        "Somewhat heavier": 13,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Statistical Analysis I",
+    "instructor_name": "Yeawon Yoo",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 6,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Kailee, Melissa",
+        "Kailee",
+        "Kailee",
+        "Kailee Lin",
+        "Melissa",
+        "Kailee Lin",
+        "Melissa Arboleda; Kailee Lin",
+        "Melissa",
+        "Kaylie",
+        "Kailee",
+        "Melissa",
+        "Marissa",
+        "Kailee Lin and Melissa Arboleda"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 5,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 9,
+        "Somewhat heavier": 1,
+        "Much heavier": 2
+    }
+}

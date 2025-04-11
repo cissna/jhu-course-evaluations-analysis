@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Morris Swartz",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "n/a",
+        "Chuanyi",
+        "Julia",
+        "Jeffrey Davis",
+        "Chuanyi Wang",
+        "Chuayi",
+        "Chuanyi Wang",
+        "Chuanyi",
+        "n/a",
+        "Chuanyi Wang",
+        "Maryam"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 5,
+        "Much heavier": 12
+    }
+}

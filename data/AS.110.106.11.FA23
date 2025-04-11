@@ -1,0 +1,64 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Tomas Mejia Gomez",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 13,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Junu and Vivek",
+        "Yitong Sun, Junu Park",
+        "Vivek",
+        "Yitong Sun",
+        "Yitong Sun",
+        "Vivekaditya Booshan",
+        "Don't know her name, CA carried the section",
+        "Junu Park",
+        "Don\u2019t know",
+        "Junu Park",
+        "Junu Park",
+        "Junu park",
+        "Yiton",
+        "Junu Park",
+        "Vivek",
+        "Junu Park"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 13,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

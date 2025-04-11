@@ -1,0 +1,78 @@
+{
+    "course_name": "Macroeconomic Theory",
+    "instructor_name": "Laurence Ball",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 11,
+        "Good": 13,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 10,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 17,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 9,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Mingzuo",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "all of them",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuho",
+        "Mingzuo",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo",
+        "Mingzou Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzou",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 13,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 17,
+        "Somewhat heavier": 13,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Maria Sarazola Duarte",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "n/a",
+        "Fransisco",
+        "Fransico",
+        "Francisco",
+        "Francisco Lizano",
+        "Francisco",
+        "Francisco",
+        "Francisco",
+        "Francisco",
+        "Fransisco",
+        "Fransisco",
+        "Maru",
+        "Francisco L."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 4
+    }
+}

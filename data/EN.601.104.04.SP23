@@ -1,0 +1,47 @@
+{
+    "course_name": "Computer Ethics",
+    "instructor_name": "Tim Leschke",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "ta_names": [],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 4,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 7,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

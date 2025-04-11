@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Jackson",
+        "Jackson Davis",
+        "Jackson Davis",
+        "Jackson Davis",
+        "Jackson Davis",
+        "Jackson Davis",
+        "?",
+        "Jackson Davis",
+        "Jackson",
+        "jackson",
+        "Jackson Davis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 4,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 9,
+        "Much heavier": 11
+    }
+}

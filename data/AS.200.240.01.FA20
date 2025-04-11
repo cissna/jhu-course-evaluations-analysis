@@ -1,0 +1,83 @@
+{
+    "course_name": "Industrial and Organizational Psychology",
+    "instructor_name": "Heather Roberts Fox",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 23
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 13,
+        "Excellent": 24
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 22,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Ann Jarema",
+        "Rebecca Reed",
+        "Ann Jarema",
+        "Rebecca Reed",
+        "Rebecca Reed",
+        "Ann Jarema",
+        "Mariah Acquaye",
+        "Ann Jarema",
+        "Rebecca Reed",
+        "Ann Jarema, Rebecca Reed, and Mariah Acquaye",
+        "mariah",
+        "Ann",
+        "Rebecca Reed",
+        "Rebecca Reed",
+        "mariah",
+        "Ann",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Mariah",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema, Rebecca Reed",
+        "Rebecca",
+        "Mariah",
+        "Both of them",
+        "Ann Jarema",
+        "Rebecca Reed",
+        "Rebecca",
+        "Ann Jarema",
+        "Rebecca Reed",
+        "Ann Jerema and Rebecca Reed",
+        "Rebecca Reed",
+        "Mariah Acquaye",
+        "rebecca",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 19,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 8,
+        "Typical": 25,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Bruce Hamilton",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Aniruddha Ghosh",
+        "Aniruddha Ghosh",
+        "Annirudha Ghosh",
+        "Ani",
+        "Aniruddha Ghosh",
+        "Aniruddha Ghosh",
+        "Aniruddha Ghosh",
+        "Aniruddha Ghosh",
+        "Ani",
+        "Ani Ghosh",
+        "Anirudda Ghosh",
+        "Aniruddha Ghosh",
+        "Ani Ghosh"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 4,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 3,
+        "Typical": 8,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

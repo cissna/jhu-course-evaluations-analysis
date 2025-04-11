@@ -1,0 +1,64 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 14,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 12,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Eric Holt",
+        "Eric Holt",
+        "Eric Holt",
+        "Eric Holt",
+        "Eric Holt",
+        "Isabella Niedwiecki",
+        "My section is taught by Nathaniel Garrison, Qiankun Mo, and Isabella Niedzwiecki.",
+        "Eric Hold",
+        "N/A",
+        "Eric Holt",
+        "Eric Holt",
+        "N/A",
+        "there were many - the ones who taught section",
+        "N/A",
+        "Eric",
+        "There were a bunch, I don't remember all of their names."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 9,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 6,
+        "Somewhat heavier": 9,
+        "Much heavier": 10
+    }
+}

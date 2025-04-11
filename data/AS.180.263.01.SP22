@@ -1,0 +1,72 @@
+{
+    "course_name": "Corporate Finance",
+    "instructor_name": "Gregory Duffee",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 14,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "N/A",
+        "Zixuan Huang",
+        "Zixuan Huang",
+        "Zixuan Huang",
+        "Zixuan Huang",
+        "Zixuan Huang",
+        "Zixuan",
+        "Zixuang",
+        "Zixuan Huang",
+        "Zixuan Huang",
+        "Haley Bothwell",
+        "Zixuan Huang, Haley Bothwell, & Alina Pannone",
+        "Zixuan Huang",
+        "do not remember",
+        "Zixuan",
+        "Zixuan Huang",
+        "Zixhuan Huang",
+        "Zixuan",
+        "Bothwell",
+        "Zixuan",
+        "Huang",
+        "Zixuan",
+        "Zixuan Huang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 9,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 12,
+        "Somewhat heavier": 13,
+        "Much heavier": 7
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "course_name": "Data Structures",
+    "instructor_name": "Ali Madooei",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 21,
+        "Excellent": 42
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 52
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 21,
+        "Excellent": 39
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Eduardo",
+        "NA",
+        "Tom Wan, Camille Bowman",
+        "Not assigned a TA",
+        "Isaiah",
+        "Kavan Bansal",
+        "Keilani Caruso",
+        "All of them",
+        "N/A",
+        "all",
+        "N/A",
+        "N/A",
+        "all",
+        "Erin",
+        "Shaunak Shah",
+        "n/a",
+        "Tom Wan",
+        "all",
+        "N/A",
+        "Keilani",
+        "Various TAs",
+        "Steven Tan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 11,
+        "Agree somewhat": 30,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 23,
+        "Somewhat heavier": 36,
+        "Much heavier": 7
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Calculus I (Physical Sciences & Engineering)",
+    "instructor_name": "Xiong Wang",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 5,
+        "Good": 1,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 1,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "katelyn kocianci",
+        "Katelyn K.",
+        "Katelyn Kociancic, Yoyo Jiang",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Katelyn",
+        "Katelyn",
+        "Katherine",
+        "Katelyn Kociancic",
+        "Kaitlyn",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Camille Jenkins"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 8,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

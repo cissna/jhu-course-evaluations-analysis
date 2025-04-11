@@ -1,0 +1,87 @@
+{
+    "course_name": "Introductory Chemistry Laboratory I",
+    "instructor_name": "Jamie Young",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 20,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 18,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 19,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 11,
+        "Good": 16,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Zhenhong Chen",
+        "Zhenhong Chen",
+        "Mary Shepard",
+        "Mary Shepard",
+        "Mary Shepard",
+        "Mary Shepard",
+        "Mary Shepard",
+        "Mary Shepard",
+        "Sudha Yadav",
+        "Austin Ferrenti",
+        "Mary Shephard",
+        "Sudha Yadav",
+        "Sudha Yadav",
+        "Zhenhong",
+        "Sudha Yadav",
+        "Zhenhong",
+        "This course has many TAs",
+        "Zhenhong Chen",
+        "Zhenhong Chen",
+        "Mary Shepard",
+        "Zhenhong",
+        "Zhenhong Chen",
+        "Zhenhong Chen",
+        "Moritz",
+        "D Zhenhong",
+        "Zhenhong Chen",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Mary Shepard",
+        "Mary Shepard",
+        "Zhenhong Chen",
+        "Zhenhong",
+        "N/A",
+        "Mary Shepard",
+        "Sudha Yadav",
+        "Zhengong Chen",
+        "Zhenhong",
+        "Zhenhong Chen",
+        "Zhenhong Chen",
+        "Mary Shepard"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 17,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 24,
+        "Somewhat heavier": 15,
+        "Much heavier": 3
+    }
+}

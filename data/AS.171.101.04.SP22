@@ -1,0 +1,61 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Robert Leheny",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Zhenisbey Tagay",
+        "Zhenisbek",
+        "unsure",
+        "ZHENISBEK TAGAY",
+        "none",
+        "Zhenisbek",
+        "Jhenisbek Tagay",
+        "ZHENISBEK TAGAY",
+        "Zhenisbek Tagay",
+        "Zhenisbeck Tagay",
+        "There were a lot of them",
+        "Z.",
+        "Zhenisbek Tagay"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 8,
+        "Much heavier": 11
+    }
+}

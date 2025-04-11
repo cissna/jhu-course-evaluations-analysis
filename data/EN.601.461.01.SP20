@@ -1,0 +1,74 @@
+{
+    "course_name": "Computer Vision",
+    "instructor_name": "Wei Shen",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 11,
+        "Good": 17,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 5,
+        "Satisfactory": 12,
+        "Good": 15,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 17,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Qing Liu",
+        "Qing Liu",
+        "Qing",
+        "Qing",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "All of the TAs performs well in this course.",
+        "Qing Liu",
+        "Dannie",
+        "Qiu",
+        "Qing",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Qing Liu",
+        "Liu Qing",
+        "Qing Liu",
+        "Qing Liu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 22,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 17,
+        "Somewhat heavier": 18,
+        "Much heavier": 5
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "course_name": "Discrete Mathematics",
+    "instructor_name": "Sammy Khalife",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Spencer Huang",
+        "Spencer",
+        "Spencer Huang",
+        "Spencer Huang",
+        "Spencer Huang",
+        "Spencer",
+        "Spencer Huang",
+        "Spencer",
+        "Spencer Huang",
+        "Spencer Huang",
+        "Spencer",
+        "Spencer Huang",
+        "Spencer",
+        "Jackson Shapiro",
+        "Spencer Huang",
+        "Spencer",
+        "spencer",
+        "Spencer Huang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 12,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 13,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

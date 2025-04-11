@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics: Physical Science Majors II",
+    "instructor_name": "Petar Maksimovic",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Enoch Leung",
+        "N/A",
+        "Albert",
+        "Enoch",
+        "Enoch Leung",
+        "Enoch",
+        "Enoch Leung",
+        "NA",
+        "Enoch Leung",
+        "all of them",
+        "Enoch",
+        "I went to a lot of them",
+        "Enoch",
+        "many TA's",
+        "Enoch Leung"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 5,
+        "Much heavier": 13
+    }
+}

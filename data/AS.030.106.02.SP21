@@ -1,0 +1,92 @@
+{
+    "course_name": "Introductory Chemistry Laboratory II",
+    "instructor_name": "Jamie Young",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 18,
+        "Excellent": 54
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 62
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 29,
+        "Excellent": 35
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Shannon Bernier",
+        "Yinhan Wang",
+        "Divya Yadav",
+        "Kevin Bennett",
+        "Divya",
+        "N/A",
+        "Kevin Bennett",
+        "Kevin Bennett",
+        "Divya Yadav",
+        "Shannon Bernier",
+        "Shannon Bernier",
+        "Kevin Bennett",
+        "n/a",
+        "Kevin Bennett",
+        "Divya Yadav",
+        "Yinhan Wang",
+        "Kevin Bennett",
+        "N/A",
+        "Shannon Bernier",
+        "I never talked to my TA",
+        "N/A",
+        "Divya Yadav",
+        "Kevin Bennett",
+        "Divya Yadav",
+        "Yinhan Wang",
+        "Kevin Bennett",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Yanfei",
+        "Divya Yadav",
+        "Divya Yadav",
+        "Kevin Bennet",
+        "N/A",
+        "Kevin Bennett",
+        "Kevin Bennett",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "Divya Yadav",
+        "Kevin Bennet",
+        "Yihan Wang",
+        "Shannon",
+        "N/A",
+        "Divya"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 35,
+        "Agree strongly": 26
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 12,
+        "Typical": 47,
+        "Somewhat heavier": 15,
+        "Much heavier": 0
+    }
+}

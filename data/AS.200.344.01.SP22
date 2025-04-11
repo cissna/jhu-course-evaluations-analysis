@@ -1,0 +1,83 @@
+{
+    "course_name": "Behavioral Endocrinology",
+    "instructor_name": "Kirsten Bohn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 16,
+        "Excellent": 29
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 31
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 26
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 30
+    },
+    "ta_names": [
+        "natalia",
+        "Natalia",
+        "Natalia",
+        "Natalia",
+        "natalia khodayari",
+        "Nadya",
+        "Natalia",
+        "Natalia",
+        "Natalia Khodayari",
+        "Natalia Kodhayari",
+        "Natalia",
+        "Natalia",
+        "Natalia Khodayari",
+        "natalie",
+        "Natalia K",
+        "natalia",
+        "Natalia Khodayari",
+        "Natalia",
+        "Natalia Khodayari",
+        "Natalia Khodayari",
+        "Natalia Khodayari",
+        "Natalia",
+        "Natalia Khodayari",
+        "Natalia",
+        "Natalia KHODAYARI",
+        "natalia khodayari",
+        "Natalia Khodayari",
+        "Natalia Khodayari",
+        "Natalia",
+        "Natalia Khodayari",
+        "Natalia",
+        "Natalia",
+        "Natalia K",
+        "NATALIA KHODAYARI",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 26,
+        "Agree strongly": 21
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 29,
+        "Somewhat heavier": 14,
+        "Much heavier": 2
+    }
+}

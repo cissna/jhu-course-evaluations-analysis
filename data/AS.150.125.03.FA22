@@ -1,0 +1,59 @@
+{
+    "course_name": "Life and Death",
+    "instructor_name": "Ben Holgu\u00edn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Huseyin Gungor",
+        "Huseyin Gungor",
+        "Huseyin Gungor",
+        "Huseyin Gungor",
+        "Huseyin Gungor",
+        "Huseyin",
+        "Huseyin Gungor",
+        "Huseyin Gungor",
+        "Huseyin Gungor",
+        "Huseiyn",
+        "Huseyin Gungor"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 12,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

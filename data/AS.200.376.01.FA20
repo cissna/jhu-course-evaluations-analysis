@@ -1,0 +1,87 @@
+{
+    "course_name": "Neuropsychopharmacology",
+    "instructor_name": "Susanne Sterbing-d'angelo",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 7,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 8,
+        "Satisfactory": 11,
+        "Good": 12,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 21,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 27
+    },
+    "ta_names": [
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "d'angelo",
+        "Dominick Rich, Leslie Bauman",
+        "Dominick Rich",
+        "Dominick, Leslie",
+        "Dominick Rich",
+        "Dominick Rich",
+        "Dominick",
+        "Dominick",
+        "Leslie Bauman; Dominick Rich",
+        "Dominick Rich",
+        "Dominick Rich",
+        "Leslie Bauman and Dominick Rich",
+        "Dominick Rich",
+        "Leslie",
+        "Dominick, Leslie",
+        "Dominick Rich",
+        "Dominick John Rich",
+        "Leslie and Dominick",
+        "Dominick Rich",
+        "Dominick John Rich",
+        "Dominick Rich and Leslie Bauman",
+        "Dominick",
+        "Dominick and Leslie",
+        "Leslie Bauman",
+        "Dominick Rich",
+        "Domick Rich",
+        "Leslie and Dominick",
+        "Dominick Rich",
+        "Dominick Rich",
+        "Dominick",
+        "Dominick and Leslie",
+        "Dominick Rich",
+        "Dominick John Rich",
+        "Leslie Bauman",
+        "Leslie Bauman/ Dominick Rich",
+        "Dominick",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "d'angelo"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 10,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 14,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 9,
+        "Typical": 31,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

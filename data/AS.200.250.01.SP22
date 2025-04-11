@@ -1,0 +1,55 @@
+{
+    "course_name": "Behavioral Neuroscience",
+    "instructor_name": "Patricia Janak",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Kelsey Lee",
+        "Kelsey Lee",
+        "kelsey",
+        "Kelsey Lee",
+        "ann jarema",
+        "Ka Eun (Kelsey) Lee",
+        "Kelsey"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 5,
+        "Typical": 7,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

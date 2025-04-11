@@ -1,0 +1,81 @@
+{
+    "course_name": "Artificial Intelligence",
+    "instructor_name": "Philipp Koehn",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 26,
+        "Good": 41,
+        "Excellent": 38
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 23,
+        "Good": 38,
+        "Excellent": 40
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 7,
+        "Satisfactory": 31,
+        "Good": 37,
+        "Excellent": 29
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 13,
+        "Good": 22,
+        "Excellent": 35
+    },
+    "ta_names": [
+        "Daniil Pakhomov, Coco Li",
+        "Daniil Pakhomov",
+        "Daniil",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniel",
+        "Coco Li, Natalie Martinez, Yingqi Ding, Daniil Pakhomov, Coleman Haley, Eric Cao",
+        "all",
+        "Daniil Pakhomov",
+        "N/A",
+        "n/a",
+        "Daniil",
+        "Daniil Pahkomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Daniil Pakhomov",
+        "Danil",
+        "Daniil Pakhomov",
+        "Daniil",
+        "Daniil Pakhomov",
+        "danil",
+        "Natalie Martinez",
+        "Daniil",
+        "Daniil Pakhomov",
+        "Daniel Pakhomov",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 35,
+        "Agree somewhat": 29,
+        "Agree strongly": 30
+    },
+    "workload_frequency": {
+        "Much lighter": 18,
+        "Somewhat lighter": 37,
+        "Typical": 44,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

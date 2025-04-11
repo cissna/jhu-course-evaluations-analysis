@@ -1,0 +1,63 @@
+{
+    "course_name": "Calculus I (Physical Sciences & Engineering)",
+    "instructor_name": "Yuchin Sun",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 12,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Zachary Bahar",
+        "Zachary Bahar",
+        "I don't know his name off the top of my head. It's the one Jewish guy wearing a kipah who's present during the Tuesday 6:00 pm - 6:50 pm section",
+        "Zachary Bahar",
+        "Zachary Bahar",
+        "Zachary Bahar",
+        "Zachary Bahar",
+        "Zachary Bahar",
+        "Andrew Gonzalez",
+        "Zachary Bahar",
+        "Zachary Bahar and Andrew Gonzalez",
+        "Vivek",
+        "Vivek and Zach",
+        "Zachary Bahar",
+        "Zachary Bahar"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 11,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

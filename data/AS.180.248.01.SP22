@@ -1,0 +1,57 @@
+{
+    "course_name": "Financial Writing and Analysis",
+    "instructor_name": "Floyd Norris",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Andreea Rotarescu",
+        "Andreea Rotarescu",
+        "Andrea Rotarescu",
+        "Andreea Rotarescu",
+        "Andraae",
+        "Andreaa",
+        "Andreea Rotarescu",
+        "Andrea Rotarescu",
+        "Andreea Rotarescu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 4,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 4,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

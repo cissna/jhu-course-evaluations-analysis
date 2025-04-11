@@ -1,0 +1,78 @@
+{
+    "course_name": "Financial Markets and Institutions",
+    "instructor_name": "Josh Feinman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 13,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 15,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "David",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David",
+        "David",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David",
+        "David Osten",
+        "David Osten",
+        "David Osten",
+        "David",
+        "David Osten",
+        "David Osten",
+        "David",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 21
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 22,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

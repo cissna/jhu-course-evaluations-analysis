@@ -1,0 +1,64 @@
+{
+    "course_name": "Stars and the Universe: Cosmic Evolution",
+    "instructor_name": "Adam Riess",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Yukei Murakama",
+        "Joseph Cleary and Yukei Murakami",
+        "yukei and joseph",
+        "Yukei Murakami",
+        "Yukei Murakami",
+        "Yukei Murakami and Joseph Cleary",
+        "Joseph",
+        "Yukei",
+        "Yukei Murakama, Joseph Cleary",
+        "Yukei Murakami and Joseph Cleary",
+        "Yukei Murakami, Joseph Cleary",
+        "Yukei Murakami",
+        "Yuke Murakami, Joseph Cleary",
+        "Yukei",
+        "Yukei Murakami",
+        "Yukei Murakami"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 10,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

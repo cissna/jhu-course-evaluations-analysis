@@ -1,0 +1,76 @@
+{
+    "course_name": "Macroeconomic Theory",
+    "instructor_name": "Ludmila Poliakova",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 13,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 11,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Derin Aksit",
+        "Derin Aksit",
+        "Derin Askrit",
+        "Derin Aksit",
+        "Derin Askit",
+        "Derin Askit",
+        "Derin",
+        "Derin Askit",
+        "Pablo, Derin",
+        "Derin Aksit",
+        "Derin Askit",
+        "Derin Aksit",
+        "Derin Aksit",
+        "Derin Aksit",
+        "Derin Askit",
+        "Derin",
+        "Derin Aksit",
+        "Derin Aksit",
+        "Derin Aksit",
+        "Derin Askit",
+        "Derin",
+        "Derin Askit",
+        "Derin Aksit",
+        "Derin Aksit",
+        "Askrin",
+        "Derin Aksit",
+        "Derin Aksit",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 14,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 20,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

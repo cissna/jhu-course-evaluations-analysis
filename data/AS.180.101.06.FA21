@@ -1,0 +1,67 @@
+{
+    "course_name": "Elements of Macroeconomics",
+    "instructor_name": "Robert Barbera",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 9,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 13,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "course_name": "Cognitive Neuropsychology of Visual Perception",
+    "instructor_name": "Michael McCloskey",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 15,
+        "Excellent": 44
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 51
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 27,
+        "Excellent": 31
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 16,
+        "Excellent": 24
+    },
+    "ta_names": [
+        "Donald Li",
+        "Darcy Trinco",
+        "Raj",
+        "Alana Montanez",
+        "Donald Li",
+        "Darcy Trinco",
+        "Darcy Trinco",
+        "Donald Li",
+        "Donali Li",
+        "Darcy Trinco",
+        "Donald Li",
+        "Donald Li",
+        "n/a",
+        "Donald Li, Raj Magesh",
+        "Darcy Trinco",
+        "Donald",
+        "Donald Li and Raj Mahesh",
+        "Donald",
+        "no specific",
+        "Donald",
+        "Darcy Trino.",
+        "Alana Montanez",
+        "Donald Li",
+        "Donald Li",
+        "Donal Li",
+        "Didn't even talk to any of them",
+        "na",
+        "Donald Li",
+        "Donald Li",
+        "Darcy",
+        "Raj",
+        "Donald Li",
+        "Darcy",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 18,
+        "Agree strongly": 24
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 37,
+        "Somewhat heavier": 16,
+        "Much heavier": 3
+    }
+}

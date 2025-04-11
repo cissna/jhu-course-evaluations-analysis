@@ -1,0 +1,53 @@
+{
+    "course_name": "Applied Statistics and Data Analysis",
+    "instructor_name": "Sergey Kushnarev",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "Section 2 TA",
+        "Shihong Wei",
+        "I don't remember",
+        "Xinye Chen",
+        "Xinye Chen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 5,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

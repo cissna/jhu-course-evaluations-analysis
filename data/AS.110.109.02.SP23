@@ -1,0 +1,59 @@
+{
+    "course_name": "Calculus II (For Physical Sciences and Engineering)",
+    "instructor_name": "Emily Braley",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Xiangze Zeng",
+        "Xiangze Zeng",
+        "Not sure what my TA name is, there are multiple",
+        "Xiangze Zeng",
+        "Xiangze Zeng",
+        "Xiangze Zeng",
+        "Daniel Pezzi",
+        "Xiangze",
+        "Yitong",
+        "unknown",
+        "Xiangze Zeng"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 6,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 9,
+        "Much heavier": 2
+    }
+}

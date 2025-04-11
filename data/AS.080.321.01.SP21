@@ -1,0 +1,75 @@
+{
+    "course_name": "Computational Neuroscience",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 25
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 24
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 16,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 20
+    },
+    "ta_names": [
+        "Ben Bae",
+        "Ben Bae",
+        "Ben",
+        "Ben Bae",
+        "Ben Bae",
+        "Ben",
+        "Seung-Ho (Ben) Bae",
+        "Ben Bae",
+        "Ben Bae",
+        "Ben Bae",
+        "Seung-Ho Bae",
+        "Ben Bae",
+        "Ben Bae",
+        "Ben Bae",
+        "Ben",
+        "Ben Bae",
+        "Seung-Ho Bae",
+        "Ben Bae",
+        "Seung-Ho Bae",
+        "Bae",
+        "Ben Bae",
+        "Ben",
+        "Ben",
+        "Ben",
+        "Ben Bae",
+        "Ben Bae",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 10,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 6,
+        "Typical": 25,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

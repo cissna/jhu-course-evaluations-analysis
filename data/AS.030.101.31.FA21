@@ -1,0 +1,61 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Rigoberto Hernandez",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "nathaniel garrison",
+        "Nathaniel Garrisson",
+        "Nathaniel G. Garrison",
+        "Nathaniel G Garrison",
+        "Nathaniel Garrison",
+        "Nathaniel Garrison",
+        "N/a",
+        "Nathaniel Garrison",
+        "Nathaniel",
+        "Nathaniel Garrison",
+        "Ewa Harazinska",
+        "Nathaniel Garrison",
+        "Ewa"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 7,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

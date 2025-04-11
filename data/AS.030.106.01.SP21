@@ -1,0 +1,88 @@
+{
+    "course_name": "Introductory Chemistry Laboratory II",
+    "instructor_name": "Jamie Young",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 21,
+        "Excellent": 48
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 63
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 24,
+        "Excellent": 37
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 16,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Carter Gerke",
+        "Alex Skirvin",
+        "Alex Skirvin",
+        "Kai Abiola",
+        "Alex Skirvin",
+        "Carter Gerke",
+        "Alex Skirvin",
+        "Alex Skirvin",
+        "Alex Skirvin",
+        "N/A",
+        "Carter Gerke",
+        "Alex Skirvin",
+        "Carter Gerke",
+        "Mary Shepard",
+        "Carter Gerke",
+        "Alex Skirvin",
+        "Alex Skirvin",
+        "Carter Gerke",
+        "Carter Gerke",
+        "Lyupeng",
+        "Carter Gerke",
+        "I didn't really utiilize the TAs so it'd be a bit unfair of me to judge them.",
+        "Didn't interact with the TA",
+        "Lyupeng Wen",
+        "Carter Gerke",
+        "Carter Gerke",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Lyupeng",
+        "N/A",
+        "Alex Skirvin",
+        "Carter Gleke",
+        "Nicki Stachowiak",
+        "N/A",
+        "Carter Gerke",
+        "n.a",
+        "Lyupeng Wen",
+        "Carter Gerke",
+        "Ben Redemann",
+        "Do not remember",
+        "Carter Gerke"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 30,
+        "Agree strongly": 24
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 15,
+        "Typical": 40,
+        "Somewhat heavier": 11,
+        "Much heavier": 4
+    }
+}

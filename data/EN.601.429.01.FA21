@@ -1,0 +1,71 @@
+{
+    "course_name": "Functional Programming in Software Engineering",
+    "instructor_name": "Scott Smith",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 16,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "Zach Zhou",
+        "Zach",
+        "Alison Lee",
+        "Zach Zhou",
+        "Zach",
+        "Earl",
+        "Shiwei",
+        "Zach Zhou",
+        "Earl",
+        "Alison",
+        "N/A",
+        "Zach Z.",
+        "Alison Lee",
+        "Zach",
+        "Zach Zhou",
+        "Zach Zhou",
+        "ZAch",
+        "Earl, Zach, Alison",
+        "Zach Zhou",
+        "Zach Zhou",
+        "Zach",
+        "Earl",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 27,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 25,
+        "Somewhat heavier": 12,
+        "Much heavier": 1
+    }
+}

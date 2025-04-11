@@ -1,0 +1,56 @@
+{
+    "course_name": "Introduction to Practical Data Science: Beautiful Data",
+    "instructor_name": "Alex Szalay",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 2,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Sanjana",
+        "Sanjana Sekhar",
+        "N/A",
+        "Sanjana Sekhar",
+        "Sanjana Sekhar",
+        "Sanjana Sekhar",
+        "Sanjana Sekhar",
+        "Sanjana Sekhar"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

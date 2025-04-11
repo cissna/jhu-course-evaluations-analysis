@@ -1,0 +1,63 @@
+{
+    "course_name": "Brain-Body Interactions in Health and Disease",
+    "instructor_name": "Mohamed Farah",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Samskurti",
+        "Samskruthi",
+        "Samskruthi Madireddy",
+        "Samskruthi",
+        "Samskruthi Madireddy",
+        "Samskruthi",
+        "Samskruthi Madireddy",
+        "Samskruthi Madireddy",
+        "n/a",
+        "Samskruthi Madireddy",
+        "Samskruthi",
+        "Samskruthi Madireddy",
+        "Samskruti",
+        "Samsrukti",
+        "Samskruthi :)"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 9,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

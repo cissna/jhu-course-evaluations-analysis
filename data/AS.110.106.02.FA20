@@ -1,0 +1,64 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Yifu Zhou",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Sean Owen",
+        "Sean Owens",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean W Owen",
+        "Sean Owen",
+        "Sean Owens",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 5,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "course_name": "Sensation & Perception",
+    "instructor_name": "Jason Fischer",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 22,
+        "Excellent": 27
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 17,
+        "Excellent": 36
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 27,
+        "Excellent": 24
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 34
+    },
+    "ta_names": [
+        "Makaela Narter",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela",
+        "N/A",
+        "Makaela Nartker",
+        "Makaela",
+        "Makaela Nartker",
+        "Makaela",
+        "Makaela Nartker",
+        "Makaela",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "none",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "n/a",
+        "Makaela",
+        "Makaela Nartker",
+        "Miranda",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Makaela Nartker",
+        "Makaela Narkter",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "N/A",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker",
+        "Makaela Nartker"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 8,
+        "Neither agree nor disagree": 12,
+        "Agree somewhat": 15,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 8,
+        "Somewhat lighter": 20,
+        "Typical": 24,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

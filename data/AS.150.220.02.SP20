@@ -1,0 +1,63 @@
+{
+    "course_name": "Introduction to Moral Philosophy",
+    "instructor_name": "Hilary Bok",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Itai",
+        "Iato",
+        "Itai Moram",
+        "Itai Marom",
+        "Itai Marom",
+        "Itai Marom",
+        "Itai Marom",
+        "Itai Marom",
+        "Itai Marom",
+        "Itai Marom",
+        "Itai",
+        "Itai",
+        "Itai Marom",
+        "Itai",
+        "Itai"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

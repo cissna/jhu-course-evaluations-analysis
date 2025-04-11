@@ -1,0 +1,68 @@
+{
+    "course_name": "Topics in Biomedical Ethics",
+    "instructor_name": "Ian Tully",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Alexander Ioakimidis",
+        "Alexander Ioakimidis",
+        "Alexander Ioakimidis",
+        "Alex Ioakimidis",
+        "Alexander Loakimidis",
+        "Alexander",
+        "Alexander Ioakimidis",
+        "Alex",
+        "Alexander Loakimidis",
+        "Alexander Ioakimidis",
+        "Alex",
+        "Alex",
+        "Alex Ioakimidis",
+        "Alex",
+        "Alexander Ioadamakis",
+        "Alex Ioakimidis",
+        "Alexander Ioakimidis",
+        "Alexander Ioakimidis",
+        "alexander ioakimidis",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 16,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

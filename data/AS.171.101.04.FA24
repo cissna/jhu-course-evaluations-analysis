@@ -1,0 +1,58 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Nadia Zakamska",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "section 4 TA",
+        "George",
+        "George Arapantonis",
+        "George",
+        "Georgios Arapantonis",
+        "George Arapantonis",
+        "George Arapantonis",
+        "George Arapantonis",
+        "George Arapantonis",
+        "George Arapantonis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 8,
+        "Much heavier": 7
+    }
+}

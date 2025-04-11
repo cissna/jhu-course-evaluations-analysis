@@ -1,0 +1,61 @@
+{
+    "course_name": "Introduction to Formal Logic",
+    "instructor_name": "Peter Achinstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Matthew O'Dowd",
+        "Matthew O'Dowd",
+        "Matthew o'doud",
+        "Matthew O'Dowd",
+        "Matthew O'Dowd",
+        "Matthew O'Dowd",
+        "Matthew O'Dowd",
+        "Matt",
+        "Matthew O'Dawd",
+        "Matt O'Dowd",
+        "Matthew O'Dowd",
+        "Matthew O'Dowd",
+        "Matthew O'Dowd"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 5,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 5,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

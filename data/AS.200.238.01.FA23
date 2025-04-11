@@ -1,0 +1,66 @@
+{
+    "course_name": "Primate Minds",
+    "instructor_name": "Christopher Krupenye",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Luz",
+        "Luz",
+        "Luz",
+        "Luz",
+        "Luz Carvajal",
+        "Luz",
+        "Luz",
+        "Luz",
+        "luz carvajal",
+        "Luz",
+        "Luz",
+        "Luz",
+        "Luz Carvajal",
+        "Luz Carvajal",
+        "Luz Carvajal",
+        "Luz Carvajal Villalobos",
+        "Luz",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 4,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 14,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

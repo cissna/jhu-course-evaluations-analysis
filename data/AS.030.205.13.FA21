@@ -1,0 +1,64 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 12,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 6,
+        "Weak": 7,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "All",
+        "Anant Chopra",
+        "Ekroop Cheema",
+        "Andrea Zhu, Eli Kengmana",
+        "Patrick (pilot leader)",
+        "N/A",
+        "Marissa Coschigano",
+        "Ekroop",
+        "Sachi",
+        "Yasheel Pandya",
+        "Sachi and Greg",
+        "Sachi Hilliard",
+        "Tatsuya Chiba",
+        "Ekroop",
+        "Marissa Coschigano and Xinyuan Ji",
+        "Ekroop Cheema"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 11,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 7,
+        "Somewhat heavier": 9,
+        "Much heavier": 10
+    }
+}

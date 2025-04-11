@@ -1,0 +1,57 @@
+{
+    "course_name": "Security & Privacy in Computing",
+    "instructor_name": "Tushar Jois",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Atheer",
+        "Atheer Almogbil",
+        "atheer",
+        "Logan Kostick",
+        "Atheer and Logan",
+        "Atheer",
+        "Atheer Almogbil",
+        "Atheer Almogbil",
+        "Logan Kostic and Atheer Almogbil"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

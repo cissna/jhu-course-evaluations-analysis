@@ -1,0 +1,55 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Olivier Nsengiyumva",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 20
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 23
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Deborah",
+        "Andrew Thampoe",
+        "Andrew",
+        "everyone but deborah is great.",
+        "Andrew Thampoe",
+        "ANDREW",
+        "Andrew Thampoe"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 6,
+        "Somewhat heavier": 12,
+        "Much heavier": 6
+    }
+}

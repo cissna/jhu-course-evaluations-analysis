@@ -1,0 +1,63 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Tomas Mejia Gomez",
+    "overall_quality_frequency": {
+        "Poor": 8,
+        "Weak": 10,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 8,
+        "Weak": 5,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Xin Wei",
+        "Xin Wei",
+        "Yuchin Sun",
+        "Can't spell her name but she taught section 9",
+        "Xin Wei",
+        "She was so bad I don't even remember her name.",
+        "Xin Wei",
+        "TBH Idk if she told us, my section was Tuesday at 4:30pm",
+        "I forgot, but I was in a tuesday section that started at 4:30pm which was held in room Gilman 17",
+        "Xin Wei",
+        "Vivek",
+        "I don't know",
+        "Vivek",
+        "Good",
+        "Xin Wei"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 6,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 10,
+        "Much heavier": 5
+    }
+}

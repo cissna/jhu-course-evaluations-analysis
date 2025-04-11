@@ -1,0 +1,72 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Tim Campion",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 6,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 8,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Junu Park",
+        "junu park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junwoo Park",
+        "Junu Park",
+        "unknown",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junwoo Park",
+        "junu",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Junu Park",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 9,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 18,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

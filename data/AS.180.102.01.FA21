@@ -1,0 +1,75 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Hellen Seshie-nasser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 13,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 5,
+        "Good": 13,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin",
+        "Silin Huang",
+        "Silin",
+        "Silin",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silian",
+        "silin huang",
+        "Silin Huang",
+        "https://blackboard.jhu.edu/webapps/evk-EvalKIT-EUIBB-bb_bb60/courseEval.jsp",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "nasser"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 11,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 8,
+        "Typical": 15,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

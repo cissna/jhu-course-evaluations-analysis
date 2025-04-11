@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Utkarsh Sharma",
+        "Utkarsh Sharma",
+        "All of them! I love their office hours",
+        "Utshark",
+        "Utkarsh Sharma",
+        "Zack - great at explaining concepts",
+        "Utkarsh Sharma",
+        "Utkarsh Sharma",
+        "Utkarsh Sharma",
+        "Gene Fu",
+        "Utkarsh",
+        "Utkarsh Sharma",
+        "utkarsh sharma",
+        "Utkarsh Sharma",
+        "Utkarsh Sharma"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 8,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 8,
+        "Much heavier": 16
+    }
+}

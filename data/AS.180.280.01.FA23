@@ -1,0 +1,52 @@
+{
+    "course_name": "The History and Future of the Hedge Fund Industry",
+    "instructor_name": "Kevin Heerdt",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "N/A",
+        "n/a",
+        "N/A",
+        "No TA"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 7,
+        "Typical": 5,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

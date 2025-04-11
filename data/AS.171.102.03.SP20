@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics: Physical Science Majors II",
+    "instructor_name": "David Kaplan",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 12,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Carlos Ancinetti",
+        "Carlos Anicetti",
+        "Carlos Anicetti",
+        "Carlos Anicetti",
+        "carlos anicetti",
+        "Carlos",
+        "Carlos Anicetti",
+        "Carlos",
+        "Carlos",
+        "Carlos Anicetti",
+        "Carlos Anicetti"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 9,
+        "Much heavier": 4
+    }
+}

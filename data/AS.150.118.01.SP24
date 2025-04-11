@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to Formal Logic",
+    "instructor_name": "Peter Achinstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Yunqi Tian",
+        "Yunqi",
+        "Yunqi",
+        "Yunqi Tian",
+        "Yunqi",
+        "yunqi",
+        "Yunqi Tian",
+        "Yunqi",
+        "Yunqi Tian",
+        "Yunqi Tian",
+        "Yunqi Tian",
+        "Yunqi Tian"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 6,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 10,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Xiaofan",
+        "Xiaofan Wu",
+        "TA Section 14",
+        "Josh Kable",
+        "Xiaofan Wu",
+        "Xiaofan Wu",
+        "Xiaofan Wu",
+        "Xiaofan Wu",
+        "Xiaofan Wu",
+        "Xiaofou",
+        "Xiaofan Wu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 10,
+        "Much heavier": 9
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "course_name": "Econometrics",
+    "instructor_name": "Jonathan Wright",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Strahil Leopev",
+        "Strahil Leopov",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Leopeov",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil Leopev",
+        "Strahil Lepoev",
+        "Strahil Lepov",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

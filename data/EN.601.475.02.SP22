@@ -1,0 +1,69 @@
+{
+    "course_name": "Machine Learning",
+    "instructor_name": "Mark Dredze",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 20
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 28
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Gordon Sun",
+        "Josh Popps",
+        "Josh Popp",
+        "Shuo",
+        "Josh",
+        "Gordon, Josh",
+        "Josh Popp",
+        "Gordon",
+        "Shuo Sun, Guanghui Qin, Josh Popp, Gordan Sun",
+        "Shuo",
+        "josh",
+        "Guanghui Qin",
+        "Sun Shuo",
+        "All of the TAs are great!",
+        "Sophia",
+        "popp",
+        "All TA's, there were many",
+        "Josh Popp",
+        "Josh Popp",
+        "All",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 16,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 20,
+        "Much heavier": 13
+    }
+}

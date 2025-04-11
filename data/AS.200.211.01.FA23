@@ -1,0 +1,61 @@
+{
+    "course_name": "Sensation & Perception",
+    "instructor_name": "Jason Fischer",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Giuliana",
+        "Giuliana Bucci-Mansilla",
+        "Giuliana",
+        "Giuliana Bucci-Mansilla",
+        "Giuliana",
+        "Giuliana Bucci-Mansilla",
+        "Giuliana Bucci-Mansilla",
+        "Forget her name",
+        "Giuliana Bucci-Mansilla",
+        "Giuliana",
+        "Guiliana",
+        "Giuliana",
+        "Giuliana Bucci-Mansilla"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 1,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 8,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

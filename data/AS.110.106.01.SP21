@@ -1,0 +1,59 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Yifu Zhou",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "MICHAEL SABRY SABER FARID",
+        "Michael Farid",
+        "Michael Farid",
+        "Michael Farid",
+        "Michael farid",
+        "Michael Farid",
+        "Michael Farid",
+        "Michael Farid",
+        "Michael Farid",
+        "Michael Farid",
+        "Michael Farid"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 1,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "course_name": "Databases",
+    "instructor_name": "Sara More",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 33,
+        "Excellent": 20
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 20,
+        "Excellent": 36
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 32,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Nader Najjar",
+        "Connor Delahanty",
+        "Conner Delahanty",
+        "Adeshola Lawal",
+        "Alex Lim",
+        "Katie Newbold",
+        "Aashay Patel",
+        "Connor",
+        "Alex Lim",
+        "Alex Lim",
+        "not sure",
+        "Alex Lim",
+        "adeshola",
+        "Conner Delahanty",
+        "Conner D",
+        "Nader",
+        "Alex Lim",
+        "Adeshola Lawal",
+        "Connor",
+        "Nader",
+        "NA",
+        "Alex",
+        "Adeshola",
+        "Ankur Kejriwal",
+        "Jai",
+        "Conner",
+        "Most TA's I attended office hours of",
+        "Alex Lim",
+        "Adeshola",
+        "Alex Lim",
+        "Jai Kotia",
+        "Conner Delahanty",
+        "Adeshola",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 29,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 44,
+        "Somewhat heavier": 9,
+        "Much heavier": 1
+    }
+}

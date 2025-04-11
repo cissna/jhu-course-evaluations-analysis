@@ -1,0 +1,63 @@
+{
+    "course_name": "Neuroscience: Cognitive",
+    "instructor_name": "Brenda Rapp",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Ananya",
+        "Aditya",
+        "Aditya",
+        "Ananya",
+        "Anaya",
+        "Ananya Swaminathan",
+        "Aditya Upadhyayula",
+        "Ananya Swaminathan",
+        "Aditya Upadhyayula",
+        "Adidya Us",
+        "Aditya",
+        "Aditya Upadhyayula",
+        "Aditya Upadhyayula",
+        "Aditya",
+        "Ananya"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 4
+    }
+}

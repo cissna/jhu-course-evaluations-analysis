@@ -1,0 +1,62 @@
+{
+    "course_name": "Mind, Brain & Experience",
+    "instructor_name": "Marina Bedny",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Akshi",
+        "Liz Saccone",
+        "Liz Saccone",
+        "Liz Saccone",
+        "Both",
+        "Liz Saccone",
+        "Akshi Lnu and Liz Saccone",
+        "Elizabeth Saccone",
+        "Akshi",
+        "Liz, Akshi",
+        "Lizzy",
+        "Liz",
+        "Akshi",
+        "Akshi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 2,
+        "Much heavier": 4
+    }
+}

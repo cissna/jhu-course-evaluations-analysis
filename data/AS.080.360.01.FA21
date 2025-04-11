@@ -1,0 +1,89 @@
+{
+    "course_name": "Diseases & Disorders of the Nervous System",
+    "instructor_name": "Jay Baraban",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 25,
+        "Excellent": 41
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 48
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 21,
+        "Excellent": 50
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 17,
+        "Excellent": 33
+    },
+    "ta_names": [
+        "Adhith, Beruk",
+        "Adhith Palla",
+        "Adhith Palla, Beruk Metiku, Ashley Muller, Joanna Kim",
+        "Adhith Palla Beruk Metiku",
+        "Joanna Kim and Ashley were very helpful!",
+        "Joanna",
+        "Adhith Palla",
+        "Beruk Metiku, Ashley Muller, Joanna Kim, Adith Palla",
+        "Beruk Metiku",
+        "Beruk Metiku",
+        "Beruk Metiku",
+        "ashley",
+        "NA",
+        "Beruk Metiku",
+        "Beruk Metiku",
+        "Beruk, Ashley, Joanna, Adhith",
+        "all of them",
+        "N/A",
+        "Beruk",
+        "Joanna",
+        "Beruk",
+        "Ashley Muller",
+        "Beruk Metiku",
+        "Beruk Metiku",
+        "Beruk Metiku",
+        "adhith",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Adith Palla, Beruk Metiku, Joanna Kim, Ashley Muller",
+        "Beruk",
+        "Adhith Palla",
+        "Joanna",
+        "All",
+        "Joanna Kim",
+        "adith, beruk, joanna",
+        "n/a",
+        "all",
+        "Joanna Kim",
+        "Joanna Kim",
+        "All",
+        "Beruk Metiku",
+        "Adhith Palla"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 16,
+        "Agree somewhat": 36,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 14,
+        "Typical": 30,
+        "Somewhat heavier": 20,
+        "Much heavier": 6
+    }
+}

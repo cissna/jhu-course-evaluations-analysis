@@ -1,0 +1,63 @@
+{
+    "course_name": "Research Methods in Psychology",
+    "instructor_name": "Jeffrey Bowen",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 1,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Leslie Bauman",
+        "Lesley Bauman",
+        "Leslie Bauman",
+        "Dr. Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie",
+        "Dr. Leslie Bauman",
+        "leslie bauman",
+        "Leslie Bauman"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 1,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 9,
+        "Much heavier": 2
+    }
+}

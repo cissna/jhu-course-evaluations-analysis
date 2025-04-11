@@ -1,0 +1,67 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Tomas Mejia Gomez",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 4,
+        "Satisfactory": 10,
+        "Good": 5,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Heidi Chiou",
+        "Heidi Chiou",
+        "Heidi Chou",
+        "Zach Bahar. HE IS LITERALLY THE BEST TA I HAVE EVER HAD IN MY WHOLE LIFE. HES SO SMART AND EXPLAINS THINGS SO WELL. YOU NEVER EVER FEEL",
+        "Itel Rivas and Heidi",
+        "Heidi",
+        "Ital/Heidi",
+        "Vivekaditya Booshan",
+        "Heidi Chiou",
+        "Heidi Chiou",
+        "Heidi Chiou",
+        "Vivek",
+        "Heidi",
+        "Heidi",
+        "N/A",
+        "Heidi",
+        "Heidi Chou and Itel Rivas",
+        "Itel",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 11,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 6,
+        "Much heavier": 4
+    }
+}

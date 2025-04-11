@@ -1,0 +1,90 @@
+{
+    "course_name": "Urban Economics",
+    "instructor_name": "Matthew Kahn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 18,
+        "Excellent": 21
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 20,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 22,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 18,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Lalit",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalith",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit",
+        "LaLit",
+        "Lalit Contractor",
+        "Lalit Contractor",
+        "Lalit",
+        "Lalit Contractor",
+        "Lalit"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 20,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 10,
+        "Typical": 28,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

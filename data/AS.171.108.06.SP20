@@ -1,0 +1,64 @@
+{
+    "course_name": "General Physics for Physical Science Majors (AL)",
+    "instructor_name": "Brice Menard",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Tom Halloran",
+        "Thomas Halloran",
+        "Tom Halloran",
+        "Tom",
+        "I had the head TA but didn't remember his name ;)",
+        "Tom Halloran",
+        "Tom",
+        "various TAs",
+        "Chris Lygouras",
+        "Tom Halloran",
+        "Thomas Halloran",
+        "Tom Halloran",
+        "Tom",
+        "Tom Halloran",
+        "Mario",
+        "Tom"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 8,
+        "Much heavier": 7
+    }
+}

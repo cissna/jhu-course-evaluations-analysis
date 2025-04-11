@@ -1,0 +1,63 @@
+{
+    "course_name": "Monetary Analysis",
+    "instructor_name": "Ludmila Poliakova",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 13,
+        "Good": 26,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 12,
+        "Good": 23,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 11,
+        "Good": 23,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 12,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Sinem Toraman",
+        "William Du",
+        "NA",
+        "N/A",
+        "William Du",
+        "There are multiple.",
+        "Na",
+        "mark",
+        "Yagmur Sinem Toraman",
+        "sinem",
+        "n/a",
+        "Sun",
+        "N/A",
+        "There are multiple",
+        "Sun Tanomkiattikun"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 11,
+        "Agree somewhat": 26,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 9,
+        "Typical": 32,
+        "Somewhat heavier": 8,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "course_name": "General Physics: Physical Science Majors II",
+    "instructor_name": "Surjeet Rajendran",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Davonte",
+        "n/a",
+        "Gene",
+        "TAs in general were good.",
+        "Gene Fu",
+        "Gene Fu",
+        "N/A",
+        "N/A",
+        "I don\u2019t know",
+        "Gene Fu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 16,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 9,
+        "Much heavier": 12
+    }
+}

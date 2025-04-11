@@ -1,0 +1,69 @@
+{
+    "course_name": "Research Methods in Psychology",
+    "instructor_name": "Jeffrey Bowen",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Lesile Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie",
+        "Leslie",
+        "x",
+        "Leslie Bauman",
+        "leslie",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 5,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

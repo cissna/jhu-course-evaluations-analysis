@@ -1,0 +1,62 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Yifu Zhou",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Rong Tang",
+        "Rong Tang",
+        "Tang Rong",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang",
+        "Rong Tang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 8,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 8,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

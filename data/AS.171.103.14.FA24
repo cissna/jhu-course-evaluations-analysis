@@ -1,0 +1,67 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Mesut",
+        "Mesut",
+        "Guy from Denmark I think",
+        "mescut",
+        "Mesut Caliskan",
+        "Mesut Caliskan",
+        "mesut caliskan",
+        "Mesut Caliskan",
+        "Masut",
+        "Mesut",
+        "Mesut",
+        "Mesut Caliskan",
+        "Mesut Caliskan",
+        "Mesut",
+        "Mesut Caliskan",
+        "Mesut Caliskan",
+        "Mesut Caliskan",
+        "Mesut Caliskan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 7,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 12,
+        "Much heavier": 6
+    }
+}

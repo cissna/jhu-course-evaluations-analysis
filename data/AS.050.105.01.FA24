@@ -1,0 +1,86 @@
+{
+    "course_name": "Introduction to Cognitive Neuropsychology",
+    "instructor_name": "Michael McCloskey",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 21,
+        "Good": 47,
+        "Excellent": 41
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 4,
+        "Satisfactory": 16,
+        "Good": 33,
+        "Excellent": 56
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 15,
+        "Good": 49,
+        "Excellent": 42
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 6,
+        "Satisfactory": 13,
+        "Good": 23,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Caitlin Sim",
+        "Caitlin",
+        "Amy, Alex, Caitlin",
+        "Caitlin Sim",
+        "N/A",
+        "Alex",
+        "Amy Liu",
+        "unsure",
+        "a",
+        "Alex Shin",
+        "N/A",
+        "Alexander Shilen",
+        "Caitlin Sim",
+        "Dharani Moorthy",
+        "not sure",
+        "dk",
+        "Caitlin",
+        "Amy",
+        "Katelyn Surrao",
+        "Dharani",
+        "Suhani Choudhry",
+        "N/A",
+        "N/A",
+        "All of them",
+        "Those that performed review sessions.",
+        "Caitlin Sim",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Alex",
+        "I don't know any TAs",
+        "Kwan",
+        "Katelyn Surrao, Dharani Moorthy, Amy Liu, Caitlin Sim, Alex Shilen",
+        "Caitlin Sim",
+        "Alex Shilen",
+        "Caitlin Sim",
+        "Alex Shilen, Katelyn Surrao",
+        "Amy",
+        "dharani",
+        "Katelyn Michelle Surrao"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 9,
+        "Disagree somewhat": 14,
+        "Neither agree nor disagree": 27,
+        "Agree somewhat": 38,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 28,
+        "Typical": 61,
+        "Somewhat heavier": 18,
+        "Much heavier": 1
+    }
+}

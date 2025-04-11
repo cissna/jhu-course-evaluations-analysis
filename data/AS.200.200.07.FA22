@@ -1,0 +1,67 @@
+{
+    "course_name": "Research Methods in Psychology",
+    "instructor_name": "Jeffrey Bowen",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "sydni",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "Syndi Nadler",
+        "Sydni",
+        "Sydni",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "I dont remember",
+        "Sydny",
+        "Sydni",
+        "Sydney",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "Sydni Nadler",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 11,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Artificial Intelligence",
+    "instructor_name": "Musad Haque",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 27,
+        "Excellent": 34
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 20,
+        "Excellent": 40
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 13,
+        "Good": 25,
+        "Excellent": 27
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 20
+    },
+    "ta_names": [
+        "Sabrina Mielke",
+        "Sabrina Mielke",
+        "sabrina",
+        "Yiyang Han",
+        "Sabrina",
+        "Yiyang Han",
+        "Sabrina Mielke",
+        "Yiyang Han",
+        "Sabrina Mielke",
+        "Sabrina Mielke",
+        "Sabrina Mielke",
+        "Sabrina Mielke",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 13,
+        "Agree somewhat": 26,
+        "Agree strongly": 26
+    },
+    "workload_frequency": {
+        "Much lighter": 9,
+        "Somewhat lighter": 21,
+        "Typical": 35,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

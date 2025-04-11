@@ -1,0 +1,61 @@
+{
+    "course_name": "Introduction to Data Science",
+    "instructor_name": "Tamas Budavari",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Xiaozhou Lu",
+        "Xiaozhou Lu",
+        "Xiaozhou Lu",
+        "Zachary Pisano",
+        "Zach",
+        "Xiaozhou Lu",
+        "Xiaozhou Lu",
+        "Xiaozhou Lu",
+        "Xiaozhou Ly",
+        "Zach",
+        "Olin",
+        "Zachary P",
+        "Maze Lu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 11,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

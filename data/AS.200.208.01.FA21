@@ -1,0 +1,67 @@
+{
+    "course_name": "Animal Behavior",
+    "instructor_name": "Kirsten Bohn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 25
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 28
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 16,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Arunima Banerjee and Lauren Maytin",
+        "Arunima Banerjee",
+        "Arunima",
+        "N/A",
+        "Arunima Banerjee",
+        "Arunima Banerjee",
+        "N/A",
+        "Arunima Banerjee",
+        "Arunima",
+        "Eric Holt",
+        "Lauren Maytin, Arunima Banerjee",
+        "N/A",
+        "Arunima Banerjee, Lauren Maytin",
+        "Arunima",
+        "Arunima Banerjee",
+        "Arunima",
+        "Arunima Banerjee",
+        "ARUNIMA BANERJEE",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 12,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 7,
+        "Typical": 29,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

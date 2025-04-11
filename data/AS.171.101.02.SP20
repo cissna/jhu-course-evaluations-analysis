@@ -1,0 +1,61 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Robert Leheny",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 1,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Oz",
+        "Oz Amram",
+        "Oz Amram",
+        "Sanjana Sekhar",
+        "Oz Amram",
+        "Oz Amram",
+        "Oz Amram",
+        "Oz Amram",
+        "All TAs associated with this class",
+        "Oz",
+        "Oz Amram",
+        "Oz Amram",
+        "Oz Amram"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 2,
+        "Somewhat heavier": 7,
+        "Much heavier": 6
+    }
+}

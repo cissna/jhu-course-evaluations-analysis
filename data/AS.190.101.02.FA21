@@ -1,0 +1,64 @@
+{
+    "course_name": "Introduction to American Politics",
+    "instructor_name": "Adam Sheingate",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy",
+        "Lynsy",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy Smithson-Stanley",
+        "Lynsy",
+        "Lynsy Smithson-Stanely"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 7,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 13,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "Urban Economics",
+    "instructor_name": "Sohani Fatehin",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Matthew Zahn",
+        "Matthew Zahn",
+        "Matthew Zahn",
+        "Matthew",
+        "Matthew Zahn",
+        "Matthew Zahn",
+        "Matthew Zahn",
+        "N/A",
+        "Matthew Zahn",
+        "Matthew Zahn",
+        "Mathew Zahn"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 7,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 11,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

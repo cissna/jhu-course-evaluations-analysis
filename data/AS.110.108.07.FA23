@@ -1,0 +1,61 @@
+{
+    "course_name": "Calculus I (Physical Sciences & Engineering)",
+    "instructor_name": "Yuchin Sun",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 7,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Ashley",
+        "Vivekaditya",
+        "Ashley Cluff",
+        "Lewis",
+        "Yitong Sun. She is amazing and will help you with whatever question you need!",
+        "Ashley",
+        "Ashley",
+        "Ashley Cluff",
+        "I don't remember.",
+        "Ashley Cluff",
+        "vivek",
+        "?",
+        "I forgot"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 11,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 8,
+        "Much heavier": 3
+    }
+}

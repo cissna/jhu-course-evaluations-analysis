@@ -1,0 +1,59 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Caterina Consani",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei",
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei Wang",
+        "Yanfei Wang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 2,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 5,
+        "Much heavier": 5
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "course_name": "Machine Learning: Deep Learning",
+    "instructor_name": "Mathias Unberath",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 34
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 31
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 32
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 25
+    },
+    "ta_names": [
+        "Cong; Weiyao; Sihan",
+        "Catalina",
+        "Weiyao",
+        "Catalina",
+        "Catalina",
+        "Sihan Wei",
+        "weiyao wang",
+        "Catalina",
+        "Weiyao Wang, Jessica Su, Sihan Wei",
+        "Catalina Gomez, Sihan Wei, Weiyao Wang",
+        "Weiyao",
+        "Sihan Wei, Hao Ding",
+        "Catalina Gomez Caballero, Weiyao Wang, Sihan Wei",
+        "Sihan Wei",
+        "Weiyao Wang Catalina",
+        "Cong Gao, Weiyao Wang, Catalina Gomez",
+        "all",
+        "all",
+        "Catalina Gomez Caballero",
+        "Cong Gao",
+        "Catalina Gomez",
+        "Catalina Gomez",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 15,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 6,
+        "Somewhat heavier": 21,
+        "Much heavier": 14
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "course_name": "Brain-Body Interactions in Health and Disease",
+    "instructor_name": "Mohamed Farah",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 14,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 15,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 13,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Zaida and Bohan",
+        "Bohan Zhang, Zaida",
+        "Zaida, Bohan",
+        "Bohan and Zaida",
+        "Bohan,Zaida",
+        "Zaida McClinton",
+        "Zaida McClinton and Bohan Zhang",
+        "Zaida and Bohan",
+        "Zaida and Bohan",
+        "Bohan Zhang, Zaida McClinton",
+        "Zaida and Bohan",
+        "Zaida",
+        "Bohan Zhang, Zaida McClinton",
+        "Zaida McClinton",
+        "Bohan Zhang, Zaida Mclintock",
+        "Bohan, Zaida",
+        "Zaida and Bohan",
+        "Zaida McClinton",
+        "Bohan Zhang, Zaida McClinton",
+        "Bohan Zhang",
+        "Zaida, Bohan",
+        "Bohan and Zaida",
+        "Bohan Zhang",
+        "Bohan Zhang and Zaida McClinton",
+        "Zaida, Bohan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Body Interactions in Health and Disease"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 12,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 16,
+        "Somewhat heavier": 11,
+        "Much heavier": 0
+    }
+}

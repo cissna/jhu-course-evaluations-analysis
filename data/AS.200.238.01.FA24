@@ -1,0 +1,67 @@
+{
+    "course_name": "Primate Minds",
+    "instructor_name": "Christopher Krupenye",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Luke Townrow",
+        "Luke Townrow",
+        "Luke Townrow",
+        "Luke",
+        "Luke",
+        "Luke Townrow",
+        "Luke Townrow",
+        "Luke Townrow",
+        "Luke",
+        "Luke Townrow",
+        "Luke",
+        "Luke Townrow",
+        "Luke Townrow",
+        "Luke",
+        "luke",
+        "Luke Tonrow",
+        "Luke Townrow",
+        "Luke",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 9,
+        "Typical": 12,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

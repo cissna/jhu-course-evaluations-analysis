@@ -1,0 +1,54 @@
+{
+    "course_name": "General Physics:Physical Science Major I",
+    "instructor_name": "Andrei Gritsan",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "Tatiana Ushakova",
+        "n/a",
+        "I just realized I posted my very critical review of this class to the physics lab class instead by accident... If there is a way to tell them oops please do but if not ig it",
+        "Mufaro",
+        "N/A",
+        "Will Liang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 4,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 11,
+        "Somewhat heavier": 4,
+        "Much heavier": 4
+    }
+}

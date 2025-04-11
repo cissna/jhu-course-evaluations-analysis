@@ -1,0 +1,71 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Lawrence Principe",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 12,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Cameron Goff",
+        "Sawyer Lyons",
+        "Hanrui",
+        "Sawyer Lyons",
+        "Jonah",
+        "Calvin Hong",
+        "Sawyer Lyons",
+        "Calvin Hong",
+        "Jonah Ruskin",
+        "Sawyer Lyons",
+        "Sawyer",
+        "Hanrui",
+        "Daniel Lemen",
+        "Xizue Wang",
+        "Hanrui Yu",
+        "Jonah",
+        "Dan Lemen",
+        "Calvin",
+        "I don\u2019t remember",
+        "Daniel Lemen",
+        "xiuze",
+        "Daniel Lemen",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 11,
+        "Agree somewhat": 4,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 5,
+        "Somewhat heavier": 9,
+        "Much heavier": 11
+    }
+}

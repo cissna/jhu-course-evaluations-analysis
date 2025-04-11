@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "section 14",
+        "N/A",
+        "all of them",
+        "Wyatt Bunstine",
+        "Wyatt",
+        "Wyatt Bunstine",
+        "Wyatt",
+        "Wyatt",
+        "n/a",
+        "N/A; we don't interact with them",
+        "Wyatt Bunstine"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 13,
+        "Much heavier": 4
+    }
+}

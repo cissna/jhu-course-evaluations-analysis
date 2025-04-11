@@ -1,0 +1,57 @@
+{
+    "course_name": "Introduction to Computational Mathematics",
+    "instructor_name": "Sergey Kushnarev",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Ryan Jasper",
+        "Ryan Jasper",
+        "Ryan Jasper",
+        "Ryan Jasper",
+        "Ryan Jasper",
+        "All 3 are absolute banger TAs",
+        "Ryan Jasper",
+        "Ryan",
+        "Ryan Jasper, Sofia Taylor"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 9,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 8,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "course_name": "Econometrics",
+    "instructor_name": "Muhammad Husain",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 13,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Tong",
+        "Jason and Taylor",
+        "Tong Zhou",
+        "Tong Zhou",
+        "Tong Zhou",
+        "n/a",
+        "Tong Zhou",
+        "idk",
+        "Tong Zhou, Jason Rutberg",
+        "Fangzhu Yang",
+        "Tong Zhou",
+        "Tong Zhou",
+        "Tong",
+        "Jason Rutberg",
+        "Tong",
+        "Tong Zhou",
+        "Tong Zhou",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 4,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 2,
+        "Somewhat heavier": 10,
+        "Much heavier": 8
+    }
+}

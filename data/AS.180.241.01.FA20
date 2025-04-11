@@ -1,0 +1,80 @@
+{
+    "course_name": "International Trade",
+    "instructor_name": "Somasree Dasgupta",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 22,
+        "Excellent": 34
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 43
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 29,
+        "Excellent": 26
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Nina Tophoff",
+        "Nina Tophoff",
+        "Himanshu Verma, Nina Tophoff, Louis Burns",
+        "Nina, Lou, Himanshu",
+        "Nina Tophoff",
+        "Nina",
+        "Louis Burns",
+        "Nina Tophoff",
+        "Nina Tophoff",
+        "Himanshu Verma",
+        "I have no idea who it is.",
+        "Nina Tophoff, Louis Burns",
+        "Nina Tophoff",
+        "Himanshu Verma",
+        "Lou Burns",
+        "Nina Tophoff",
+        "Nina Tophoff & Louis Burns",
+        "Nina and Lou",
+        "N/A",
+        "Nina Tophoff",
+        "Nina Tophoff",
+        "Lou Burns",
+        "Himanshu Verma",
+        "Himanshu Verma",
+        "Lou Burns",
+        "Louis Burns",
+        "Im sorry, forget their name.",
+        "Nina Tophoff",
+        "Nina",
+        "not sure who mine was",
+        "Himanshu Verma, Nina Tophoff, and Louis Burns",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 28,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 8,
+        "Typical": 47,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

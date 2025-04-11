@@ -1,0 +1,69 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Bruce Hamilton",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Sahan Yildiz",
+        "Sahan",
+        "Sahan Yildiz",
+        "Sahan Yildiz",
+        "Sahan Yildiz",
+        "Yildez",
+        "Sahan yildiz",
+        "Sahan Yildiz",
+        "Sahan Yilditz",
+        "Sahan Yildiz",
+        "Sahan Yildiz",
+        "Sahan Yildiz",
+        "Sahan Yildiz",
+        "Sahan Yildiz",
+        "Sahan",
+        "Sahan Yildiz",
+        "Sahan Yildez",
+        "Sahan Yildiz",
+        "a",
+        "Sahan Yildiz",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 6,
+        "Typical": 8,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

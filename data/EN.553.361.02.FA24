@@ -1,0 +1,62 @@
+{
+    "course_name": "Introduction to Optimization",
+    "instructor_name": "Donniell Fishkind",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Yeninda",
+        "Yeninda Tjoa",
+        "Yamato Okura",
+        "Yeninda",
+        "Yeninda",
+        "Yeninda Tjoa",
+        "Yeninda Tjoa",
+        "Yeninda Tjoa",
+        "Yeninda Tjoa",
+        "yeninda",
+        "Yeninda",
+        "yelinda",
+        "Yeninda Tjoa",
+        "Yeninda"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 16,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

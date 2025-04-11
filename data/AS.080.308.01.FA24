@@ -1,0 +1,74 @@
+{
+    "course_name": "Neuroeconomics",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 42
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 45
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 22,
+        "Excellent": 29
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 17,
+        "Excellent": 20
+    },
+    "ta_names": [
+        "michelle liu",
+        "Nathan Jin & Michelle Liu",
+        "Michelle and Nathan",
+        "Michelle Liu, Nathan Jin",
+        "Nathan Jin and Michelle Liu",
+        "Michelle Liu",
+        "Michelle Liu",
+        "Michelle/Nathan",
+        "Nathan and Michelle",
+        "Michelle and Nathan",
+        "All",
+        "Michelle",
+        "Michelle Liu and Nathan Jin",
+        "Michelle and Nathan",
+        "Michelle",
+        "Nathan/Michelle",
+        "Michelle and Nathan",
+        "Nathan and Michelle",
+        "Nathan and Michelle",
+        "N/A",
+        "Michelle Liu",
+        "Nathan Jin",
+        "Nathan",
+        "Michelle Liu and Nathan Jin",
+        "Michelle Liu; Nathan Jin",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 17,
+        "Agree strongly": 24
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 12,
+        "Typical": 39,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

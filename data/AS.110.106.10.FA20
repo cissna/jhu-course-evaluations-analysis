@@ -1,0 +1,63 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Yifu Zhou",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Jenny Wang",
+        "Nikki Wang",
+        "Nikki",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang",
+        "Nikki Wang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

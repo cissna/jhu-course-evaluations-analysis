@@ -1,0 +1,64 @@
+{
+    "course_name": "Diversity in Psychology",
+    "instructor_name": "Debby Haskins",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jerema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "ann jarema",
+        "Ann Jarema",
+        "Ann",
+        "Ann Jamera",
+        "Anne",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema",
+        "Ann Jarema"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 8,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

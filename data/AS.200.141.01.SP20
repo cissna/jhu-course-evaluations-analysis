@@ -1,0 +1,83 @@
+{
+    "course_name": "Foundations of Brain, Behavior and Cognition",
+    "instructor_name": "Dani Smith",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 1,
+        "Satisfactory": 23,
+        "Good": 42,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 6,
+        "Satisfactory": 27,
+        "Good": 28,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 12,
+        "Good": 33,
+        "Excellent": 35
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "Sasha",
+        "Sasha Desilva",
+        "i dont know",
+        "Valentina Mattfeld",
+        "Valentina Mattfield",
+        "everyone :)",
+        "Valentina Mattfield",
+        "all",
+        "We had no TA sessions or specific TAs, but all the TAs were good in answering our Piazza questions and for teaching us in review sessions.",
+        "Valentina, Hayley, Sasha, Lauren",
+        "Sashinya DeSilva",
+        "N/A",
+        "Sasha, Lauren, Valentina, Haley",
+        "Valentina Mattfeld",
+        "valentina",
+        "Valentina Mattfeld",
+        "N/A",
+        "all of them",
+        "Valentina",
+        "N?A",
+        "Ariadni Xydia",
+        "Sashina Desilva",
+        "Sashinya",
+        "Ann Jarema",
+        "Valentina",
+        "Many",
+        "I don't know the name",
+        "N/A",
+        "Sashinya Desilva",
+        "Ann Jarema, Lauren Brewster, Valentina Mattfeld, Sashinya DeSilva, Hayley O'Brion, Ariadni Xydia",
+        "Valentina Mattfeld",
+        "Valentine Mattfeld",
+        "Valentina Mattfeld",
+        "na",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 15,
+        "Neither agree nor disagree": 21,
+        "Agree somewhat": 33,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 9,
+        "Typical": 39,
+        "Somewhat heavier": 20,
+        "Much heavier": 10
+    }
+}

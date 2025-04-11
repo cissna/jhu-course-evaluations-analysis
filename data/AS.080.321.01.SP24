@@ -1,0 +1,64 @@
+{
+    "course_name": "Computational Neuroscience",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 26
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 14,
+        "Excellent": 27
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 15,
+        "Excellent": 24
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Mikhail Coen",
+        "Misha",
+        "sam",
+        "N/A",
+        "Mikhael Coen",
+        "Mikhail/ Sam",
+        "Mikhail",
+        "Sam Bronckers",
+        "Sam Bronkers",
+        "Samuel Bronckers",
+        "Sam",
+        "Coen and Bronkers",
+        "N/A",
+        "Sam Bronkers",
+        "Sam",
+        "Mikhail Coen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 20,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 10,
+        "Typical": 27,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

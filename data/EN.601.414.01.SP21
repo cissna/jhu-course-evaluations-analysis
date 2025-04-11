@@ -1,0 +1,87 @@
+{
+    "course_name": "Computer Networks",
+    "instructor_name": "Soudeh Ghorbani Khaledi",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 15,
+        "Good": 16,
+        "Excellent": 25
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 6,
+        "Satisfactory": 15,
+        "Good": 14,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 25,
+        "Excellent": 28
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 37
+    },
+    "ta_names": [
+        "All TAs",
+        "Chris Xu",
+        "Christopher Xu",
+        "Eugene Asare",
+        "Katarina",
+        "Eugene Asare",
+        "Katerina Mayer",
+        "Christopher Xu, Sepehr Abdous",
+        "Kat Mayer",
+        "Kat",
+        "All",
+        "Eugene Asare, Katarina Mayer, Christopher Xu, Sepehr Abdous, Jonathan Prokos",
+        "Sephyr",
+        "Kat",
+        "All but not Kat",
+        "Katerina Mayer",
+        "Katarina, Eugene",
+        "Katarina Meyer",
+        "Katarina Mayer",
+        "Kat Meyer",
+        "Eugene Asare, Katarina Mayer",
+        "Katarina Mayer",
+        "Eugene, Kat, Chris",
+        "Christopher",
+        "Katarina",
+        "Sepher Abdous",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Chris",
+        "Sepehr Abdous",
+        "Jessica Bonnie",
+        "C. Xu",
+        "Christopher",
+        "Jonathan Prokos",
+        "Katerina Mayer",
+        "Kathryn Newbold",
+        "Eugene",
+        "Eugene",
+        "Kat",
+        "Katarina Mayer"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 22,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 15,
+        "Somewhat heavier": 32,
+        "Much heavier": 17
+    }
+}

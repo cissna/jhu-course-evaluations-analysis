@@ -1,0 +1,70 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Richard Brown",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 7,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 9,
+        "Satisfactory": 6,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 11,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Katelyn Kociancic",
+        "Katelyn Konciac",
+        "Katelyn K",
+        "Kaetlyn Koncic",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Kately Kociancic",
+        "Kaitlyn",
+        "Katelyn Kocianic",
+        "Katelyn Kociancic",
+        "Katelyn",
+        "N/A",
+        "Katelyn",
+        "Katelyn K",
+        "Kaetlyn",
+        "Katelyn Kociancic",
+        "katelyn koncianic",
+        "Katelyn Kociancic",
+        "Katelyn Kocianic",
+        "Katelyn Kociancic",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 9,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 8,
+        "Much heavier": 7
+    }
+}

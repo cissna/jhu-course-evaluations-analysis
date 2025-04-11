@@ -1,0 +1,61 @@
+{
+    "course_name": "Latin American Politics and Society in Comparative and Historical Prespective",
+    "instructor_name": "Sebastian Mazzuca",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Sebasti\u00e1n Cortesi",
+        "Sebasti\u00e1n Cortesi",
+        "Sebastian",
+        "Sebastian Cortesi",
+        "Sebastian Cortesi",
+        "Sebastian cortesi",
+        "Sebastian Cortesi",
+        "Sebastian cortesi",
+        "Sebastian Cortesi",
+        "Sebastian Cortesi",
+        "Sebastian Cortessi",
+        "Sebastian Cortesi",
+        "Sebasti\u00e1n Cortesi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 1,
+        "Much heavier": 2
+    }
+}

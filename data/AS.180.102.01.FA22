@@ -1,0 +1,70 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Muhammad Husain",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 16,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 16,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Huan Deng",
+        "Huan",
+        "Huan Deng",
+        "Huan Deng",
+        "Huan Deng",
+        "Huan",
+        "Huan Deng",
+        "I don't remember",
+        "Huan",
+        "Huan Deng",
+        "Huan Deng",
+        "Huan Deng",
+        "Hank Behaeghel",
+        "Don't know",
+        "Hank Behaegel",
+        "Huan Deng",
+        "Hank Behaeghel",
+        "Huan Deng",
+        "Huan Deng",
+        "Huan Deng",
+        "Huan Deng",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 15,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 11,
+        "Typical": 18,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

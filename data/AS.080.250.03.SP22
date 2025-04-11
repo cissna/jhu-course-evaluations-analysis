@@ -1,0 +1,64 @@
+{
+    "course_name": "Neuroscience Laboratory",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Brian Li",
+        "Brian Li ; Adrian Jensen",
+        "Adrian and Brian",
+        "Brian Li and Adrian",
+        "Adrian Jenson, Brian Li",
+        "Brian and Adrian",
+        "Brian , Adrian",
+        "Brian",
+        "Adrian Jenson and Brian Li",
+        "Adrian and Brian",
+        "Adrian Jenson, Brian Li",
+        "Adrian and Brian (Thursday section)",
+        "Brian, Adrian",
+        "Brian & Adrian",
+        "Adrian Eddy-Sulaiman Jenson",
+        "Brian, Adrian"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 10,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 4,
+        "Typical": 13,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

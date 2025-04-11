@@ -1,0 +1,67 @@
+{
+    "course_name": "Market Design",
+    "instructor_name": "Marcelo Fernandez",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Jeremy Costin and Beckie Cohen",
+        "Beckie Cohen, Jeremy Costin",
+        "Beckie Cohen and Jeremy Costin",
+        "Becky, Jeremy",
+        "Beckie and Jeremy",
+        "Jeremy and Beckie",
+        "Becky",
+        "Beckie Cohen and Jeremy Costin",
+        "Jeremy and Beckie",
+        "Jeremy and Becky",
+        "Beckie Cohen and Jeremy Costin",
+        "Beckie",
+        "Beckie Cohen and Jeremy Costin",
+        "Beckie Cohen",
+        "Beckie and Jeremy",
+        "Beckie Cohen, Jeremy Costin",
+        "Jeremy Costin and Beckie Cohen",
+        "Beckie and Jeremy",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 12,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 6,
+        "Typical": 14,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "course_name": "Investment-Portfolio Management",
+    "instructor_name": "Francesco Bianchi",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 6,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Jeongwon Son",
+        "Qingyang Han",
+        "Qingyang",
+        "Jeongwon (John) Son",
+        "Jeongwon Son",
+        "Qingyang Han and Jeongwon Son",
+        "Jeowong",
+        "Qingyang",
+        "Qingyang Han",
+        "John",
+        "No TA",
+        "Jeongwon Son",
+        "Jeongwon Son",
+        "Jeongwon Son",
+        "QIngyang Han",
+        "Jeongwon Son",
+        "Qingyang and Jeonwon",
+        "Qingyang Han and Jeongwon Son",
+        "Jeongwon Son and Qingyang Han",
+        "Qinyang Han",
+        "HQ Liu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Portfolio Management"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 15,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 26,
+        "Somewhat heavier": 5,
+        "Much heavier": 3
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "course_name": "Numerical Linear Algebra",
+    "instructor_name": "Sammy Khalife",
+    "overall_quality_frequency": {
+        "Poor": 10,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 9,
+        "Weak": 6,
+        "Satisfactory": 6,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 4,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Hongyu Cheng, Heed Liu",
+        "Heed Liu",
+        "Hongyu Cheng, Heed Liu",
+        "Heed Liu",
+        "Liu",
+        "Heed Liu",
+        "Hongyu Cheng",
+        "HongYu Cheng",
+        "Hongyu Cheng",
+        "Heed Liu",
+        "Hongyu Cheng",
+        "Heed Liu",
+        "Heed Liu",
+        "Hongyu",
+        "Heed Liu",
+        "Both",
+        "Hongyu Cheng, Heed Liu",
+        "Hongyu",
+        "Hongyu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 12,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 6,
+        "Much heavier": 19
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "course_name": "The Economic Experience of the BRIC Countries",
+    "instructor_name": "Somasree Dasgupta",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 13,
+        "Excellent": 37
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 44
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 12,
+        "Good": 13,
+        "Excellent": 28
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Derek",
+        "Prerna Rakheja, Himanshu Verma, Derek Moritz",
+        "Prerna Rakheja, Himanshu Verma, Derek Moritz",
+        "Prerna Rakheja",
+        "Prerna",
+        "Prerna",
+        "N/A",
+        "Himanshu",
+        "Prerna",
+        "Himanshu Verma",
+        "Prerna Rakheja",
+        "Prerna Rakheja",
+        "Himanshu Verma",
+        "Himanshu Verma",
+        "Himanshu Verma and Prerna Rakheja",
+        "N/A",
+        "Himanshu Verma",
+        "Prerna Rakheja",
+        "Derek Moritz",
+        "Himanshu Verma",
+        "Derek and Grad Students",
+        "Prerna Rakheja",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 13,
+        "Agree somewhat": 14,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 7,
+        "Typical": 37,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

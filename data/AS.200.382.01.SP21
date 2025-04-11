@@ -1,0 +1,68 @@
+{
+    "course_name": "Models of Psychotherapy",
+    "instructor_name": "Alison Papadakis",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Meghan McGlaughlin",
+        "Megan",
+        "Meghan McGlaughlin",
+        "Meghan McGlaughlin",
+        "Meghan McGlaughlin",
+        "Meghan",
+        "Meghan McGlaughlin",
+        "Meghan McClaulin",
+        "Megan",
+        "Meghan McGlaughlin",
+        "Meghan McGlaughlin",
+        "Meghan McGlaughlin",
+        "Meghan",
+        "Megan",
+        "Meghan McGlaughlin",
+        "Megan M",
+        "Meghan McLaughlin",
+        "Meghan McGlaughlin",
+        "Meghan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 13,
+        "Much heavier": 6
+    }
+}

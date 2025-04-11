@@ -1,0 +1,64 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Tim Campion",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 6,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Yantao Wu",
+        "Yantao Wu",
+        "I'm unsure",
+        "Yantao Wu",
+        "Yantao Wu",
+        "Yantao Wu",
+        "Sarah Padilla",
+        "Yantao Wu",
+        "Sarah Padilla",
+        "Yantao",
+        "Sarah Padilla",
+        "Sarah Padilla",
+        "Yantao Wu",
+        "Sarah Padilla",
+        "Sarah Padilla",
+        "Yantao Wu, Sarah Padilla (CA)"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 11,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 17,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

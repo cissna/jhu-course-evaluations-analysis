@@ -1,0 +1,59 @@
+{
+    "course_name": "Public Health Biostatistics",
+    "instructor_name": "Margaret Taub",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Yu",
+        "Yu",
+        "Yu",
+        "Yu Lu",
+        "NA",
+        "Section 3 TA",
+        "Im not sure who my TA even was",
+        "section 3",
+        "Yu",
+        "Yu",
+        "Yu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 4,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 12,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

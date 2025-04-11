@@ -1,0 +1,61 @@
+{
+    "course_name": "Design & Statistical Analysis for Psychology",
+    "instructor_name": "Jeffrey Bowen",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Leslie Kauffman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Dr. Leslie Bauman",
+        "Leslie Bauman",
+        "Bauman Leslie",
+        "Leslie Bauman",
+        "Dr. Leslie Bauman",
+        "Leslie",
+        "Leslie",
+        "leslie bauman",
+        "Leslie"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 7,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Mufaro",
+        "Chuanyi Wang",
+        "Chuanyi Wang",
+        "Lola or Sasha (whoever is the female TA in charge of proctoring Mudd 26 for exams)",
+        "Chuanyi",
+        "Lola Morales",
+        "Chuanyi Wang",
+        "Lola / Chuanyi",
+        "Lola",
+        "Chuanyi Wang",
+        "Chuanyi",
+        "Mikael",
+        "Lola",
+        "Chuanyi",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 11,
+        "Much heavier": 11
+    }
+}

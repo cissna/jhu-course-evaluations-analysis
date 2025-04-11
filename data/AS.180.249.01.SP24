@@ -1,0 +1,61 @@
+{
+    "course_name": "Gender Economics",
+    "instructor_name": "Hellen Seshie-Nasser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Megha and Ema",
+        "Megha Oberoi",
+        "Ema Nakayama, Megha Oberoi",
+        "Megha Oberoi",
+        "Megha",
+        "Megha",
+        "Ema, Megha",
+        "Megha Oberoi, Ema Nakayama",
+        "Megha Oberoi",
+        "Ema Nakayama",
+        "Megha Oberoi",
+        "Ema",
+        "Megha Oberoi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 2,
+        "Much heavier": 2
+    }
+}

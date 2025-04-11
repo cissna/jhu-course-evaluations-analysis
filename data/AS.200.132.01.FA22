@@ -1,0 +1,85 @@
+{
+    "course_name": "Introduction to Developmental Psychology",
+    "instructor_name": "Lisa Feigenson",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 45,
+        "Excellent": 76
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 13,
+        "Good": 22,
+        "Excellent": 98
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 16,
+        "Good": 57,
+        "Excellent": 57
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 20,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "N/A",
+        "Caroline Myers",
+        "Mike",
+        "Caroline Myers",
+        "Caroline",
+        "Nick",
+        "Nick Bisbee/Caroline Myers",
+        "Nick Bisbee",
+        "Caroline Myers",
+        "Nick Bisbee, Caroline Myers",
+        "Nick Bisbee, Caroline Myers",
+        "Nick Bisbee",
+        "I had never talked to any of the TAs",
+        "n/a",
+        "Nick Bisbee and Caroline Myers",
+        "Caroline Myers",
+        "Nick Bisbee, Caroline Myers",
+        "Nick Bisbee",
+        "Nick Bisbee",
+        "Caroline",
+        "n/a",
+        "Caroline Myers",
+        "N/A",
+        "IDK",
+        "N/A",
+        "Caroline",
+        "Nick Bisbee, Caroline Myers",
+        "Caroline",
+        "Nick Bisbee and Caroline Myers",
+        "N/A",
+        "Caroline Myers",
+        "N/A",
+        "Nick and Caroline",
+        "Nick",
+        "Nick Bisbee",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 13,
+        "Agree somewhat": 60,
+        "Agree strongly": 49
+    },
+    "workload_frequency": {
+        "Much lighter": 5,
+        "Somewhat lighter": 32,
+        "Typical": 84,
+        "Somewhat heavier": 11,
+        "Much heavier": 0
+    }
+}

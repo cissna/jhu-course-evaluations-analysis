@@ -1,0 +1,88 @@
+{
+    "course_name": "Positive Psychology",
+    "instructor_name": "Justin Halberda",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 28,
+        "Excellent": 40
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 26,
+        "Excellent": 46
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 41,
+        "Excellent": 23
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 14,
+        "Good": 25,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Peter Mazalik",
+        "Peter Mazalik",
+        "na",
+        "Peter",
+        "Peter",
+        "Don't even know his name he did nothing",
+        "Peter",
+        "Peter Mazalik",
+        "Peter",
+        "Peter",
+        "Peter",
+        "Peter Mazalik",
+        "Peter Mazalik",
+        "Peter",
+        "Peter",
+        "Peter",
+        "N/A",
+        "Peter Mazalik",
+        "Peter M.",
+        "Peter",
+        "Peter Mazalik",
+        "Peter",
+        "Peter",
+        "Peter Mazalik",
+        "Peter Mazalik",
+        "Peter",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Peter",
+        "Peter",
+        "Peter Mazalik",
+        "John?",
+        "N/A",
+        "Peter",
+        "dont remember",
+        "Peter Mazalik",
+        "P Mazalik",
+        "Peter",
+        "Peter Mazalik",
+        "Peter Mazalik",
+        "Peter"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 20,
+        "Agree somewhat": 24,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 20,
+        "Typical": 34,
+        "Somewhat heavier": 13,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Thomas Lectka",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 13,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Manusha Gamage",
+        "Eric Holt",
+        "Stefan Harry",
+        "Jinyan Rui",
+        "Runali Wang",
+        "Jinyan Rui",
+        "Stephan Harry",
+        "Fan fang",
+        "Jinyan Rui",
+        "Fan Fang",
+        "Jonathan Malhum",
+        "Anna li",
+        "Manusha Gamage",
+        "Anne Li",
+        "Stefan Harry",
+        "Manusha",
+        "manusha",
+        "Anna Li",
+        "Anna Li",
+        "Eric Holt",
+        "Eric Holt",
+        "Runlai Wang",
+        "Eric Holt",
+        "Runlai Wang",
+        "Jinyan Rui",
+        "Fan Fang",
+        "Jinyan Rui",
+        "Eric Holt",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 10,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 7,
+        "Typical": 13,
+        "Somewhat heavier": 9,
+        "Much heavier": 2
+    }
+}

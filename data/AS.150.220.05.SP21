@@ -1,0 +1,53 @@
+{
+    "course_name": "Introduction to Moral Philosophy",
+    "instructor_name": "Hilary Bok",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Alexander Ioakimidis",
+        "Alex Loakimidis",
+        "alexander ioakimidis",
+        "Alex",
+        "Alexander Iokamidis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

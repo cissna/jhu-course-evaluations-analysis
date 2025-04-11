@@ -1,0 +1,50 @@
+{
+    "course_name": "Careers in Psychology - Juniors & Seniors",
+    "instructor_name": "Heather Roberts Fox",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 12,
+        "Somewhat lighter": 9,
+        "Typical": 5,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

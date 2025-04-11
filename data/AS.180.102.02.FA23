@@ -1,0 +1,85 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Muhammad Husain",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 18,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 11,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Su Wang",
+        "Su Wang",
+        "Sam Wang",
+        "Su (Sam) Wang",
+        "Su Wang",
+        "Sam Wang",
+        "Su Wang",
+        "Su (Sam) Wang",
+        "Sam Wang",
+        "Su wang",
+        "Su Wang",
+        "Su Wang",
+        "Sam (Section 2)",
+        "Su Wang",
+        "Su Wang",
+        "Sam",
+        "Su Wang",
+        "Sam Wang",
+        "Su Wang",
+        "Su Wang",
+        "Sam Wang",
+        "sam",
+        "Su Wang",
+        "Sam Wang",
+        "Su Wang",
+        "Sam Wang",
+        "Su Wang",
+        "Sam Wang",
+        "Sam",
+        "Su Wang",
+        "Sam Wang",
+        "N/A",
+        "N/A",
+        "Su (Sam) Wang",
+        "Sam Wang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 13,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 8,
+        "Typical": 21,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

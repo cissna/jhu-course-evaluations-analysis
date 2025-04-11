@@ -1,0 +1,69 @@
+{
+    "course_name": "Financial Markets and Institutions",
+    "instructor_name": "Josh Feinman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 17,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 11,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzhou Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzuo",
+        "Mingzuo Sun",
+        "Mingzuo Sun",
+        "Mingzhou",
+        "Mingzuo Sun",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 17,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 23,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

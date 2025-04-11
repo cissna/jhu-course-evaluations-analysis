@@ -1,0 +1,60 @@
+{
+    "course_name": "General Physics I for Biological Science Majors",
+    "instructor_name": "Tobias Marriage",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "I don't want to target a specific TA, but in general, office hours can be very unproductive because each TA gives conflicting answers.",
+        "Christos",
+        "Kakogiannis, Christos",
+        "Christos Kakogiannis",
+        "Kristos Kakogiannis",
+        "Christof",
+        "Kristov was my section leader and an amazing teacher!",
+        "Christos Kakogiannis",
+        "n/a",
+        "Christos",
+        "Christos Kakogiannis",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 11,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 7,
+        "Much heavier": 10
+    }
+}

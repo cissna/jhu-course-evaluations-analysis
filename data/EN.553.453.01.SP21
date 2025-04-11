@@ -1,0 +1,61 @@
+{
+    "course_name": "Mathematical Game Theory",
+    "instructor_name": "Beryl Castello",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Both",
+        "Zhiyue Zhang",
+        "Zhiyue Zhang",
+        "Serena Goldberg, and I don't remember the other guys name",
+        "Serena Goldberg",
+        "Serena Goldberg",
+        "Serena",
+        "Serena Goldberg",
+        "Zhiyue",
+        "Zhiyue Zhang",
+        "Serena Goldberg",
+        "Serena Goldberg",
+        "Zhiyue Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 5,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 6,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

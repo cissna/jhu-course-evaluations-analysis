@@ -1,0 +1,63 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 9,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "All of them :)",
+        "Eric Holt",
+        "All",
+        "Eric Holt",
+        "Eric Holt",
+        "Eric Holt",
+        "Eric Holt",
+        "All of them",
+        "Eric Hill",
+        "N/A",
+        "Eric Holt",
+        "Erik",
+        "The only helpful TA was Eric, he was excellent. All the other TAs confused me.",
+        "Eric Holt",
+        "Nathaniel"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 12,
+        "Somewhat heavier": 9,
+        "Much heavier": 7
+    }
+}

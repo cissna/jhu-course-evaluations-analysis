@@ -1,0 +1,93 @@
+{
+    "course_name": "Introduction to Developmental Psychology",
+    "instructor_name": "Lisa Feigenson",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 14,
+        "Good": 50,
+        "Excellent": 67
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 32,
+        "Excellent": 94
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 15,
+        "Good": 68,
+        "Excellent": 55
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 28
+    },
+    "ta_names": [
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Leslie Bauman, Alex Mitko",
+        "Leslie Bauman",
+        "Alex Mitko",
+        "leslie!",
+        "Leslie Bauman",
+        "Alex Mitko-Great TA and super helpful when I need help",
+        "Leslie Bauman",
+        "N/A",
+        "Leslie Bauman",
+        "Alex Mitko",
+        "NA",
+        "Alex Mitko",
+        "Leslie Bauman",
+        "leslie bauman",
+        "-",
+        "Alex Mitko",
+        "Leslie Bauman and Alex Mitko",
+        "Leslie Bauman, Alex Mitko",
+        "Leslie Bauman, Alex Mitko",
+        "Leslie Bauman",
+        "Alex Mitko",
+        "Alex",
+        "Leslie Bauman",
+        "Leslie Bauman and Alex Mitko",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Leslie Baumann",
+        "N/A",
+        "Leslie Bauman",
+        "N/A",
+        "Lesile Bauman",
+        "Alex Mitko",
+        "Alex and Leslie",
+        "Leslie",
+        "Leslie Bauman, Alex Mitko",
+        "Leslie Bauman",
+        "Alex Mitko",
+        "Alex, Leslie",
+        "Leslie Bauman",
+        "Leslie Bauman, Alex Mitko",
+        "Alex",
+        "Leslie Bauman",
+        "Leslie Bauman",
+        "Alex Mitiko"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 23,
+        "Agree somewhat": 69,
+        "Agree strongly": 36
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 40,
+        "Typical": 74,
+        "Somewhat heavier": 14,
+        "Much heavier": 7
+    }
+}

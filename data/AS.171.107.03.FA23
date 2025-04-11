@@ -1,0 +1,51 @@
+{
+    "course_name": "General Physics for Physical Sciences Majors (AL)",
+    "instructor_name": "Rosemary Wyse",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "ALL OF THEM. Some worse than others, but all overall terrible and unhelpful. May as well not have TAs at all.",
+        "Josh",
+        "Josh Campbell"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Prairie Wentworth-Nice",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Anna, Konrad",
+        "Kanrad",
+        "Daniel Pezzi",
+        "Kahnrad Braxton",
+        "Kahnrad",
+        "Daniel Pezzi",
+        "Khanrad",
+        "Conrad",
+        "Kahnrad Braxton",
+        "Kahnrad Braxton",
+        "Kahnrad Braxton",
+        "Andrew & Jude",
+        "Anna Liu and Khanrad Braxton",
+        "Kahnrad Braxton",
+        "Khonrad",
+        "Kahnrad",
+        "Kahnrad Braxton",
+        "Daniel Pezzi, Anna Liu, Kahnrad Braxton",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Nice"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 11,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 19,
+        "Somewhat heavier": 5,
+        "Much heavier": 2
+    }
+}

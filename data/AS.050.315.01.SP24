@@ -1,0 +1,70 @@
+{
+    "course_name": "Cognitive Neuropsychology of Visual Perception: The Malfunctioning Visual Brain",
+    "instructor_name": "Michael McCloskey",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 25,
+        "Excellent": 27
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 13,
+        "Excellent": 39
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 23,
+        "Excellent": 25
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 11,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Catherine",
+        "Kathy Garcia",
+        "Kathy Garcia",
+        "Catherine Liu",
+        "Ananya/Catherine/kathy",
+        "Kathy Garcia, Ananya Passi, Catherine Liu",
+        "Kathy Garcia, Ananya Passi, Catherine Liu",
+        "Kathy Garcia, Ananya Passi, Catherine Liu",
+        "There are many TAs for this course.",
+        "Catherine",
+        "Catherine Liu",
+        "Catherine Liu",
+        "Katherine",
+        "Catherine Liu",
+        "Kathy Garcia, Ananya Passi, Catherine Liu",
+        "N/A",
+        "Ananya Passi, Catherine Liu, Kathy Garcia",
+        "Kathy Garcia",
+        "Catherine Liu",
+        "N/A",
+        "Catherine",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 27,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 9,
+        "Typical": 34,
+        "Somewhat heavier": 8,
+        "Much heavier": 0
+    }
+}

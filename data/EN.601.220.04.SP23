@@ -1,0 +1,62 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "David Hovemeyer",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 17,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 16,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Sangmin",
+        "I don't know their names, but the Taste for section 04 are all good",
+        "Edward Wang",
+        "N/A",
+        "Edward",
+        "Mark",
+        "Edward Wang, Sangmin Woo, Sambhav Chordia",
+        "Not known",
+        "Sambhav",
+        "Sangmin Woo",
+        "Anika Misra",
+        "N/A",
+        "Sambhav Chordia",
+        "Sangmin, Edward, Sambhav...."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 13,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 13,
+        "Much heavier": 18
+    }
+}

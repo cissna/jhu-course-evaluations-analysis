@@ -1,0 +1,67 @@
+{
+    "course_name": "General Physics: Physical Science Majors II",
+    "instructor_name": "David Kaplan",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "chris lygouras",
+        "Chris",
+        "Zach White",
+        "Chris Lygouras",
+        "Chris Lygouras",
+        "Christopher",
+        "Chris",
+        "Zachary White",
+        "Chris",
+        "Chris",
+        "Chris Lygouras",
+        "Chris Lygouras",
+        "chris john lygouras",
+        "Chris",
+        "Chris",
+        "Chris Lygouras",
+        "Chris L",
+        "I forgot their name :( my apologies",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 13,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 6,
+        "Somewhat heavier": 10,
+        "Much heavier": 5
+    }
+}

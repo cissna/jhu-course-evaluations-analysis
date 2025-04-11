@@ -1,0 +1,67 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Maria Sarazola Duarte",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Tomas Meijia",
+        "Tomas Gomez",
+        "Tomas",
+        "Tomas Mejia Gomez",
+        "Tomas Gomez",
+        "Tomas Mejia Gomez",
+        "N/a",
+        "Tomas Mejia Gomez",
+        "Tomas Meija Gomez",
+        "Tomas Mejia Gomez",
+        "Tomas Mejia Gomez",
+        "Tomas",
+        "Tomas Mejia Gomez",
+        "Tomas",
+        "Tomas Mejia Gomez",
+        "Tomas Mejza Gomez",
+        "Tomas",
+        "Tomas Gomez",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 6,
+        "Much heavier": 10
+    }
+}

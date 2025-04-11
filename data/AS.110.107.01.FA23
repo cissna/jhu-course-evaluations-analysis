@@ -1,0 +1,64 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Chamsol Park",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Forgot tbh",
+        "Anthony Aguwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony Agwu",
+        "Anthony A.",
+        "There were several, and I don't know their exact names.",
+        "Anthony",
+        "Anthony",
+        "Anthony"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 16,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

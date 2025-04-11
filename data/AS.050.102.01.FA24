@@ -1,0 +1,72 @@
+{
+    "course_name": "Language and Mind",
+    "instructor_name": "Julia Yarmolinskaya",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 18,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 6,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 27,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Uyen Le",
+        "Kwan, Milenna, Uyen",
+        "Uyen Le",
+        "Uyen",
+        "Kwan Srijomkwan",
+        "Kwan",
+        "Kwan, Uyen",
+        "Kwan Srijomkwan",
+        "i think quan or qwen",
+        "n/a",
+        "I don't remember her name.",
+        "Kwan Srijomkwan",
+        "Kwan Srijomkwan",
+        "Uyen Le",
+        "Kwan Srijomkwan",
+        "Uyen Le",
+        "Kwan",
+        "Milena",
+        "Kwan Srijomkwan",
+        "Uyen",
+        "Uyen, Kwan",
+        "Kwan, Uyen, and Milena",
+        "Uyen Le",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 26,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 27,
+        "Somewhat heavier": 12,
+        "Much heavier": 5
+    }
+}

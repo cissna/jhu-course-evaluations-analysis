@@ -1,0 +1,58 @@
+{
+    "course_name": "Calculus I (Physical Sciences & Engineering)",
+    "instructor_name": "Daniel Pezzi",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Vivek",
+        "Vivek",
+        "Su Jin",
+        "Sujin and Vivek",
+        "Vivek",
+        "Su Jin",
+        "Vivekaditya Booshan",
+        "Vivek",
+        "N/A",
+        "Vivievk"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 5,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 6,
+        "Somewhat heavier": 2,
+        "Much heavier": 2
+    }
+}

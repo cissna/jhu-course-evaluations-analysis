@@ -1,0 +1,71 @@
+{
+    "course_name": "Nuclear Weapons and World Politics",
+    "instructor_name": "Daniel Deudney",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 29
+    },
+    "ta_names": [
+        "Adriana mandacaru guerra",
+        "Adriana Mandacu Guerra",
+        "Adriana Guerra",
+        "Adriana Mandacaru Guerra",
+        "Adriana Mandacaru Guerra",
+        "Adriana",
+        "Adriana Mandacaru Guerra",
+        "Adriana Mandacaru Guerra",
+        "Adriana Guerra",
+        "Adriana Mandacaru Guerra",
+        "Adrianna Guerra",
+        "Adriana Guerra",
+        "Adrianna",
+        "Adriana Mandacaru Guerra",
+        "Adriana Mandacaru Guerra",
+        "Adriana",
+        "Adriana Guerra",
+        "Adriana",
+        "Adriana Mandacaru Guerra",
+        "Adriana",
+        "Adriana Guerra",
+        "Adriana Mandacaru Guerra",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 10,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 15,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

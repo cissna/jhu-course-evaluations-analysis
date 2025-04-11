@@ -1,0 +1,54 @@
+{
+    "course_name": "Neuroscience Laboratory",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Lexy Balshi",
+        "Annabel Woo, Anjali D'Amiano, Nicholas Malloy, Alexandra Balshi, Jack Liu",
+        "Lexy",
+        "all",
+        "Jack Liu",
+        "Lexi Balshi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 5,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 10,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

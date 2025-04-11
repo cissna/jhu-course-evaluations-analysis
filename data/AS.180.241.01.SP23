@@ -1,0 +1,80 @@
+{
+    "course_name": "International Trade",
+    "instructor_name": "Somasree Dasgupta",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 19,
+        "Excellent": 30
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 32
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 30,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 10,
+        "Good": 16,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Nino Kodua",
+        "Silin Huang",
+        "Nino Kodua",
+        "Nino Kodua",
+        "Noni Kodua",
+        "Nino",
+        "nino",
+        "Nino?",
+        "Nino Kodua",
+        "Nino Kodua",
+        "honestly don't know",
+        "Nino Kodua",
+        "Nino Kodua",
+        "NA",
+        "Nino Kodua",
+        "N/A",
+        "Nino",
+        "Nino Kodua",
+        "Nino",
+        "Nino Kodua",
+        "Nino",
+        "Nino Kodua",
+        "Nino",
+        "dont know",
+        "Nino Kodua",
+        "Nino Kodua",
+        "Don\u2019t remember",
+        "Nino",
+        "Nino",
+        "n/a",
+        "Nino Kodua, Silin Huang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 24,
+        "Agree strongly": 22
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 48,
+        "Somewhat heavier": 5,
+        "Much heavier": 2
+    }
+}

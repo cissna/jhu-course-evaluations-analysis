@@ -1,0 +1,60 @@
+{
+    "course_name": "Public Health Biostatistics",
+    "instructor_name": "Margaret Taub",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Grant Schumak",
+        "Grant",
+        "Grant",
+        "Schumol",
+        "Eric",
+        "Grant Schumock",
+        "Grant Schumock",
+        "Grant",
+        "Grant",
+        "Our TA's started a rotation during the semester. I thought the sections were good, but lectures and office hours were better at explaining the concepts.",
+        "Grant Schumock",
+        "Grant Schumock"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 7,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 13,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

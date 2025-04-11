@@ -1,0 +1,70 @@
+{
+    "course_name": "Calculus II (For Physical Sciences and Engineering)",
+    "instructor_name": "Huajie Li",
+    "overall_quality_frequency": {
+        "Poor": 10,
+        "Weak": 12,
+        "Satisfactory": 4,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 13,
+        "Weak": 10,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 14,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 7,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Allyson Shick",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Yashi Jain",
+        "yashi",
+        "Yashi Jain",
+        "Yashi Jain",
+        "Allison Shick",
+        "Haven't met any",
+        "n/a",
+        "Yashi Jan",
+        "Yashi Jain",
+        "Yashi",
+        "N/A",
+        "Allyson Shick",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 8,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 13,
+        "Somewhat heavier": 8,
+        "Much heavier": 3
+    }
+}

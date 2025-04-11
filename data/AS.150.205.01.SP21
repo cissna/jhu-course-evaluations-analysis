@@ -1,0 +1,63 @@
+{
+    "course_name": "Introduction to the History of Modern Philosophy",
+    "instructor_name": "Yitzhak Melamed",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Austin Heath, Luce DeLire",
+        "Austin Heath, Luce DeLire",
+        "Luce deLire",
+        "Luce",
+        "Luce deLire",
+        "Luce DeLire",
+        "Austin Heath",
+        "Luce DeLire, Austin Heath",
+        "Luce deLire",
+        "Austin Heath",
+        "Austin Heath",
+        "Austin Heath",
+        "Luce deLire and Austin Heath",
+        "Austin Heath",
+        "Luce/Austin"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 8,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 6,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Rigoberto Hernandez",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Stella Ikuzwe",
+        "STELLA MATUTINA IKUZWE",
+        "Stella Matutina Ikuzwe",
+        "Stella Matutina Ikuzwe",
+        "Stella Ikuzwe",
+        "Stella Ikuzwe",
+        "Stella",
+        "Divya Yadav",
+        "Stella Matutina",
+        "Stella",
+        "Stella Matutina Ikuzwe",
+        "stella matutina ikuzwe",
+        "I didn't even know who my TA was",
+        "Stella Ikuzwe"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 3,
+        "Much heavier": 3
+    }
+}

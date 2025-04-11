@@ -1,0 +1,59 @@
+{
+    "course_name": "Introduction to Computational Immunogenomics",
+    "instructor_name": "Yana Safonova",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Mao Jan",
+        "Mao-Jan Lin",
+        "Mao-Jan Lin",
+        "Mao Jin Lin",
+        "don't remember",
+        "N/A",
+        "Mao-Jan Lin",
+        "Mao-Jan Lin",
+        "Mao Jan Lin",
+        "Mao-Jan Lin",
+        "Mao-Jan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 7,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 9,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

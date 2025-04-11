@@ -1,0 +1,58 @@
+{
+    "course_name": "Elements of Macroeconomics",
+    "instructor_name": "Hellen Seshie-Nasser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 6,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Lai Xu",
+        "Lai Xu",
+        "Steven Xu",
+        "Lai Xu",
+        "I dont remember",
+        "Teven",
+        "Lai Xu",
+        "Lai Xu",
+        "Lai Xu",
+        "Lai Xu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 2,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Benjamin Dodson",
+    "overall_quality_frequency": {
+        "Poor": 6,
+        "Weak": 6,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 11,
+        "Weak": 7,
+        "Satisfactory": 1,
+        "Good": 0,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Peter Hu",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila Hamilton",
+        "Leila hamilton",
+        "Leila Hamilton",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 7,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 7,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Rigoberto Hernandez",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redmann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redemann",
+        "Ben Redman",
+        "Divya Yadav",
+        "Divya",
+        "Ben"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 1,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Thomas Lectka",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 10,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Burak",
+        "Eric Holt",
+        "Eric Holt",
+        "Eric Holt",
+        "Gregory Bassett",
+        "Gillian",
+        "Burak",
+        "Muyuan Wang",
+        "Joanna",
+        "Joanne Zienkiewicz",
+        "Stella Ikuzwe",
+        "Eric Holt",
+        "Stella Matutina Ikuzwe",
+        "Eric Holt",
+        "Yuki Osumi",
+        "Crystal Peng",
+        "Gregory Bassen",
+        "Yuki",
+        "Eric Holt",
+        "Eric Holt",
+        "Marissa Coschigano, Joanna Zienkiewicz",
+        "Eric Holt",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 7,
+        "Somewhat heavier": 9,
+        "Much heavier": 3
+    }
+}

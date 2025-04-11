@@ -1,0 +1,72 @@
+{
+    "course_name": "Graph Theory",
+    "instructor_name": "Edinah Gnang",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Tong Chen",
+        "Tongtong Chen",
+        "Tongtong Chen",
+        "Tong Tong and Luqiao",
+        "Tongtong Chen",
+        "Tong Tong Chen",
+        "Luqiao Xu",
+        "Tongtong Chen",
+        "Tongtong Chen",
+        "TongTong Chen",
+        "Tongtong Chen",
+        "Tongtong Chen",
+        "LUQIAO XU",
+        "Luqiao",
+        "Luqiao",
+        "Luqiao Xu",
+        "Luqiao Xu",
+        "Luqiao Xu",
+        "Luqiao Xu",
+        "Luqiao Xu",
+        "Luqiao Xu",
+        "Luqiao",
+        "Luqiao Xu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 13,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 15,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "Patricio Simari",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Dayann D'Almeida, Genevieve Koffman, Minoo Kim",
+        "Genevieve Koffman, Minoo Kim, Edmund Sumpena, Chloe Donelan",
+        "Kit Ao",
+        "All of them",
+        "Dayann D\u2019almeida",
+        "Katharine",
+        "Minoo Kim",
+        "Yongjae, Dayann",
+        "All TAs",
+        "Minoo Kim",
+        "many CAs",
+        "Genevieve",
+        "Chloe Donelan",
+        "Dayann D'almeida",
+        "All in my class",
+        "Genevieve Koffman"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 15,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 13,
+        "Much heavier": 14
+    }
+}

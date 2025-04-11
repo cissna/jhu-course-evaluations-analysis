@@ -1,0 +1,59 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "Steve Nguyen",
+        "Steve Nguyen",
+        "N/A",
+        "Sunny",
+        "Steve Nguyen",
+        "Switched a lot i was in section 3",
+        "Steve Nguyen",
+        "N/A",
+        "N/A",
+        "Xipeng",
+        "Steve Nguyen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 6,
+        "Much heavier": 13
+    }
+}

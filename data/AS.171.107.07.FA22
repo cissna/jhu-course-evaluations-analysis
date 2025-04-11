@@ -1,0 +1,63 @@
+{
+    "course_name": "General Physics for Physical Sciences Majors (AL)",
+    "instructor_name": "Collin Broholm",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Tim",
+        "Nicole",
+        "Swetha",
+        "Swetha Sankar",
+        "Sankar, Swetha",
+        "Swetha Sankar",
+        "Swetha Sankar",
+        "All the TAs from the physics office hours I've gone to",
+        "Swetha",
+        "My TA is great",
+        "Swetha Sankar",
+        "n/a",
+        "Tim Reeder",
+        "Swetha Sankar",
+        "Swetha Sankar"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 12,
+        "Much heavier": 3
+    }
+}

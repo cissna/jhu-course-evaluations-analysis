@@ -1,0 +1,59 @@
+{
+    "course_name": "Computational Genomics: Sequences",
+    "instructor_name": "Benjamin Langmead",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 24
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Kaavya",
+        "Kavya",
+        "Kavya",
+        "Kavya",
+        "Jessica Bonnie",
+        "Kavya Vaddadi",
+        "William Chung, Kavya Vaddadi",
+        "Kavya Vaddadi",
+        "Kavvya",
+        "Kavvya",
+        "Kavya Vaddadi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 15,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 20,
+        "Somewhat heavier": 8,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "course_name": "Research Methods in Psychology",
+    "instructor_name": "Jeffrey Bowen",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 13,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 10,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

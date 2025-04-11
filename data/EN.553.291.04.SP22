@@ -1,0 +1,70 @@
+{
+    "course_name": "Linear Algebra and Differential Equations",
+    "instructor_name": "Mario Micheli",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 12,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Zeqing LI",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing",
+        "Xequing",
+        "Zeqing Li",
+        "Zeqing",
+        "Zeqing Li",
+        "Autumn Hughes",
+        "Zeqing Li",
+        "Sabahat Rahman",
+        "Zeqing Li",
+        "Autumn",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Zeqing Li",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 17,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 9,
+        "Much heavier": 15
+    }
+}

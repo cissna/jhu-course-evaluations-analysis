@@ -1,0 +1,66 @@
+{
+    "course_name": "General Physics: Physical Science Majors II",
+    "instructor_name": "David Kaplan",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Dimitri Lezcano",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "Lucas Kang",
+        "lucas king",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 12,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 12,
+        "Much heavier": 4
+    }
+}

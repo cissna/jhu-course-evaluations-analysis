@@ -1,0 +1,49 @@
+{
+    "course_name": "History Of Psychology",
+    "instructor_name": "Paul Hofer",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 10,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 4,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 13,
+        "Somewhat heavier": 11,
+        "Much heavier": 1
+    }
+}

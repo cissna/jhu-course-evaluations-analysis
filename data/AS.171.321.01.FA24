@@ -1,0 +1,64 @@
+{
+    "course_name": "Introduction to Space, Science, and Technology",
+    "instructor_name": "John MacKenty",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Koji Shukawa",
+        "Koji",
+        "Koji",
+        "Koji Shukowa",
+        "Koji Shukawa",
+        "Koji",
+        "Koji",
+        "Koji Shukawa",
+        "Koji Shukawa",
+        "Koji Shukawa",
+        "Koji Ishikawa",
+        "Koji Shukawa",
+        "Koji",
+        "Koji Shukawa",
+        "Koji Shukawa",
+        "Koji Shukawa"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 7,
+        "Somewhat heavier": 10,
+        "Much heavier": 4
+    }
+}

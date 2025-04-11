@@ -1,0 +1,57 @@
+{
+    "course_name": "Neuroscience Laboratory",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Bohan",
+        "Bohan",
+        "Bohan Zhang",
+        "bohan",
+        "Bohan",
+        "Bohan",
+        "Bohan Zhang",
+        "Bohan",
+        "Bohan Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 3,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 13,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

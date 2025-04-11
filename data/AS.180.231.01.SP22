@@ -1,0 +1,58 @@
+{
+    "course_name": "Debates in Macroeconomics",
+    "instructor_name": "Joshua Feinman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Jeongwon Son",
+        "Jeongwon (John) Son",
+        "Jeongwon Son",
+        "Jeongwon Son",
+        "Jeongwon Son",
+        "Jeongwon",
+        "N/A",
+        "Jeongwon Son",
+        "Jeongwon Son",
+        "Jeongwon Son"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 8,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 8,
+        "Typical": 9,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

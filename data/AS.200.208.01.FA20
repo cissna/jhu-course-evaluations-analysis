@@ -1,0 +1,62 @@
+{
+    "course_name": "Animal Behavior",
+    "instructor_name": "Kirsten Porth-Bohn",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 28
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 28
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 14,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Jessica Montoya",
+        "Jessica M.",
+        "Jessica Montoya",
+        "Jessica Montoya",
+        "We rarely saw them so I don't remember their names",
+        "Fangchen, Jessica",
+        "Fangchen Zhu",
+        "Jessica",
+        "Fangchen Zhu",
+        "Jessica Montoya",
+        "Jessica Montoya",
+        "Fangchen Zhu",
+        "Jessica Montoya",
+        "Jessica Montoya"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 15,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 4,
+        "Typical": 30,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

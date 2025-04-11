@@ -1,0 +1,75 @@
+{
+    "course_name": "Structure of the Nervous System",
+    "instructor_name": "Stewart Hendry",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 33
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 39
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 36
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 24
+    },
+    "ta_names": [
+        "estelle",
+        "Estelle Schurink",
+        "Estelle",
+        "Stella",
+        "Estelle",
+        "Estelle",
+        "Estelle",
+        "Estele",
+        "Estelle Shurink",
+        "Estelle Schruink",
+        "Estelle",
+        "Estelle Schurink",
+        "Estelle S",
+        "Estelle",
+        "estelle",
+        "Estelle",
+        "Estelle",
+        "Estelle",
+        "Estelle",
+        "Estelle Schurink",
+        "Estelle",
+        "Estelle Schurink",
+        "Estelle S",
+        "Estelle",
+        "N/A",
+        "Estelle",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 25
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 20,
+        "Much heavier": 8
+    }
+}

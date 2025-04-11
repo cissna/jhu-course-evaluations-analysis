@@ -1,0 +1,47 @@
+{
+    "course_name": "Race and Racism in International Relations",
+    "instructor_name": "Sebastian Schmidt",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "ta_names": [],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 9,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 10,
+        "Typical": 9,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

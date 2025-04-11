@@ -1,0 +1,64 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Daniel Restrepo Montoya",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Katelyn",
+        "Katelyn",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "-",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic",
+        "Katelyn Kociancic and Camille Shantz",
+        "Katelyn Kociancic",
+        "katelyn",
+        "Katelyn Kociancic",
+        "Katylen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 11,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

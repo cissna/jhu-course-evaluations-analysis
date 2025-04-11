@@ -1,0 +1,86 @@
+{
+    "course_name": "Object Oriented Software Engineering",
+    "instructor_name": "Ali Madooei",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 38
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 41
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 11,
+        "Excellent": 36
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 39
+    },
+    "ta_names": [
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Melody",
+        "Melody Lee",
+        "Akshay Kaikottil",
+        "Sofia Xu",
+        "Elizabeth Cho",
+        "Marc",
+        "Sofia Xu",
+        "Elizabeth Cho",
+        "Gurion Marks",
+        "Gurion Marks",
+        "Marc",
+        "Elizabeth Cho",
+        "Gurion Marks",
+        "Melody Lee",
+        "Qifan Yu",
+        "Akshay Kaikottil",
+        "Matthew FL",
+        "Melody Hsu",
+        "Akshay",
+        "Melody Lee",
+        "Gurion",
+        "Elizabeth",
+        "Melody Lee",
+        "Akshay Kokaittil",
+        "Damiano",
+        "Melody",
+        "Marc",
+        "Elizabeth Cho",
+        "Gurion Marks",
+        "Sofia Xu",
+        "Damiano",
+        "Qifan Yu",
+        "Sofia Xu",
+        "Qifan Yu",
+        "Melody Lee",
+        "Damiano Marsili",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 18,
+        "Agree strongly": 29
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 23,
+        "Somewhat heavier": 22,
+        "Much heavier": 8
+    }
+}

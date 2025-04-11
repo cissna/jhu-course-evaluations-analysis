@@ -1,0 +1,69 @@
+{
+    "course_name": "Clinical Neuropsychology",
+    "instructor_name": "Tyler Rickards",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire stone",
+        "Claire",
+        "Claire Stone",
+        "Claire Stone",
+        "Claire",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 7,
+        "Typical": 11,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

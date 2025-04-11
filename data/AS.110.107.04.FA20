@@ -1,0 +1,54 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Jinchao Feng",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "N/A",
+        "don't know who it is",
+        "Ashley Shim",
+        "Evelyn Chang (actually my PILOT leader)",
+        "All of them",
+        "No TAs, only pilot from what I experienced. Pilot was 10/10"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 5,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 15,
+        "Somewhat heavier": 7,
+        "Much heavier": 3
+    }
+}

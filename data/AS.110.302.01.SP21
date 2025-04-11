@@ -1,0 +1,69 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Richard Brown",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 13,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 15,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Autum",
+        "Autumn Koenis",
+        "Autumn Koenig",
+        "Autum Rose Baxter Koenis",
+        "Autum Rose Baxter Koenis",
+        "Autum",
+        "Autumn Koenig",
+        "Autum Keonis",
+        "autumn koenig",
+        "Autumn Koenig",
+        "Autum",
+        "Autum",
+        "Autum",
+        "Autumn Koenis",
+        "Autum Koenigs",
+        "Autum Rose Baxter Koenis",
+        "Autum Koenis",
+        "Autum Koenis",
+        "Autum Koenigs",
+        "Autum",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 8,
+        "Much heavier": 6
+    }
+}

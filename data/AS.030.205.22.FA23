@@ -1,0 +1,69 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "J D Tovar",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 16,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 25
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 7,
+        "Excellent": 0
+    },
+    "ta_names": [
+        "Not sure",
+        "Muyuan Wang",
+        "Muyuan Wang",
+        "Muyuan Wang",
+        "Muyuan",
+        "Muyuan",
+        "Muyuan",
+        "Muyuan",
+        "Muyuan Wang",
+        "Muyuan",
+        "Muyuan",
+        "Muyuan",
+        "Muyeng",
+        "muyuan",
+        "all",
+        "Muyan",
+        "Muyuan",
+        "Muyuan Wang",
+        "Muyuang",
+        "Muyuann",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 9,
+        "Much heavier": 7
+    }
+}

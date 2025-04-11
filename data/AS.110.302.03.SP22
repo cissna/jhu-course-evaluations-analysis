@@ -1,0 +1,70 @@
+{
+    "course_name": "Differential Equations and Applications",
+    "instructor_name": "Alexander Mramor",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Xidan Xu",
+        "I don't think I had a TA.",
+        "Xidan Xu",
+        "xidan",
+        "Xidan Xu",
+        "Section 3 TA",
+        "N/A",
+        "Xidan Xu",
+        "Xidan Xu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 12,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 17,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

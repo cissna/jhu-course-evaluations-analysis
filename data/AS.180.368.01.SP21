@@ -1,0 +1,79 @@
+{
+    "course_name": "Managerial Economics and Business Strategy",
+    "instructor_name": "J. Knapp",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 20
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "Nick Li, Isaac Frumkin",
+        "Nick Li",
+        "Isaac Frumpkin",
+        "nick li",
+        "Isaac Frumkin; Nicholas Li",
+        "Isaac Frumkin, Nick Li",
+        "Nicholas Li / Isaac Frumkin",
+        "Nick Li & Isaac Frumpkin",
+        "Isaac Frumkin",
+        "nick li",
+        "Nick Li and Isaac Frumkin",
+        "Nick Li",
+        "Isaac Frumkin & Nick Li",
+        "Nicholas Li",
+        "Nick Li",
+        "Isaac",
+        "Nick Li",
+        "Isaac Frumpkin",
+        "Nick Li and Isaac Frumkin",
+        "Nick Li/Isaac Frumkin",
+        "Nick Li",
+        "Isaac",
+        "Nicholas Li",
+        "Nick and Isaac",
+        "Nick and Isaac",
+        "Nicholas Li",
+        "Nick Li",
+        "Nick and Isaac",
+        "Isaac Frumkin",
+        "Issac Frumkin",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 9,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 21,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

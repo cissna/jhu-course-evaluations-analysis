@@ -1,0 +1,80 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Muhammad Husain",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 12,
+        "Good": 14,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 22,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Jionglin Zheng (Andy)",
+        "Andy Zheng",
+        "Jionglin Zheng",
+        "Jionglin Zheng",
+        "Andy Zheng",
+        "Jionglin",
+        "Jionglin Zheng",
+        "Andy Zheng",
+        "Andy Zheng",
+        "Jionglin Zheng",
+        "Jionglin Zheng",
+        "Zionglin",
+        "Jionglin (Andy) Zheng",
+        "Jionglin Zheng",
+        "Jionglin Zheng",
+        "Jionglin Zheng",
+        "Andy Zheng",
+        "Andy Zheng",
+        "Andy",
+        "Andy",
+        "Jionglin Zheng",
+        "Jionglin Zheng",
+        "Jionglin Zheng",
+        "Jionglin (Andy) Zheng",
+        "Andy Zheng",
+        "Andy Zheng",
+        "Andy Zheng",
+        "Jionglin (Andy) Zheng",
+        "Andy Zhang",
+        "Andy Zheng",
+        "Jionglin Zheng",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 12,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 5,
+        "Typical": 22,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

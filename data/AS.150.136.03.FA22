@@ -1,0 +1,57 @@
+{
+    "course_name": "Philosophy & Science: An Introduction to Both",
+    "instructor_name": "Peter Achinstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Jacob Lettie",
+        "Jacob Lettie",
+        "Jacob Lettie",
+        "Jacob Lettie",
+        "Jacob Lettie",
+        "Jacob Lettie",
+        "Jacob Lettie",
+        "Jared",
+        "Jacob Lettie"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 7,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Joel Tolman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 13,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Sudha Yadav",
+        "Patrick Eckhert",
+        "Patrick Eckhert",
+        "Patrick Eckhert",
+        "Patrick Eckhert",
+        "Patrick Eckhart",
+        "Patrick Eckhart",
+        "Patrick Eckhert",
+        "Patrick Eckhert",
+        "Moritz",
+        "Patrick Eckhert",
+        "Patrick Eckhert",
+        "Patrick Eckhert"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 11,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

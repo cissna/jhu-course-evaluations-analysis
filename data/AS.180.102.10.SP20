@@ -1,0 +1,67 @@
+{
+    "course_name": "Elements of Microeconomics",
+    "instructor_name": "Bruce Hamilton",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Strahil Leopov",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil",
+        "strahil",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 7,
+        "Typical": 8,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

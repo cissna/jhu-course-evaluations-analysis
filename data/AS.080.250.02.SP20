@@ -1,0 +1,62 @@
+{
+    "course_name": "Neuroscience Laboratory",
+    "instructor_name": "Jason Trageser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Not sure",
+        "Angeli",
+        "Gavin, Annabelle",
+        "Anjali D'Amiano",
+        "Anjali, Annabel",
+        "Anjali and Annabel",
+        "Anjali",
+        "Annabel Woo, Anjali D'amiano",
+        "Annabel Woo",
+        "Annabel, Rachel, Jerry",
+        "Annabel Woo",
+        "Annabel, Anjali",
+        "Anjali D'Amiano Annabel Woo",
+        "jerry"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 7,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 11,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

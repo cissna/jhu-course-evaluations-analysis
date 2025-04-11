@@ -1,0 +1,71 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Alessandra Bertacche",
+        "Ben",
+        "Yifei Zhu",
+        "Anna Li",
+        "Yifei Zhu",
+        "Yuzuka Karube",
+        "manusha",
+        "Ben Stephens",
+        "Yifei Zhu",
+        "Yuzuka Karube",
+        "Ben Stephens",
+        "Manusha Gamage",
+        "Fan Fang",
+        "Alessa B.",
+        "Manusha Gamage",
+        "Yifei Zhu",
+        "Anna Li",
+        "Alessandra Bertacche",
+        "Anna Li",
+        "Alessandra Bertacche",
+        "Yuzuka Karube",
+        "Benjamin Stephens and Manusha Gamage",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 9,
+        "Much heavier": 5
+    }
+}

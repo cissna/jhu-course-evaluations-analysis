@@ -1,0 +1,60 @@
+{
+    "course_name": "Elements of Macroeconomics",
+    "instructor_name": "Hellen Seshie-nasser",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "Tao Wang",
+        "TAO WANG",
+        "Tao Wang",
+        "Tao"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 6,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

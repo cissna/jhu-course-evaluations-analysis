@@ -1,0 +1,60 @@
+{
+    "course_name": "Intermediate Probability and Statistics",
+    "instructor_name": "Josue Tonelli Cueto",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 7,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 2,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Aadit Walia",
+        "Aadit",
+        "Aadit Walia - Always late or not-present at section",
+        "Aadit Walia",
+        "Aadit",
+        "Aadit",
+        "Aadit Walia",
+        "Aadit Walia",
+        "Aadit Walia",
+        "Aadat",
+        "Aadit Walia",
+        "aarushi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 7,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

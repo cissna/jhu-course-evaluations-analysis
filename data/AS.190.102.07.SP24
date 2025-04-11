@@ -1,0 +1,53 @@
+{
+    "course_name": "Introduction To Comparative Politics",
+    "instructor_name": "Nicolas Jabko",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Cecile Cadet",
+        "Cecile Cadet",
+        "Cecile Cadet",
+        "Cecile",
+        "Cecile Cadet"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 0,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 2,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

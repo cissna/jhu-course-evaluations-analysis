@@ -1,0 +1,75 @@
+{
+    "course_name": "Full-Stack JavaScript",
+    "instructor_name": "Ali Madooei",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 17,
+        "Excellent": 35
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 41
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 20,
+        "Excellent": 32
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 28
+    },
+    "ta_names": [
+        "JJ Yang",
+        "Jake Rasmussen",
+        "All of them",
+        "Miseok Kim",
+        "JJ Yang",
+        "Jake Rasmussen",
+        "JJ",
+        "N/A",
+        "JJ Yang",
+        "Hope, JJ",
+        "Jake",
+        "JJ Yang",
+        "Jake R",
+        "Hope",
+        "JJ Yang",
+        "Not sure",
+        "Jake Rasmussen",
+        "JJ",
+        "N/A",
+        "Various",
+        "N/A",
+        "Miseok Kim",
+        "Hope",
+        "I don't know",
+        "jj, hope",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Stack JavaScript"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 29,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 29,
+        "Somewhat heavier": 22,
+        "Much heavier": 2
+    }
+}

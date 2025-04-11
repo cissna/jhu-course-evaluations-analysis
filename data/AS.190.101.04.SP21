@@ -1,0 +1,67 @@
+{
+    "course_name": "Introduction to American Politics",
+    "instructor_name": "Adam Sheingate",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Luize Eihmane",
+        "Eihmane",
+        "Luize",
+        "Luize Eihmane",
+        "Luize Eihmane",
+        "lulu",
+        "Luize Eihmane",
+        "Lulu",
+        "Luize Eihmane",
+        "Luize Eihine",
+        "N/A",
+        "Lulu Eihmane",
+        "Luize Einhmane",
+        "Luize Eihmane",
+        "Luize Eihmane",
+        "Eihmane",
+        "Louis Eihman",
+        "Luize Eihmane",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 11,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 13,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

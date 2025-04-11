@@ -1,0 +1,63 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Rebekka Klausen",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Xinzhe Ren",
+        "Brady",
+        "Marissa",
+        "Marissa",
+        "Jonah",
+        "Jonah",
+        "Marissa",
+        "Xinzhe Ren",
+        "Marissa",
+        "Grant",
+        "Johna",
+        "Brady Mediavilla",
+        "Jonah Ruskin",
+        "Johnah",
+        "Marissa"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 3,
+        "Somewhat heavier": 7,
+        "Much heavier": 10
+    }
+}

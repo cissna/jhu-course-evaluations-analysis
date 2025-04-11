@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to Bioethics",
+    "instructor_name": "Hilary Bok",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Goh Rui Zhe",
+        "Rui Zhe",
+        "Rui",
+        "Goh Rui Zhe",
+        "Rui Zhe",
+        "Rui Zhe",
+        "Goh Rui Zhe",
+        "Rui Zhe",
+        "Rui",
+        "Rui Zhe",
+        "Goh Rui Zhe",
+        "Rui Zhe"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 4,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

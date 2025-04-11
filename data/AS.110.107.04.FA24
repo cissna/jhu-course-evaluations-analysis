@@ -1,0 +1,61 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Tim Campion",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 8,
+        "Weak": 6,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 4,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Stroud",
+        "Emily Stroud",
+        "Emily",
+        "Emily Stroud",
+        "Emily",
+        "Chisom Ihemebiri",
+        "Emily Stroud",
+        "Emily",
+        "Emily Stroud",
+        "Emily",
+        "Chisomnazu Ihemebiri",
+        "Emily Stroud, Chisomnazu Ihemebiri",
+        "Emily Stroud"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 2,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

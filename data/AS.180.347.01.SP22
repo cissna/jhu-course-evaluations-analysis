@@ -1,0 +1,58 @@
+{
+    "course_name": "Macroeconomic Thinking 1936-2020: Evolution or Devolution?",
+    "instructor_name": "Robert Barbera",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Aniruddha Ghosh",
+        "Ani",
+        "Ani Ghosh",
+        "Aniruddha Ghosh",
+        "Aniruddha Ghosh",
+        "Aniruddha Ghosh",
+        "ani",
+        "Aniruddha Ghosh",
+        "Ani Ghosh",
+        "Ani"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 6,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 6,
+        "Somewhat heavier": 2,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Nathaniel McKeaver",
+        "Nathaniel",
+        "Nathaniel",
+        "Nathaniel McKeever",
+        "Nathaniel",
+        "nathaniel",
+        "Everyone that I encountered during office hours was great",
+        "Nathaniel",
+        "Nathan",
+        "Nathaniel",
+        "Nathaniel McKeever",
+        "nathaniel"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 10,
+        "Much heavier": 11
+    }
+}

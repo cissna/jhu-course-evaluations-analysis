@@ -1,0 +1,67 @@
+{
+    "course_name": "Introduction to Global Studies",
+    "instructor_name": "Renee Marlin-Bennett",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Leonardo",
+        "Leonardo Mendoca Ventura",
+        "dont remember",
+        "Leonardo Ventura",
+        "Leo",
+        "Leonardo Mendon\u00e7a Ventura",
+        "Mr. Ventura",
+        "Leo",
+        "Leonardo \"Leo\" Mendon\u00e7a Ventura",
+        "Leonardo",
+        "Leo",
+        "Leonard",
+        "Leonardo",
+        "Leo",
+        "Leo",
+        "leo",
+        "Leo",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Bennett"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 6,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

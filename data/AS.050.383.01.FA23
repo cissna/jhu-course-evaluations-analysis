@@ -1,0 +1,58 @@
+{
+    "course_name": "Computational Social Cognition",
+    "instructor_name": "Leyla Isik",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Hannah Small",
+        "Hannah",
+        "Hannah Small",
+        "Hannah Small",
+        "Hanah SMall",
+        "Hannah",
+        "Hannah Small",
+        "Hannah Small",
+        "Hannah Small",
+        "Hannah Small"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 5,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

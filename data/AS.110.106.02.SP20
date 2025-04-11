@@ -1,0 +1,59 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Aurelien Sagnier",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Sean Owen",
+        "Sean",
+        "Sean Owen",
+        "Sean",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean Owen",
+        "Sean",
+        "Sean",
+        "Sean",
+        "Sean Owen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 6,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

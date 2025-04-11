@@ -1,0 +1,57 @@
+{
+    "course_name": "Politics Of Good & Evil",
+    "instructor_name": "William Connolly",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Matthew Scotti",
+        "Matt Scotti",
+        "Matt",
+        "Matt Scotti",
+        "Matthew Scotti",
+        "Matt Scotti",
+        "Matt Scotti",
+        "matt scotti",
+        "Matt Scotti"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 2,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

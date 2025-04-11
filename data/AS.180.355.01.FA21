@@ -1,0 +1,59 @@
+{
+    "course_name": "Economics of Poverty/Inequality",
+    "instructor_name": "Robert Moffitt",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "N/A",
+        "Qingyang Han",
+        "n/a",
+        "Qingyang Han",
+        "Qingyang Han",
+        "Qingyang",
+        "Qingyang Han",
+        "Qingyang",
+        "QINGYANG HAN",
+        "Qingyang Han",
+        "Qingyang Han"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 15,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

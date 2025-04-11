@@ -1,0 +1,72 @@
+{
+    "course_name": "Statistical Analysis I",
+    "instructor_name": "Fred Torcaso",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 7,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "I don't know it",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "Section 2",
+        "Sihang Jiang",
+        "Zachary Pisano",
+        "Sihang Jiang",
+        "Sihang Jiang",
+        "SIHANG JIANG",
+        "Sihan Jiang",
+        "N/A",
+        "not sure",
+        "Sihang Jiang",
+        "Strahil",
+        "T Zhang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 14,
+        "Somewhat heavier": 7,
+        "Much heavier": 2
+    }
+}

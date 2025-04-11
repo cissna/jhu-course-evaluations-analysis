@@ -1,0 +1,61 @@
+{
+    "course_name": "Introduction to Bioethics",
+    "instructor_name": "Hilary Bok",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Meagan Kazmarek",
+        "Maegan Kaczmarek",
+        "Maegan Kaczmarek",
+        "Maegan Kaczmarek",
+        "Maegan Kazcmarek",
+        "Maegan Kaczmarek",
+        "Maegan Kaczmarek",
+        "Maegan K",
+        "Maegan",
+        "Maegan",
+        "Maegan Kaczmarek",
+        "Maegan Kaczmarek",
+        "Maegan Kaczmarek"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 4,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

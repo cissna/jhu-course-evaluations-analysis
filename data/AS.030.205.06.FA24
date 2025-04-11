@@ -1,0 +1,71 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 12,
+        "Good": 12,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 10,
+        "Satisfactory": 10,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Andrew",
+        "Andrew Thampoe",
+        "Manusha Gamage",
+        "Andrew",
+        "Andrew",
+        "Andrew",
+        "Manusha",
+        "Andrew Thampoe",
+        "Manusha Gamage",
+        "Andrew Thampoe",
+        "N/A",
+        "Manusha Gamage, Andrew Thampoe, Elizabeth Maloy, Caden Lok, Crystal Peng",
+        "Andrew Thompson",
+        "Manusha",
+        "Andrew Thampoe",
+        "Andrew Thampoe",
+        "Andrew Thampoe",
+        "Andrew",
+        "Andrew Thampoe",
+        "Andrew Thapnoe",
+        "Andrew",
+        "Andrew",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 12,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 7,
+        "Typical": 9,
+        "Somewhat heavier": 14,
+        "Much heavier": 3
+    }
+}

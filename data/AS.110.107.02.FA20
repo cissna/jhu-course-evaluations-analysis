@@ -1,0 +1,59 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Jinchao Feng",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Yanfei Wang",
+        "n/a",
+        "Jacob Feitelberg",
+        "Jacob Feitelburg (I'm actually not sure if this is my TA, but I'm sure he did well)",
+        "None",
+        "Patrick",
+        "Jacob Feitelberg",
+        "Not assigned",
+        "no specific TA",
+        "Yanfei Wang",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 9,
+        "Much heavier": 1
+    }
+}

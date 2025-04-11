@@ -1,0 +1,61 @@
+{
+    "course_name": "Calculus II (For Biological and Social Science)",
+    "instructor_name": "Caterina Consani",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Zehong zeng",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang",
+        "Zehong Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 5
+    }
+}

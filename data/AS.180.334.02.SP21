@@ -1,0 +1,80 @@
+{
+    "course_name": "Econometrics",
+    "instructor_name": "Elena Krasnokutskaya",
+    "overall_quality_frequency": {
+        "Poor": 10,
+        "Weak": 9,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 12,
+        "Weak": 14,
+        "Satisfactory": 6,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil Leopov",
+        "Strahil Leopoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Leopoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Sinem Yagmur Toraman",
+        "Strahil",
+        "Strahil",
+        "Strahil",
+        "Sahan",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil",
+        "Strahil",
+        "Melih Firat",
+        "Strahil",
+        "Strahil Lepoev",
+        "Strahil Lepoev",
+        "Strahil Leopov",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 11,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 13,
+        "Somewhat heavier": 14,
+        "Much heavier": 6
+    }
+}

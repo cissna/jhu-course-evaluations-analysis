@@ -1,0 +1,64 @@
+{
+    "course_name": "Public Health Biostatistics",
+    "instructor_name": "Margaret Taub",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Daniel Ruan",
+        "Daniel",
+        "Daniel Ruan",
+        "Daniel Ruan",
+        "Daniel",
+        "Daniel",
+        "Daniel",
+        "Daniel",
+        "Daniel",
+        "Daniel",
+        "Daniel Ruan",
+        "Daniel Ruan",
+        "Daniel",
+        "Daniel",
+        "Daniel",
+        "Daniel!!! >>>"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 13,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

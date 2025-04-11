@@ -1,0 +1,58 @@
+{
+    "course_name": "Econometrics",
+    "instructor_name": "Elena Krasnokutskaya",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 7,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Shiqi",
+        "Shiqi Wang",
+        "Shiqi Wang",
+        "Raul",
+        "Shiqi Wang",
+        "Shiqi Wang",
+        "Shiqi Wang",
+        "Shiqi Wang",
+        "Shiqi Wang",
+        "Shiqi Wang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

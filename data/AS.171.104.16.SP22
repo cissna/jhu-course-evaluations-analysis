@@ -1,0 +1,57 @@
+{
+    "course_name": "General Physics/Biology Majors II",
+    "instructor_name": "Daniel Reich",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Rishi",
+        "Hrishikesh Bhegade",
+        "Hrishikesh Bhegade",
+        "Hrishikesh Bhegade",
+        "Hrikesh Bhagade",
+        "Arman",
+        "Hrishikesh Bhegade",
+        "Kathleen Hamilton-Campos",
+        "Hrishikesh Bhegade"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 6,
+        "Much heavier": 12
+    }
+}

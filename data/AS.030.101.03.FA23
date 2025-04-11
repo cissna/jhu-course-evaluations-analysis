@@ -1,0 +1,89 @@
+{
+    "course_name": "Introductory Chemistry I",
+    "instructor_name": "Stephanie McCartney",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 12,
+        "Satisfactory": 27,
+        "Good": 29,
+        "Excellent": 17
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 14,
+        "Satisfactory": 18,
+        "Good": 28,
+        "Excellent": 27
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 15,
+        "Good": 40,
+        "Excellent": 30
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 14,
+        "Satisfactory": 17,
+        "Good": 17,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "All",
+        "n/a",
+        "None specifically",
+        "n/a",
+        "N/A",
+        "N/A",
+        "There are three of them and I'm not sure of their names but they are all very helpful!",
+        "Andrew",
+        "Not sure",
+        "Kathryn Foreman",
+        "All Section TA's",
+        "Kathryn Foreman, Arleth Ortiz Villa, Andrew Putz",
+        "Kathryn Foreman",
+        "N/A",
+        "Andrew",
+        "N/A",
+        "N/A",
+        "Kathryn Foreman",
+        "Kathryn Foreman",
+        "Kathryn Foreman",
+        "N/A",
+        "They were not very present, I don't know any of their names",
+        "Catherine",
+        "Kathryn",
+        "Dont know any names",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "N/A",
+        "Kathryn Foreman, Andrew Putz, and Arleth Ortiz Villa.",
+        "No specific TA, overall TA evaluation.",
+        "All of the TAs",
+        "n/a",
+        "Arleth Ortiz, Kathryn Foreman, Andrew Putz",
+        "all",
+        "Arleth",
+        "Arleth Ortiz Villa",
+        "don't even know their names e",
+        "NA",
+        "Kathryn Foreman",
+        "All",
+        "I'm not sure."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 12,
+        "Neither agree nor disagree": 16,
+        "Agree somewhat": 38,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 12,
+        "Somewhat heavier": 34,
+        "Much heavier": 41
+    }
+}

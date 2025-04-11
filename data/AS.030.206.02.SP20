@@ -1,0 +1,69 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 20,
+        "Excellent": 27
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 11,
+        "Good": 22,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 38
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Not sure about the exact name but everyone is very good at explaining concepts",
+        "AJ",
+        "N/A",
+        "AJ Huls",
+        "N/A",
+        "Juan Sanfiel",
+        "Juan Sanfiel",
+        "all of em",
+        "AJ Huls",
+        "--",
+        "Juan Sanfiel",
+        "AJ",
+        "Juan",
+        "Anna Li",
+        "Daniel Lemen",
+        "Juan",
+        "TAs have very little involvement, the pilot leaders do everything, especially Juan.",
+        "Anna Li, Cassidy Quiros, AJ Huls",
+        "Anna Li",
+        "Isabel Uribe",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 25,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 4,
+        "Typical": 23,
+        "Somewhat heavier": 17,
+        "Much heavier": 8
+    }
+}

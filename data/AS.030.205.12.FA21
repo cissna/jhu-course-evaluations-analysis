@@ -1,0 +1,59 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 8,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 6,
+        "Satisfactory": 9,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Ekroop Kaur Cheema",
+        "Sachi Hilliard",
+        "n/a",
+        "N/A",
+        "Marissa Coschigano, Xiyuan Ji",
+        "Andrea",
+        "Marissa Coschigano and Xiyuan Ji",
+        "I'm not sure I know the names of the TAs, but the ones who ran the section in Remsen 1 were excellent.",
+        "Ekroop Kaur Kaur Cheema",
+        "Ekroop Cheema",
+        "Marissa Coschigano and Xiyuan Ji"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 4,
+        "Somewhat heavier": 11,
+        "Much heavier": 10
+    }
+}

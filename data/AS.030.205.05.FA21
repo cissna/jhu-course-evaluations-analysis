@@ -1,0 +1,76 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Lawrence Principe",
+    "overall_quality_frequency": {
+        "Poor": 13,
+        "Weak": 7,
+        "Satisfactory": 6,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Joanna",
+        "Burak Tufekci",
+        "Joanna",
+        "Eric Holt",
+        "Mengjiao Wang",
+        "Mengjiao Wang",
+        "Crystal Peng",
+        "Corey Thrasher",
+        "Burak Tufekci",
+        "Drew MacLennan",
+        "Not sure",
+        "Corey Thrasher",
+        "Joanna Zienkiewicz",
+        "Eric Holt",
+        "Crystal Peng",
+        "Joanna Z",
+        "Burat Tufekci",
+        "Mengjiao Wang",
+        "Crystal Peng",
+        "Joanna Z.",
+        "Corey Thrasher",
+        "Crystal Peng",
+        "Eric Holt",
+        "Crystal Peng",
+        "Corey Thrasher",
+        "Mengjiao Wang",
+        "Burak Tufekci",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 7,
+        "Disagree somewhat": 8,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 2,
+        "Typical": 4,
+        "Somewhat heavier": 6,
+        "Much heavier": 14
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "course_name": "Calculus II (For Physical Sciences and Engineering)",
+    "instructor_name": "Jian Kong",
+    "overall_quality_frequency": {
+        "Poor": 6,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 7,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Jim Sherwood",
+        "Jim Sherwood",
+        "Jim Sherwood",
+        "Jim Sherwood",
+        "James Sherwood",
+        "James Sherwood",
+        "Jim Sherwood",
+        "Jim Sherwood",
+        "James Sherwood",
+        "Jim Sherwood",
+        "sherman",
+        "Jim Sherwood",
+        "Jim Sherwood",
+        "James Sherwood"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 6,
+        "Much heavier": 6
+    }
+}

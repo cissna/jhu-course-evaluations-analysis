@@ -1,0 +1,64 @@
+{
+    "course_name": "Mathematics for a Better World",
+    "instructor_name": "Fadil Santosa",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Kaleigh",
+        "Kaleigh Rudge",
+        "Kaleigh Rudge",
+        "Kaleigh",
+        "Kaleigh Rudge",
+        "Kayleigh",
+        "Kaleigh Rudge",
+        "Kaleigh Rudge",
+        "Kaleigh",
+        "Kaleigh",
+        "Kaleigh Rudge",
+        "Kaleigh Rudge",
+        "Kaleigh",
+        "Kaleigh Rudge",
+        "Kaleigh Rudge",
+        "Kaleigh"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 5,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 7,
+        "Typical": 6,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

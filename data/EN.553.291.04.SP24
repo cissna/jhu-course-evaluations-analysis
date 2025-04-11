@@ -1,0 +1,66 @@
+{
+    "course_name": "Linear Algebra and Differential Equations",
+    "instructor_name": "Mario Micheli",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 22
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Rishi Koneru",
+        "N/A",
+        "Vara",
+        "Vara G",
+        "Vara and Shivam",
+        "Vara Gunananthan",
+        "Jaime",
+        "Vara Gunanathan",
+        "Vara",
+        "Vara Gunananthan",
+        "Vara",
+        "Vara",
+        "Vara Gunananthan",
+        "Vara",
+        "Vara",
+        "Vara Qi Gunananthan",
+        "Vara",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 14,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 9,
+        "Much heavier": 17
+    }
+}

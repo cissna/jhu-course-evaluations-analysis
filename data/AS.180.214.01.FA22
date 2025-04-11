@@ -1,0 +1,93 @@
+{
+    "course_name": "The Economic Experience of the BRIC Countries",
+    "instructor_name": "Somasree Dasgupta",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 17,
+        "Excellent": 36
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 43
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 15,
+        "Excellent": 33
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 14,
+        "Good": 11,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Daphne Tang",
+        "Silin Huang",
+        "Sillin",
+        "Silin",
+        "Silin",
+        "Jonah Bennet",
+        "There are TA's but they only engage in grading, so it would be unfair for me to evaluate them",
+        "Silin Huang",
+        "Silin, Daphne Tang",
+        "Silin Tong",
+        "Silin",
+        "Celine",
+        "Silin",
+        "Selin Tran?",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin",
+        "Silin Huang",
+        "Silin",
+        "Silin",
+        "Silin Huang",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Silin Huang",
+        "Daphne Huang, Silin Huang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin",
+        "Silin",
+        "Daphine Tang",
+        "Silin Huang",
+        "Silin Huang",
+        "Silin",
+        "Silin",
+        "silin",
+        "Silin Huang",
+        "Silin",
+        "Silin Huang",
+        "Jonah Bennett",
+        "Silin",
+        "Silin"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 20,
+        "Agree strongly": 23
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 40,
+        "Somewhat heavier": 10,
+        "Much heavier": 5
+    }
+}

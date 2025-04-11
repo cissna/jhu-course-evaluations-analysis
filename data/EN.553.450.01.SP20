@@ -1,0 +1,68 @@
+{
+    "course_name": "Computational Molecular Medicine",
+    "instructor_name": "Donald Geman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Lanlan Ji, Yiran Xu",
+        "Lanlan & Yiran",
+        "Lanlan Ji",
+        "Lanlan",
+        "Lanlan Ji and Yiran Xu",
+        "Lanlan Ji",
+        "Lanlan Ji",
+        "Lanlan Ji, Yiran Xu",
+        "Lanlan",
+        "both",
+        "Lanlan Ji, Yiran Xu",
+        "Lanlan Ji",
+        "Lanlan Ji and Yiran Xu",
+        "Lanlan / Yiran",
+        "Lanlan Ji",
+        "Lanlan Ji, Yiran Xu",
+        "Lanlan",
+        "lanlan ji, yiran xu",
+        "Yiran Xu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 10,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 16,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

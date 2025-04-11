@@ -1,0 +1,63 @@
+{
+    "course_name": "Organic Chemistry II",
+    "instructor_name": "Thomas Lectka",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Eric Holt",
+        "Muyuan Wang",
+        "Eric hill",
+        "Stella",
+        "Yuki Osumi",
+        "Stella Ikuzwe",
+        "Crystal Peng",
+        "Muyuan Wang",
+        "Eric Holt",
+        "Muyuan",
+        "Nathaniel Garrison",
+        "Burak Tufekci",
+        "Eric Holt",
+        "Marissa Coschigano",
+        "Eric Holt"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 7,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 5,
+        "Much heavier": 3
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "Introduction To Greek Philosophy",
+    "instructor_name": "Richard Bett",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillon Reihill",
+        "Dillion",
+        "Dillon Reihill",
+        "Dillon"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

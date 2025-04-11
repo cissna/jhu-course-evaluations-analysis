@@ -1,0 +1,50 @@
+{
+    "course_name": "Synaptic Function and Plasticity",
+    "instructor_name": "Alfredo Kirkwood",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "no TA",
+        "n/a"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 5,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 2,
+        "Typical": 10,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

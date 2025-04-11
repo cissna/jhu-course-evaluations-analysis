@@ -1,0 +1,74 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "Mohammad Ali Darvish Darab",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 11,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 25
+    },
+    "ta_names": [
+        "N/A",
+        "Chris",
+        "Chris",
+        "Chris and Jake",
+        "There are a lot of CAs for this course and they have all been very helpful",
+        "Christopher Li",
+        "Edward, Jake, Anika, Muxi, and many others",
+        "Mark T.",
+        "Christopher Li, Chloe Donelan",
+        "Christopher Li",
+        "Chris",
+        "Chloe Donelan",
+        "Christopher Li, Qifan Sun, Aprina Wang, Edward Wang",
+        "Christopher Li & Sambhav Chordia",
+        "Christopher Li",
+        "Sambhav Chordia",
+        "Chris",
+        "Chris",
+        "Chris",
+        "Chloe Donelan",
+        "Mark Tiavises",
+        "Christopher Li",
+        "Tony",
+        "mark annika daniel jake and laine were chill and would be rated excellent. i dont remember anyone else's name. they get the satisfactory rating",
+        "Chloe Donelan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 15,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 16,
+        "Much heavier": 13
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "course_name": "Elements of Macroeconomics",
+    "instructor_name": "Hellen Seshie-Nasser",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Adrian Moninger",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian Monniker",
+        "Adrian Monninger",
+        "Adrian",
+        "Adrian Monninger",
+        "Adrian",
+        "Adrian",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian Monninger",
+        "Adrian",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Nasser"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 8,
+        "Typical": 5,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

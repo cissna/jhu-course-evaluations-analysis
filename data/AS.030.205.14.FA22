@@ -1,0 +1,70 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "J D Tovar",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 5,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 6,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 4,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Xinyuan Ji",
+        "Mengjiao Wang",
+        "Xinyuan Ji",
+        "Xinyaun Ji",
+        "Xinyuan Ji",
+        "Xinyuan Ji",
+        "Xinyuan Ji",
+        "Xinyuan ji",
+        "Xinyuan Ji",
+        "Xinyuan",
+        "Xinyuan",
+        "xinyuan",
+        "Xinyuan",
+        "Did not utilize TAs often/low interaction",
+        "Xinyuan",
+        "Xin Juan",
+        "Xinyuan",
+        "Xinyuan Ji",
+        "Xinyuan Ji",
+        "Xinyuan Ji",
+        "Xinyuan Ji",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 5,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 3,
+        "Typical": 5,
+        "Somewhat heavier": 7,
+        "Much heavier": 8
+    }
+}

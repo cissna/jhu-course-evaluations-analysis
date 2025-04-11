@@ -1,0 +1,59 @@
+{
+    "course_name": "Introductory Organic Chemistry I",
+    "instructor_name": "Olivier Nsengiyumva",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 30
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 32
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 22
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Deborah Rodriguez",
+        "I have never interacted with a TA for this course",
+        "Seven Liu",
+        "N/A",
+        "Deborah and Elias",
+        "All of them",
+        "All of them",
+        "Nick Fromel",
+        "NA",
+        "Section 9 TAs",
+        "Not sure"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 13,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 14,
+        "Somewhat heavier": 14,
+        "Much heavier": 4
+    }
+}

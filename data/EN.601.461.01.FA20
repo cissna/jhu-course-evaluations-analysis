@@ -1,0 +1,88 @@
+{
+    "course_name": "Computer Vision",
+    "instructor_name": "Gregory Hager",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 18,
+        "Excellent": 26
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 16,
+        "Excellent": 35
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 20,
+        "Excellent": 33
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 8,
+        "Satisfactory": 12,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Qi Chen",
+        "Qi Chen and the CAs",
+        "Qi Chen",
+        "qi chen, david shi, kevin he, alan lai",
+        "Qi Chen",
+        "Qi Chen",
+        "Kevin, Crane",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen, but Crane Chen was excellent",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Crane Chen",
+        "Qi Chen",
+        "N/A",
+        "Qi Chen",
+        "Qi Chen, Alan Lai, Crane Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi Chen",
+        "Qi",
+        "Qi Chen; Alan Lai; Kevin He;"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 6,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 22,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 12,
+        "Somewhat heavier": 30,
+        "Much heavier": 15
+    }
+}

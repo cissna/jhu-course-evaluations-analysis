@@ -1,0 +1,67 @@
+{
+    "course_name": "Probability and Statistics for the Life Sciences",
+    "instructor_name": "Runbing Zheng",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Elle Marine and Isabella Huang",
+        "El",
+        "Isabella Huang, Elle B. Marine",
+        "Isabella Huang and Elle Marine",
+        "Elle Marine",
+        "I never went to section so I don't know my TA, but I'm section 3",
+        "Elle",
+        "Shreya Raman",
+        "Jasmine Lee",
+        "Isabelle",
+        "Not sure",
+        "Elle Marine/ Isabella Huang",
+        "Elle",
+        "Anna",
+        "N/A",
+        "Anna",
+        "Aron Tocaj, Ira Chaturvedi, Elle Marine, Rex Kung",
+        "a",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 9,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 8,
+        "Somewhat heavier": 9,
+        "Much heavier": 3
+    }
+}

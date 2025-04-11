@@ -1,0 +1,68 @@
+{
+    "course_name": "Calculus I (Biology and Social Sciences)",
+    "instructor_name": "Ashwin Iyengar",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Francisco",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "francisco",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "Tomas Meija Gomez",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "Thomas",
+        "Fransisco",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "IDK",
+        "Tomas & Francisco",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "Francisco Lizano",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 5,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 8,
+        "Much heavier": 4
+    }
+}

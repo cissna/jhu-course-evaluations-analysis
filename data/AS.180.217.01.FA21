@@ -1,0 +1,70 @@
+{
+    "course_name": "Game Theory in Social Sciences",
+    "instructor_name": "Ying Chen",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Xinyu Zhao, Angela Xue",
+        "Angela Xue",
+        "Angela",
+        "Xinyu Zhao",
+        "Xinyu and Angela",
+        "both TAs",
+        "Angela",
+        "Angela Xue",
+        "Xinyu & Angela",
+        "Xinyu Zhao",
+        "Xinyu Zhao and Angela Xue",
+        "Angela Xue",
+        "Angela and Xinyu",
+        "Xinyu",
+        "Angela",
+        "Angela",
+        "Angela and xinyue",
+        "Angela",
+        "Xinyu Zhao and Angela Xue",
+        "Several",
+        "Angela",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 12,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 13,
+        "Somewhat heavier": 10,
+        "Much heavier": 5
+    }
+}
