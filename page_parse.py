@@ -350,6 +350,11 @@ class GeneralClassScraper():
                 # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
                 dates = [("IN", year) for year in range(start_year, self.year_after_year_including_most_recent_evals)]
             elif self.summer:
+                print("WARNING: summer does not NECESSARILY currently work because of edge case with sections not starting at 1")
+                # possible changes:
+                # just search through sections and find it (slow, but not too many intersession courses and minimal work)
+                # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
+                # look into feasibility of counting spring/fall courses, and basing summer section number off of them.
                 spring_offset = -1 if self.last_period == 'SP' else 0
                 summer_year_range = range(start_year + spring_offset, self.year_after_year_including_most_recent_evals + spring_offset)
                 dates = [("SU", year) for year in summer_year_range]
