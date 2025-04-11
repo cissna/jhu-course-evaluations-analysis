@@ -1,0 +1,75 @@
+{
+    "course_name": "Classical Mechanics Laboratory",
+    "instructor_name": "Reid Mumford",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 23
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Becky and peter",
+        "Becky Kowalski, Peter Orban",
+        "Peter, Rebecca",
+        "Becky Kowalski and Peter Orban",
+        "all",
+        "Peter Orban",
+        "Peter!",
+        "Both",
+        "Becky Kowalski and Peter Orban",
+        "Becky Kowalski",
+        "Becky and Peter",
+        "Peter Orban, Becky Kowalski",
+        "Peter Orban",
+        "Becky",
+        "Becky Kowalski",
+        "Becky Kowalski and Peter Orban",
+        "Peter Orban and Rebecca Kowalski",
+        "Peter and Becky",
+        "Rebecca Kowalski AND Peter Orban",
+        "peter",
+        "Peter Orban",
+        "Peter Orban",
+        "Peter and Rebecca",
+        "Vicky",
+        "Peter Orban",
+        "Peter Orban and Becky Kowalski",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 12,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 13,
+        "Somewhat heavier": 9,
+        "Much heavier": 6
+    }
+}

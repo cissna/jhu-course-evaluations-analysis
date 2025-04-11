@@ -1,0 +1,67 @@
+{
+    "course_name": "Classical Mechanics Laboratory",
+    "instructor_name": "Reid Mumford",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Tiffany Soetojo",
+        "Tiffany Soetojo, Viska Wei",
+        "Both Viska and Tiffany",
+        "Viska Wei",
+        "Tiffany Soetojo",
+        "Tiffany Soetojo, Viska Wei",
+        "Tiffany Soetojo",
+        "Viska Wei",
+        "Tiffany Soetojo",
+        "Tiffany Soetojo",
+        "Tiffany and Viska",
+        "Tiffany Soetojo and Viska Wei",
+        "n/a",
+        "Tiffany Soetojo",
+        "Viska Wei",
+        "Tiffany",
+        "Tiffany Soetojo",
+        "I don't recall their names",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 9,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 10,
+        "Much heavier": 1
+    }
+}

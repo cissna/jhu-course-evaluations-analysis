@@ -1,0 +1,76 @@
+{
+    "course_name": "Introduction to Statistics",
+    "instructor_name": "Dwijavanti Athreya",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 18,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 24
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 14,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Lisa Li",
+        "Lisa Li",
+        "Frank Bu",
+        "Lisa Li",
+        "Nicholas Parante",
+        "Lisa Li",
+        "Nick Parente",
+        "Lisa Li",
+        "Wenyi Wang",
+        "Lisa Li",
+        "Lisa Li",
+        "Lisa Li",
+        "Wenyi Wang",
+        "Lisa",
+        "Frank",
+        "Lisa Li",
+        "Xiang Li",
+        "Wenyi Wang",
+        "Lisa Li",
+        "Mao Hong",
+        "Mao &#x08;Hong",
+        "Mao Hong",
+        "Mao Hong",
+        "Mao Hong",
+        "Mao Hong",
+        "Mao Hong",
+        "All",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 17,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 11,
+        "Much heavier": 26
+    }
+}

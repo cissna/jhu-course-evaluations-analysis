@@ -1,0 +1,66 @@
+{
+    "course_name": "Introduction to Statistics",
+    "instructor_name": "Dwijavanti Athreya",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Frank Bu",
+        "/",
+        "Fanjun Bu",
+        "Wenyi Wang",
+        "Frank Bu",
+        "Frank Bu",
+        "Frank Bu",
+        "Frank Bu",
+        "Frank Bu",
+        "Frank Bu",
+        "Wengyi",
+        "Frank Bu",
+        "N/A",
+        "Frank Bu",
+        "Fanjun (Frank) Bu",
+        "Frank Bu",
+        "Frank Bu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 12,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 7,
+        "Much heavier": 15
+    }
+}

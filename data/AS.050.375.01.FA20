@@ -1,0 +1,55 @@
+{
+    "course_name": "Probabilistic Models of the Visual Cortex",
+    "instructor_name": "Alan Yuille",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "all",
+        "Yihong Sun, Yingda Xia",
+        "Yingda Xia, Yihong Sun",
+        "Yihong Sun",
+        "Yihong Sun",
+        "Yingda",
+        "Yihong Sun"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 4,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 6,
+        "Typical": 2,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}
