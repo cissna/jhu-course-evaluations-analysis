@@ -1,0 +1,68 @@
+{
+    "course_name": "Augmented Reality",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Mohammad Hadi, An Chi Chen, Yihao Liu",
+        "Yihao Liu",
+        "Yihao",
+        "Muhammad Hadi",
+        "Yihao",
+        "Hadi",
+        "An Chi Chen / Yahoo Liu",
+        "Yihao, An Chi",
+        "Mohammad Hadi, An Chi Chen, Yihao Liu",
+        "An Chi Chen",
+        "Mohammad Hadi",
+        "yihao liu",
+        "all",
+        "YiHao, An Chi",
+        "An Chi, Hadi",
+        "An Chi Chen, Muhammed Hadi, Yihao",
+        "Muhammad Hadi",
+        "Hadi, An Chi, Yihao",
+        "Muhammad Hadi",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 12,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 13,
+        "Somewhat heavier": 11,
+        "Much heavier": 3
+    }
+}

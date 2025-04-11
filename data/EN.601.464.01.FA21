@@ -1,0 +1,64 @@
+{
+    "course_name": "Artificial Intelligence",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 20,
+        "Excellent": 32
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 16,
+        "Excellent": 34
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 28,
+        "Excellent": 25
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Aditi",
+        "All",
+        "Daniil Pakhomov",
+        "Daniil",
+        "NA",
+        "Multiple teaching assistants",
+        "N/A",
+        "Daniil Pakhomov",
+        "Rongrong",
+        "Daniil Pakhomov",
+        "Karl Sangwon Lee",
+        "Rongrong Liu",
+        "Rongrong Liu",
+        "Daniil Pakhomov",
+        "Daniil",
+        "Daniil Pakhomov"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 25,
+        "Agree strongly": 21
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 7,
+        "Typical": 30,
+        "Somewhat heavier": 16,
+        "Much heavier": 8
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "course_name": "Object Oriented Software Engineering",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Kavan Bansal",
+        "Nick Xitco",
+        "Nick Xitco",
+        "Debanik",
+        "Nick Xitco",
+        "N/A",
+        "Adeshola Lawal",
+        "Adeshola",
+        "Debanik",
+        "Chris Xu",
+        "Kavan Bansal",
+        "Kavan Bansal"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 4,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

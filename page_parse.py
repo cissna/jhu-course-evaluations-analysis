@@ -6,7 +6,6 @@ from datetime import datetime
 import json
 import os
 import time
-import pdfplumber
 from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -15,9 +14,11 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests
 import urllib.parse
 import re
-import warnings
 
-warnings.filterwarnings("ignore", message="CropBox missing from")
+import logging
+logging.getLogger("pdfminer").setLevel(logging.ERROR)  # to avoid some annoying text being printed: "CropBox missing from /Page, defaulting to MediaBox"
+import pdfplumber
+
 
 
 def parse_period(period_string: str, expecting_special=False) -> str:
@@ -317,8 +318,14 @@ class GeneralClassScraper():
 
 
     def scrape_all_pdfs(self):
+        with open('course_cache.txt', 'r') as f:
+            for line in f.readlines():
+                if line.strip() == self.class_code.strip():
+                    print(f'{self.class_code} already cached, remove from course_cache.txt to download its data.')
+                    return
+
         chrome_options = Options()
-        # chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--headless")
         chrome_options.add_argument("--disable-gpu")
         chrome_options.add_experimental_option("prefs", {
             "download.prompt_for_download": False,
@@ -356,6 +363,8 @@ class GeneralClassScraper():
                     if result is None:
                         break
                     s.parse_pdf()
+            with open("course_cache.txt", 'a') as f:
+                f.write(self.class_code + '\n')
                     
         finally:
             driver.quit()

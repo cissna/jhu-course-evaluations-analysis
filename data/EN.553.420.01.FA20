@@ -1,0 +1,69 @@
+{
+    "course_name": "Introduction to Probability",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 12,
+        "Weak": 4,
+        "Satisfactory": 7,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 12,
+        "Weak": 6,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 6,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "David Sheng and Benjamin Weinberg",
+        "David Sheng",
+        "David Sheng",
+        "Benjamin Weinberg & David Sheng",
+        "David Sheng",
+        "David Sheng, Benjamin Weinberg",
+        "David Sheng / Benjamin Weinberg",
+        "Keshav Shah",
+        "David Sheng",
+        "David Sheng",
+        "CHERLIN ZHU",
+        "Cherlin Zhu",
+        "Cherlin Zhu and Jasmine Hu",
+        "Cherlin Zhu",
+        "Thank you to the whole teaching assistant team!",
+        "Patrick Prochazka",
+        "David Sheng",
+        "David Sheng",
+        "PROCHAZKA, PATRICK",
+        "Ms. Zhu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 9,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 3,
+        "Much heavier": 22
+    }
+}

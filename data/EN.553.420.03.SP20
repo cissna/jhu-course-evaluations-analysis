@@ -1,0 +1,62 @@
+{
+    "course_name": "Introduction to Probability",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Krushang Vaghasia",
+        "Krushang and Ben",
+        "Krushang Vaghasia & Ben Ding",
+        "Krushangkumar Vaghasia",
+        "Idk",
+        "Krushang",
+        "All of them",
+        "KRUSHANG NARESHKUMAR VAGHASIA",
+        "Keshav Shah",
+        "Krushnang and Ben",
+        "ben Ding",
+        "Ben Ding",
+        "Krushang",
+        "Hanzhang Ding, Krushang Vaghasia"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 7,
+        "Much heavier": 6
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "course_name": "Data Structures",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 12,
+        "Good": 24,
+        "Excellent": 42
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 23,
+        "Excellent": 48
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 55
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 27
+    },
+    "ta_names": [
+        "N/A",
+        "N/A",
+        "akhil deo",
+        "Francis Durso",
+        "Jalen, Francis",
+        "Jalen",
+        "All the TAs were good. Tarik Yildiram and Francis stood out",
+        "All of them",
+        "Jalen Geason, Sarah Wu, Akhil Deo, and more",
+        "Various",
+        "Lena, Jalen, Francis, Dennis, ....",
+        "Will Tong",
+        "Jalen Geason",
+        "Sarah Wu",
+        "They were anonymous",
+        "Dr. Ali Madooei",
+        "Jalen",
+        "Jalen",
+        "all DS TAs.",
+        "So many TAs",
+        "Jalen Geason",
+        "steph",
+        "multiple",
+        "N/A",
+        "Ali",
+        "Will",
+        "Tarik Yildrim, Jalen Gleason",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 32,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 16,
+        "Somewhat heavier": 38,
+        "Much heavier": 26
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "Computer Vision",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 22,
+        "Excellent": 38
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 18,
+        "Excellent": 38
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 23,
+        "Excellent": 37
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Zhuowan Li",
+        "Zhuowan Li",
+        "Last time, I waited for 30 mins on Zoom and there is no people show up in office hour without notification.",
+        "Jai",
+        "Jay Paranjape",
+        "Zhuowan Li",
+        "Zhuowan",
+        "Zhouwan li",
+        "Jay Paranjape",
+        "I have no idea, I've never met them.",
+        "Zhuowan Li",
+        "Zhuowan Li",
+        "N/A",
+        "Zhuowan Li",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 20,
+        "Agree strongly": 31
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 43,
+        "Somewhat heavier": 11,
+        "Much heavier": 4
+    }
+}

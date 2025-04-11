@@ -1,0 +1,55 @@
+{
+    "course_name": "Full-Stack JavaScript",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 13,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Chloe",
+        "Chloe Donelan, Linda, Aditya",
+        "Yulun Zeng",
+        "All of them",
+        "Chloe Donelan, Emma Levitsky",
+        "Chloe Donelan",
+        "Yulun"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 9,
+        "Much heavier": 6
+    }
+}

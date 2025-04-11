@@ -1,0 +1,63 @@
+{
+    "course_name": "Object Oriented Software Engineering",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Yash Kumar",
+        "Nafisa",
+        "Julia Oppenheim",
+        "Nafisa",
+        "Nafisa Amir",
+        "Apoorv",
+        "Nafisa",
+        "Apoorv",
+        "Shreya Kulkarni",
+        "Apoorv",
+        "Danielle",
+        "Nafisa",
+        "Yash Kumar Lal",
+        "Nafisa",
+        "Andrew Hellinger"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 10,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 13,
+        "Much heavier": 1
+    }
+}

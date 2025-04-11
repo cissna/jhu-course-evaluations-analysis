@@ -1,0 +1,67 @@
+{
+    "course_name": "Introduction to Probability",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Gabe Gormezano",
+        "Karl Lee",
+        "Karl Lee",
+        "Karl Lee",
+        "Karl Lee",
+        "Amy Van Ee",
+        "Karl Lee",
+        "Gabe Gormezano",
+        "Karl Lee",
+        "Karl Lee",
+        "Karl Lee",
+        "Karl Lee",
+        "Gabe Gormanzo",
+        "Karl Lee",
+        "Karl Lee",
+        "Karl Lee",
+        "Gabe Gomenzanno",
+        "Karl Lee",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

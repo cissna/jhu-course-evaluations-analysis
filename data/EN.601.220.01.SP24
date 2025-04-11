@@ -1,0 +1,67 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 14,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 13,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Lucy Wu",
+        "Ryan Lin",
+        "Jayden Moon",
+        "Lucy",
+        "Lucy",
+        "Lucy Wu",
+        "Lucy (the BEST TA!), Annie, Belle (they are all fantastic!)",
+        "Lucy",
+        "Several CA's, too many to list.",
+        "N/A",
+        "Lucy",
+        "Lucy and Rachael",
+        "Lucy Wu",
+        "Jonathan Young",
+        "Chloe Donelan",
+        "Jayden, Chloe, Aprina, Jonathan",
+        "NA",
+        "all of them",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 12,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 13,
+        "Much heavier": 10
+    }
+}

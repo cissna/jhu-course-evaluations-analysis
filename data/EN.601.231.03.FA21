@@ -1,0 +1,58 @@
+{
+    "course_name": "Automata & Computation Theory",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Farnaz Yousefi",
+        "Farnaz",
+        "Farnaz",
+        "Farnaz Yousefi",
+        "Farnaz",
+        "Farnaz",
+        "Farnaz",
+        "Farnaz Yousefi",
+        "Farnaz",
+        "Farnaz"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

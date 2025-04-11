@@ -1,0 +1,67 @@
+{
+    "course_name": "Intro Algorithms",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 15,
+        "Good": 37,
+        "Excellent": 35
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 20,
+        "Good": 21,
+        "Excellent": 43
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 34,
+        "Excellent": 42
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 4,
+        "Good": 18,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "Yuqi",
+        "Simon Alloca",
+        "Yuqi Zhang",
+        "N/A (all TAs in Office hours)",
+        "Simon Alloca",
+        "Simon Alloca",
+        "Yuqi Zhang and S.S. Diwangkara",
+        "All",
+        "S. S. Diwangkara",
+        "S.S. Diwangkara",
+        "All the tas",
+        "Sakshi Patil",
+        "N/A",
+        "Simon Allocca",
+        "All",
+        "Sakshi Patel and Simon Alloca",
+        "na",
+        "Diwang Sang Diwangkar, Simon Alloca",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 46,
+        "Agree strongly": 22
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 12,
+        "Typical": 41,
+        "Somewhat heavier": 25,
+        "Much heavier": 9
+    }
+}

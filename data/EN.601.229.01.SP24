@@ -1,0 +1,93 @@
+{
+    "course_name": "Computer System Fundamentals",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 53,
+        "Excellent": 49
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 14,
+        "Good": 48,
+        "Excellent": 46
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 38,
+        "Excellent": 68
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 6,
+        "Satisfactory": 5,
+        "Good": 25,
+        "Excellent": 38
+    },
+    "ta_names": [
+        "Yash, Kuleen",
+        "Daniel Jin",
+        "Nicolas",
+        "Daniel Jin",
+        "Kuleen Sasse",
+        "Rena Bi",
+        "Dan",
+        "Nicholas",
+        "Nick Liu, Rena Bi",
+        "Nicolas Liu",
+        "Sanne Wu",
+        "lisa",
+        "Sanne",
+        "Kuleen Sasse",
+        "Daniel",
+        "Sanne Wu",
+        "I never saw a TA for CSF this semester",
+        "do not know",
+        "Kuleen",
+        "Nicolas Liu",
+        "Nicolas Liu",
+        "Nicolas Liu",
+        "Kulleen Sasse",
+        "n/a",
+        "Yash",
+        "Kunal",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "nick liu",
+        "N/A",
+        "Nicolas Liu",
+        "Yash",
+        "N/A",
+        "Yash",
+        "Alisa Yang",
+        "All",
+        "All",
+        "N/A",
+        "Kuleen Sasse",
+        "Kuleen Sasse",
+        "Sanne Wu",
+        "N/A",
+        "Kuleen Sasse",
+        "Yash Permalla",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 23,
+        "Agree somewhat": 42,
+        "Agree strongly": 40
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 26,
+        "Somewhat heavier": 58,
+        "Much heavier": 25
+    }
+}

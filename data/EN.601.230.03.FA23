@@ -1,0 +1,54 @@
+{
+    "course_name": "Mathematical Foundations for Computer Science",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Manoj Valeti, Dahlia Krebs",
+        "The ones in my section srry dont know their names",
+        "Farnaz Yousefi",
+        "Manoj",
+        "Not sure, was section 3",
+        "Allen Shen the GOAT !!!!!!!!!!11!!"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 4,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

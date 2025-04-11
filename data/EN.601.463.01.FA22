@@ -1,0 +1,64 @@
+{
+    "course_name": "Algorithms for Sensor-Based Robotics",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Kapi Ketan Mehta",
+        "ALL",
+        "Chenglin Yang",
+        "Katan",
+        "Chenglin",
+        "Kapi Ketan Mehta",
+        "Mike Fan",
+        "Chenglin Yang",
+        "Kapi Ketan",
+        "Yifan Yin",
+        "All TA's",
+        "Kapi Ketan",
+        "All",
+        "Ketan",
+        "Kapi Ketan Mehta",
+        "Kapi Ketan Mehta"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 11,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 12,
+        "Somewhat heavier": 11,
+        "Much heavier": 4
+    }
+}

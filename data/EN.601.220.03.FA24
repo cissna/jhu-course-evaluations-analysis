@@ -1,0 +1,67 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "N/A",
+        "Minoo Kim",
+        "Bob",
+        "I dont know",
+        "Bob",
+        "Bob, Patrick, Alana",
+        "Bob Dong",
+        "all of them",
+        "All",
+        "Aprina Wang",
+        "Bob Dong",
+        "N/A",
+        "Lucy, Mahmoud, and Patrick were really helpful",
+        "Dayann D",
+        "They are all great!",
+        "Emi Mondragon",
+        "Multiple in my section",
+        "Bob Dong",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 2,
+        "Somewhat heavier": 6,
+        "Much heavier": 16
+    }
+}

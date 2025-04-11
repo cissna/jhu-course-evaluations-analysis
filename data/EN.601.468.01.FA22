@@ -1,0 +1,59 @@
+{
+    "course_name": "Machine Translation",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 4,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Yi Zhang",
+        "Yi Zhang",
+        "Yi Zhang",
+        "Yi Zhang",
+        "Yi Zhang",
+        "Yi Zhang",
+        "Yi Zhang",
+        "Yi Zhang",
+        "I can't remember off the top of my head but he gave a great presentation on transformers and was generally helpful!",
+        "The main TA",
+        "Yunmo Chen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 11,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 13,
+        "Somewhat heavier": 14,
+        "Much heavier": 3
+    }
+}

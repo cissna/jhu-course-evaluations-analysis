@@ -1,0 +1,50 @@
+{
+    "course_name": "Computer Ethics",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 3,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Keturah Jones",
+        "n/a"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 9,
+        "Typical": 8,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "Human-Robot Interaction",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 24
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 11,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Xi He",
+        "Yuxiang, Bella",
+        "Yuxiang Gao",
+        "Xi He",
+        "I'm not sure",
+        "Yuxiang Gao",
+        "Yuxiang Gao",
+        "Yuxiang Gao",
+        "N/A",
+        "Erica Hwang & Xi He",
+        "Yuxiang Gao",
+        "Yuxiang Gao",
+        "Yuxiang Gao",
+        "Yuxiang Gao",
+        "Yuxiang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 11,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 5,
+        "Typical": 23,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

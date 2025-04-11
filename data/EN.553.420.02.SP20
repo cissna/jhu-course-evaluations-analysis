@@ -1,0 +1,67 @@
+{
+    "course_name": "Introduction to Probability",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 8,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 7,
+        "Satisfactory": 7,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "William Hua",
+        "Will Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "William Hua",
+        "william hua",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 9,
+        "Somewhat heavier": 9,
+        "Much heavier": 2
+    }
+}

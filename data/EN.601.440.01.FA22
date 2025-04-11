@@ -1,0 +1,61 @@
+{
+    "course_name": "Web Security",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "all",
+        "Mingqing Kang",
+        "NA",
+        "Mingqing Kang",
+        "Jianjia Yu",
+        "Yuchen Yang",
+        "Mingqing Kang",
+        "Mingqing Kang, Jianjia Yu, Yuchen Yang",
+        "Mingqing Kang",
+        "Yuchen Yang",
+        "Jianjia Yu",
+        "mingqing Kang",
+        "Mingqing Kang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 11,
+        "Much heavier": 7
+    }
+}

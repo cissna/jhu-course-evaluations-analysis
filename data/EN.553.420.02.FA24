@@ -1,0 +1,71 @@
+{
+    "course_name": "Probability",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 21
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 19,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 27
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Daniel",
+        "Daniel and Jonathan",
+        "Daniel Yao",
+        "Daniel Yao",
+        "Daniel Yao and Jonathan Zhang",
+        "Daniel and Jonathan",
+        "Daniel and Jonathan",
+        "Tianjian",
+        "Andy",
+        "Daniel",
+        "Sujin L",
+        "Daniel Yao, Jonathan Zhang",
+        "Daniel",
+        "Cecilia Chen",
+        "no",
+        "Cecilia Chen",
+        "Haojun Shi",
+        "Cecilia Chen",
+        "All TAs",
+        "Cecilia Chen",
+        "Cecilia Chen",
+        "celina",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 14,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 22,
+        "Much heavier": 13
+    }
+}

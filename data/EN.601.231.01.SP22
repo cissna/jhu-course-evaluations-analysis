@@ -1,0 +1,61 @@
+{
+    "course_name": "Automata & Computation Theory",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 9,
+        "Good": 16,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 4,
+        "Satisfactory": 8,
+        "Good": 14,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 15,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Yu Zheng",
+        "N/A",
+        "unsure",
+        "Yu Zheng",
+        "Ege Seyithanoglu",
+        "Yu Zheng",
+        "Yu Zheng",
+        "Yu Zheng",
+        "Yu Zheng",
+        "Yu Zheng",
+        "Yu Zheng",
+        "All",
+        "Yu Zheng"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 15,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 13,
+        "Somewhat heavier": 12,
+        "Much heavier": 8
+    }
+}

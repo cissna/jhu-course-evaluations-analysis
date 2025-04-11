@@ -1,0 +1,62 @@
+{
+    "course_name": "Principles of Programming Languages",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 27
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Devon",
+        "Kelvin",
+        "Kelvin",
+        "Kelvin and Devin",
+        "Yunmo Chen",
+        "Yunmo Chen",
+        "Shiwei Weng",
+        "Leandro",
+        "Literally all of them. They respond promptly, answer questions well, and do their best to help",
+        "Fionn Connolly",
+        "Leandro , Shiwei",
+        "Kelvin",
+        "Kelvin Qian",
+        "Shiwei Weng"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 14,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 21,
+        "Somewhat heavier": 10,
+        "Much heavier": 1
+    }
+}

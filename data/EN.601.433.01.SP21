@@ -1,0 +1,87 @@
+{
+    "course_name": "Intro Algorithms",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 11,
+        "Satisfactory": 17,
+        "Good": 39,
+        "Excellent": 24
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 10,
+        "Satisfactory": 21,
+        "Good": 32,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 33,
+        "Excellent": 46
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 11,
+        "Good": 25,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "Anton Belyi",
+        "Anton Belyi",
+        "Aditi Sen",
+        "Arpan",
+        "Anton Belyi",
+        "Anton",
+        "Anton Belyi",
+        "Anton Belyi, xwu71@jhu.edu",
+        "Danielle",
+        "N/A",
+        "Anton",
+        "Several TAs",
+        "Evan Leung",
+        "Evan Leung",
+        "All TAs",
+        "Head TA",
+        "Aditi",
+        "Anton",
+        "Anton Belyi",
+        "Anton Belyi",
+        "Aranyak Acharyya",
+        "All the TAs.",
+        "Anton beryl",
+        "Xuan Wu",
+        "Danielle",
+        "Xuan Wu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Anton",
+        "n/a",
+        "Xuan Wu",
+        "Jared Feingold",
+        "xuan wu",
+        "I had no TA.",
+        "Evan Leung",
+        "Kevin",
+        "/",
+        "?",
+        "N/A",
+        "Anton Belyy"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 10,
+        "Neither agree nor disagree": 15,
+        "Agree somewhat": 43,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 31,
+        "Somewhat heavier": 43,
+        "Much heavier": 18
+    }
+}

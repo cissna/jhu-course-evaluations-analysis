@@ -1,0 +1,87 @@
+{
+    "course_name": "Data Structures",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 38,
+        "Excellent": 42
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 21,
+        "Excellent": 56
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 30,
+        "Excellent": 50
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 32
+    },
+    "ta_names": [
+        "Chris Wilhelm",
+        "NA",
+        "Justin Nam",
+        "Jalen Geason",
+        "Many",
+        "Akhil and Justin are the GOATs",
+        "No TA",
+        "Chris Wilhelm",
+        "Ali Madooei",
+        "Jalen",
+        "Jaelon",
+        "Jalen Geason",
+        "all of them",
+        "Never went.",
+        "there were many",
+        "Jalen Geason",
+        "Tarik",
+        "tarik yildirim",
+        "Francis, Jalen, Dennis, Stephania, Sarah",
+        "Chris Wilhelm",
+        "William",
+        "Tarik Yildirim",
+        "Jalen Geason",
+        "N/A",
+        "Jalen Geason",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Akhil Deo,Camden Shultz,Chris Wilhelm,Dennis Plotnikov,Francis Durso,Jalen Geason,Justin Nam,Kayla Laufer,Kiron Deb,Lean Wood,Sarah Wu,William",
+        "N/A",
+        "N/A",
+        "all the TAs",
+        "Elaine",
+        "Jalen Gleason",
+        "Unknown",
+        "The TA for Section 2",
+        "Jalen Gaeson & Kiron Deb",
+        "Jalen Geason & Kiron Deb",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 47,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 44,
+        "Much heavier": 24
+    }
+}

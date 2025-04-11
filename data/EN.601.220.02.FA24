@@ -1,0 +1,59 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 10,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Don't know, I've never met or interacted with them.",
+        "Idk",
+        "Rudy",
+        "Rudy",
+        "N/A",
+        "Belle Angkanapiwat",
+        "Patrick",
+        "Aprina Wang",
+        "Dayann",
+        "I didn't have specific TA but they were all helpful.",
+        "Bob"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 13,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 10,
+        "Much heavier": 10
+    }
+}

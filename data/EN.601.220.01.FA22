@@ -1,0 +1,64 @@
+{
+    "course_name": "Intermediate Programming",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 15,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 12,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 23
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Too many to name, but i've had great experiences with all of them",
+        "Mark, Anika, Edward",
+        "Daniel Drozdov, Jake Rasmussen",
+        "Edward Wang",
+        "Mark Tavias",
+        "Edward Wang",
+        "Multiple TAs",
+        "Josh",
+        "All of them",
+        "Section 1 TAs",
+        "N/A",
+        "Anika",
+        "Mark and Anika",
+        "Mark Tiavis",
+        "Mark Tiavises",
+        "NA"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 14,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 14,
+        "Much heavier": 15
+    }
+}

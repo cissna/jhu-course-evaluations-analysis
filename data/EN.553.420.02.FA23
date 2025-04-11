@@ -1,0 +1,71 @@
+{
+    "course_name": "Probability",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Gabe Gormezano",
+        "gabe",
+        "Gabe",
+        "Gabe",
+        "Gabe Gormezano",
+        "Gabe Gormezano",
+        "Gabe",
+        "Gabe Gormezano",
+        "Gabe Gormezano",
+        "Gabe",
+        "Gabe",
+        "Gabe Gormezano",
+        "Gabe Gormezano",
+        "Gabe",
+        "Gabe Gormenzano",
+        "Gabe Gormezano",
+        "Gabe Gormenzano",
+        "Gabe",
+        "Gabe Gormezano",
+        "Gabe Gormezano",
+        "Gabe",
+        "Gabe",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 4,
+        "Somewhat heavier": 10,
+        "Much heavier": 8
+    }
+}

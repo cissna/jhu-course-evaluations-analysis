@@ -1,0 +1,73 @@
+{
+    "course_name": "Augmented Reality",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Sing Chun",
+        "Sing Chun",
+        "Sing Chun Lee",
+        "Sing Chun",
+        "Sing Chun Lee, Wei-Lun Huang, Yihao Liu",
+        "Sing Chun Lee",
+        "Sing Chun Lee",
+        "Sing Chun",
+        "ALL",
+        "Sing Chun Lee & Alejandro Martin-Gomez",
+        "Alejandro, Yihao, Sin Chun",
+        "Sing Chun Lee, Alejandro Martin-Gomez, Yihao Liu",
+        "Sing Chun Lee, Yihaou",
+        "YiHao Liu",
+        "Sing Chun Lee",
+        "Sing Chun LEE",
+        "Alejandro Martin Geomz",
+        "Yihao Liu and Alejandro Martin-Gomez",
+        "Sing Chun",
+        "Sing Chun, Alejandro Martinez Gomez",
+        "Alejandro Martin-Gomez, SingChun Lee",
+        "All of them",
+        "Sing Chun, Yihao",
+        "Sing Chun Lee. all of them were great but Sing Chun is the best",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 8,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 17,
+        "Somewhat heavier": 7,
+        "Much heavier": 2
+    }
+}

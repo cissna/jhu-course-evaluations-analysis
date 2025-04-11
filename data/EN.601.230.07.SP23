@@ -1,0 +1,57 @@
+{
+    "course_name": "Mathematical Foundations for Computer Science",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "N/A",
+        "Feiyang Huang",
+        "idk",
+        "I do not know her name but she is the TA for section 7.",
+        "Matthew FL",
+        "i dont know",
+        "Wenxuan Lu",
+        "I forgot",
+        "wenxuan lu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 11,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

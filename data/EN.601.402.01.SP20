@@ -1,0 +1,62 @@
+{
+    "course_name": "Digital Health and Biomedical Informatics",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Shefali Gupta",
+        "Shefali Gupta",
+        "Shefali Gupta",
+        "Shefali",
+        "Shefali Gupta",
+        "Shefali Gupta",
+        "Shefali",
+        "Shefali Gupta",
+        "Shefali",
+        "gupta",
+        "Shefali Gupta",
+        "Shefali",
+        "Shefali Gupta",
+        "shefali gupta"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 9,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

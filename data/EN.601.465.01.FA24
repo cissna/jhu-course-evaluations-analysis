@@ -1,0 +1,61 @@
+{
+    "course_name": "Natural Language Processing",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 23
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Brian, Edmund",
+        "Edmund, Kulssae",
+        "Brian, Jeffrey, Edmund, and Kuleen have been crucial in my success in this course.",
+        "Edmund Sumpena",
+        "Jeffrey Cheng",
+        "Edward S",
+        "All of them are very helpful during sections & office hours!",
+        "Rishi, Kuleen",
+        "Jeffrey and Edmund",
+        "Edmund and Jeffrey",
+        "Brian",
+        "Jeff Wan, Edmund Sumpena",
+        "Edmund Sumpena"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 10,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 0,
+        "Much heavier": 25
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "course_name": "Data Structures",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 15,
+        "Good": 15,
+        "Excellent": 26
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 10,
+        "Excellent": 37
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 34
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 6,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "N/A",
+        "Yihong Sun",
+        "There were a lot of them",
+        "Dont Know",
+        "Wilson",
+        "All of them",
+        "All",
+        "All especially head TA",
+        "N/A",
+        "Yihong",
+        "NA",
+        "Alan Zhang",
+        "Yihong Sun",
+        "Yihong Sun",
+        "N/A",
+        "Eduardo",
+        "Not Avaiable",
+        "Yihong Sun",
+        "Yihong Sun",
+        "I never spoke with any TA's",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 6,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 23,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 14,
+        "Somewhat heavier": 25,
+        "Much heavier": 17
+    }
+}

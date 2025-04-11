@@ -1,0 +1,86 @@
+{
+    "course_name": "User Interfaces and Mobile Applications",
+    "instructor_name": "",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 9,
+        "Good": 29,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 3,
+        "Satisfactory": 11,
+        "Good": 25,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 29,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 23,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "jeanie",
+        "All of them",
+        "Didn't speak to any TAs",
+        "Mung Yao",
+        "Kai Ko",
+        "Varun",
+        "Varun Singh",
+        "Mung Yao Jia",
+        "Jeanie Fung",
+        "Jeanie fung",
+        "Jeanie Fung",
+        "Kai Ko",
+        "Mung Yao Jia",
+        "Mung Yao",
+        "Mung Yao Jia",
+        "Kai Ko",
+        "Johns D'cruz",
+        "Aryaman Shodhan",
+        "Jeanie Fung",
+        "Kai Ko",
+        "Jeanie",
+        "Mung Yao Jia",
+        "Kai Ko",
+        "Kai Ko",
+        "Aryaman Shodhan",
+        "Aryaman",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Mung Yao Jia",
+        "Varun Singh",
+        "jenie",
+        "Kai Ko",
+        "Mung Yao",
+        "Varun",
+        "Varun Kumar",
+        "Varun",
+        "Jeanie Fung",
+        "Aryaman Shodhan",
+        "Jeanie Fung"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 28,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 20,
+        "Somewhat heavier": 23,
+        "Much heavier": 8
+    }
+}
