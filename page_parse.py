@@ -323,8 +323,9 @@ class GeneralClassScraper():
             self.last_period = 'SP'
         
         self.course_cache = f"course_cache_{self.last_period}{str(self.last_year)[2:]}.txt"
-        print(self.course_cache)
-        exit()
+
+        if self.course_cache != "course_cache_FA24.txt":
+            raise AssertionError("Need to better handle course cache so we don't redownlaod a bunch of files for no reason.")
 
 
     def scrape_all_pdfs(self):
