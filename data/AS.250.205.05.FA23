@@ -1,0 +1,61 @@
+{
+    "course_name": "Introduction to Computing",
+    "instructor_name": "Maria Procopio",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 19
+    },
+    "ta_names": [
+        "Don't Remember",
+        "TA during sunday 8-10pm office hours and thursday night 8-10 office hours",
+        "(there were multiple TAs)",
+        "All of them are excellent and willing to walk me through any question I have to better understand the material.",
+        "N/A",
+        "Akul",
+        "All of them",
+        "Janis Park",
+        "Janis",
+        "Muadh Elyamani, Mahmoud Said, Nadav Benhamou Goldfajn, Bailey Liu, Akul Kesarwani, Janis Park, Kristine Xie, Richard Yang, Wilson Sun",
+        "N/A",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 12,
+        "Somewhat heavier": 7,
+        "Much heavier": 6
+    }
+}

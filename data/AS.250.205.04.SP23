@@ -1,0 +1,57 @@
+{
+    "course_name": "Introduction to Computing",
+    "instructor_name": "Maria Procopio",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 1,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "No specific TA",
+        "Kristine Xie",
+        "Xie, Kristine",
+        "N/A",
+        "Kristine Xie",
+        "Multiple TA's - different for classes, office hours",
+        "Multiple TAs",
+        "Mahmoud Said, Udochukwu Nwosu, Kristine Xie",
+        "Kristine Xie"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "course_name": "States, Regimes & Contentious Politics",
+    "instructor_name": "Adria Lawrence",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 20
+    },
+    "ta_names": [
+        "Julieta",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta",
+        "Julieta casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julietta",
+        "N/A",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Julietta",
+        "Julieta Casas",
+        "Julieta Casas",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 17,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

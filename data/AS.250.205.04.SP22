@@ -1,0 +1,56 @@
+{
+    "course_name": "Introduction to Computing",
+    "instructor_name": "Maria Procopio",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "There were a lot and they were all good",
+        "Seth Berke, Akul Kesarwani, Abby St.Onge",
+        "Seth Berke, Akul Kesarwani",
+        "Seth",
+        "Seth Berke",
+        "Raj, Annie, Chase",
+        "Annie",
+        "Seth Berke"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 3,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "Introduction to Computing",
+    "instructor_name": "Ana Damjanovic",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 12,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 13,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "All of them together",
+        "Yungin Kim, Aaron Zoll",
+        "All of them!",
+        "n/a",
+        "aaron",
+        "N/A",
+        "All of them",
+        "Tuesday night's office hours TA (sorry i went to office hours a lot and its a blur with online stuff)",
+        "N/A",
+        "Jungmin Kim",
+        "Enya Wang",
+        "all of them",
+        "Not sure about their names, but all the TAs I contacted were very helpful",
+        "Don't even know their name because they weren't helpful.",
+        "Yingda Ge"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 16,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 13,
+        "Somewhat heavier": 10,
+        "Much heavier": 6
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "course_name": "Introduction to Computing",
+    "instructor_name": "Maria Procopio",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "All of them",
+        "Nadav Benhamou Goldfajn, Richard Yang",
+        "Nadhav",
+        "Richard",
+        "Richard",
+        "Richard Yang",
+        "Richard",
+        "Richard Yang",
+        "Richard",
+        "Richard Yang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 5,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to Computing",
+    "instructor_name": "Maria Procopio",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Jimin",
+        "Jimin",
+        "Jimin Kang",
+        "several TAs",
+        "Bailey Lu",
+        "Rohan Herur",
+        "Rohan Herur",
+        "Jimin Kang",
+        "Jimin and Saketh are most memorable but all were great",
+        "Jimin Kang",
+        "Adip Jhaveri",
+        "All"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 6,
+        "Typical": 7,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}
