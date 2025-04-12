@@ -321,14 +321,21 @@ class GeneralClassScraper():
         if now.month > 5:  # past may
             self.last_year += 1  # it will make last year actually this year, but that represents the "last year that we have data from"
             self.last_period = 'SP'
+        
+        self.course_cache = f"course_cache_{self.last_period}{str(self.last_year)[2:]}.txt"
+        print(self.course_cache)
+        exit()
 
 
     def scrape_all_pdfs(self):
-        with open('course_cache.txt', 'r') as f:
-            for line in f.readlines():
-                if line.strip() == self.class_code.strip():
-                    print(f'{self.class_code} already cached, remove from course_cache.txt to download its data.')
-                    return ["data/" + f for f in os.listdir("data") if self.class_code in f]
+        try:
+            with open(self.course_cache, 'r') as f:
+                for line in f.readlines():
+                    if line.strip() == self.class_code.strip():
+                        print(f'{self.class_code} already cached, remove from {self.course_cache} to download its data.')
+                        return ["data/" + f for f in os.listdir("data") if self.class_code in f]
+        except FileNotFoundError:
+            pass  # there are no courses with data currently on them in this period, so we proceed to the rest of the code.
 
         chrome_options = Options()
         chrome_options.add_argument("--headless")
@@ -379,7 +386,7 @@ class GeneralClassScraper():
                     if result is None:
                         break
                     data_files.append(s.parse_pdf())
-            with open("course_cache.txt", 'a') as f:
+            with open(self.course_cache, 'a') as f:
                 f.write(self.class_code + '\n')
         
         
