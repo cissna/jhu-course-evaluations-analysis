@@ -322,19 +322,22 @@ class GeneralClassScraper():
             self.last_year += 1  # it will make last year actually this year, but that represents the "last year that we have data from"
             self.last_period = 'SP'
         
-        self.course_cache = f"course_cache_{self.last_period}{str(self.last_year)[2:]}.txt"
-
-        if self.course_cache != "course_cache_FA24.txt":
-            raise AssertionError("Need to better handle course cache so we don't redownlaod a bunch of files for no reason.")
+        self.date = self.last_period + str(self.last_year)[2:]
+        
 
 
     def scrape_all_pdfs(self):
         try:
-            with open(self.course_cache, 'r') as f:
+            with open("course_cache.txt", 'r') as f:
                 for line in f.readlines():
-                    if line.strip() == self.class_code.strip():
-                        print(f'{self.class_code} already cached, remove from {self.course_cache} to download its data.')
-                        return ["data/" + f for f in os.listdir("data") if self.class_code in f]
+                    code, date = line.strip().split()
+                    
+                    if code == self.class_code.strip():
+                        if date == self.date:
+                            print(f'{self.class_code} already cached in course_cache.txt up to {self.last_period}{self.last_year}.')
+                            return ["data/" + f for f in os.listdir("data") if self.class_code in f]
+                        else:
+                            raise NotImplementedError("Deal with case where we have partial data——complicated")
         except FileNotFoundError:
             pass  # there are no courses with data currently on them in this period, so we proceed to the rest of the code.
 
@@ -387,8 +390,8 @@ class GeneralClassScraper():
                     if result is None:
                         break
                     data_files.append(s.parse_pdf())
-            with open(self.course_cache, 'a') as f:
-                f.write(self.class_code + '\n')
+            with open("course_cache.txt", 'a') as f:
+                f.write(f'{self.class_code} {self.date}\n')  # encode course but also last date we have data from.
         
         
         finally:
