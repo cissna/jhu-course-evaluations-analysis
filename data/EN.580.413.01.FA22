@@ -1,0 +1,63 @@
+{
+    "course_name": "Design Team Leader I",
+    "instructor_name": "Michelle Zwernemann",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Bhavya",
+        "bhavya gopinad",
+        "Leanne Pichay",
+        "Bhavya",
+        "Bhavya",
+        "Bhavya",
+        "Bhavya Gopinath",
+        "Bhavya Gopinath",
+        "Bhavya Gopinath",
+        "Bhavya",
+        "Bhavya Gopinath",
+        "Bhavya Gopinath",
+        "Yeo Kim Hwang",
+        "Bhavya Gopinath",
+        "Bhavya Gopinath"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 7,
+        "Much heavier": 3
+    }
+}

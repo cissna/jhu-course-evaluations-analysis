@@ -1,0 +1,74 @@
+{
+    "course_name": "Biological Models and Simulations",
+    "instructor_name": "Aleksander Popel",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 13,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Kirby Leo",
+        "Kirby Leo",
+        "Yu Zhang",
+        "Yu Zhang",
+        "Yu Zhang",
+        "Kirby",
+        "Kirby Leo",
+        "I don't remember, but she was Indian and had a name that has three syllables and starts with a \"T\"",
+        "Kirby and Jody",
+        "Kirby",
+        "Kirby",
+        "Jody, Tejasvi",
+        "Kirby Leo",
+        "Kirby Leo",
+        "Kirby Leo",
+        "Kirby Leo",
+        "Kirby Leo",
+        "Kirby Leo",
+        "Kirby Leo",
+        "Kirby",
+        "Kirby",
+        "Kirby",
+        "Kirby",
+        "Kirby",
+        "Kirby",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 14,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 15,
+        "Somewhat heavier": 12,
+        "Much heavier": 0
+    }
+}

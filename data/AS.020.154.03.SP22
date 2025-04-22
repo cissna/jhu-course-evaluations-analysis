@@ -1,0 +1,92 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 16,
+        "Excellent": 23
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 19,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 23,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 9,
+        "Good": 12,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Sophia Lee",
+        "Farina",
+        "Sophie",
+        "Farina",
+        "Sophia Lee",
+        "Yiqing Mao",
+        "Sophia Lee",
+        "Farina Nawar",
+        "Yiqing Mao",
+        "Farina Nawar",
+        "Yiqing Mao",
+        "Farina",
+        "Yiqing Mao",
+        "Sophia Lee",
+        "Yiqing Mao",
+        "Farina Nawar",
+        "Farina Nawar",
+        "Yiqing Mao",
+        "Nawar",
+        "Sophia Lee",
+        "Yiqing Mao",
+        "Sophia Lee",
+        "Sophia Lee",
+        "Yiqing Mao",
+        "Yiqing Mao",
+        "Sophia Lee",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Farina Newar",
+        "Sophia",
+        "Yiqing Mao",
+        "Yiqing Mao",
+        "Farina Nawar",
+        "Sophia",
+        "Yiqing Mao",
+        "Sophia Lee",
+        "Farina Nawar",
+        "Sophia Lee",
+        "Farina Nawar",
+        "Yiqing Mao",
+        "Sophia Lee",
+        "Yiqing Mao",
+        "Farina",
+        "Yiqing",
+        "Farina Nawar"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 14,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 5,
+        "Somewhat lighter": 18,
+        "Typical": 19,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

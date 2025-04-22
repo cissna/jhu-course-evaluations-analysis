@@ -1,0 +1,74 @@
+{
+    "course_name": "Applied Chemical Equilibrium and Reactivity w/lab",
+    "instructor_name": "Jamie Young",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 11,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Reagan Sam",
+        "Aarush Prasad",
+        "Aarush",
+        "Zoe",
+        "Reagan Sam",
+        "Aarush",
+        "Aarush Prasad",
+        "Zoe Dorff",
+        "Reagan",
+        "Reagan Sam",
+        "Jamie Young",
+        "Zoe Dorff",
+        "Reagan",
+        "Aarush",
+        "Jamie Young",
+        "Zoe Dorff",
+        "Zoe Dorff",
+        "Zoe",
+        "Zoe",
+        "Reagan",
+        "Arush",
+        "Aarush",
+        "Aarush",
+        "Zoe Dorff",
+        "Aarush Prasad",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 17,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 11,
+        "Much heavier": 6
+    }
+}

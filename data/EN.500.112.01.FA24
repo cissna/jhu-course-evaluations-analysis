@@ -1,0 +1,57 @@
+{
+    "course_name": "Gateway Computing: JAVA",
+    "instructor_name": "Gagan Garg",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Jerome, Nicole",
+        "Hanbei Zhou",
+        "Jerome",
+        "Alex Ma, Jerome",
+        "Nicole Saade, Grace Wang, Angelina Huiyan Huang, Clara Kim, Alex Ma, Ariel Li",
+        "Jerome",
+        "Jiaqi Yu",
+        "Jerome Shangold",
+        "I don't recall their names"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 10,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 8,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

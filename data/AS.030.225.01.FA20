@@ -1,0 +1,90 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 16,
+        "Excellent": 26
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 31
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 23,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 32
+    },
+    "ta_names": [
+        "Robert Medina",
+        "Vikas",
+        "Robert Medina",
+        "Robert Medina",
+        "Robert",
+        "Robert Medina",
+        "Robert",
+        "Robert Medina",
+        "Vikas Vittipally",
+        "Robert Medina",
+        "Vikas Vatipally",
+        "Vikas",
+        "Robert Medina",
+        "Daniel Habib",
+        "Robert Medina",
+        "Vikas",
+        "Daniel Roy Habib",
+        "Daniel Habib",
+        "Robert Medina",
+        "Vikas",
+        "Robert",
+        "Robert Medina",
+        "Robert Medina",
+        "Robert Medina",
+        "Daniel Habib",
+        "Daniel Habib",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Daniel Habib",
+        "Daniel Habib",
+        "Robert Medina",
+        "Daniel Habib",
+        "Robert Medina",
+        "Vikas Vattipally",
+        "Daniel Habib",
+        "Vikas Vattipally",
+        "Daniel Habib",
+        "Vikas",
+        "Daniel Habib",
+        "Robert Medina",
+        "Robert Medina",
+        "Vikas Vatipally",
+        "Daniel"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 18,
+        "Agree strongly": 24
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 24,
+        "Somewhat heavier": 18,
+        "Much heavier": 5
+    }
+}

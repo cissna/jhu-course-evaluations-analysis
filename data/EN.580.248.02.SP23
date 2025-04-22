@@ -1,0 +1,61 @@
+{
+    "course_name": "Systems Biology of the Cell",
+    "instructor_name": "Joel Bader",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 11,
+        "Good": 7,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 9,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 5,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Jonathan Hung",
+        "Kesevan",
+        "Jonathon Hung",
+        "Jonathan",
+        "Jonathan Hung",
+        "Jonathan Huang",
+        "Jonathan Huang",
+        "Jonathan Hung",
+        "jonathan",
+        "Jonathan Hung",
+        "Jonathon",
+        "jonathan hung",
+        "Kesavan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

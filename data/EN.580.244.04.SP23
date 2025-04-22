@@ -1,0 +1,61 @@
+{
+    "course_name": "Nonlinear Dynamics of Biological Systems",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Saardhak",
+        "Peggy Li",
+        "Saardhak Bhrugubanda",
+        "SAARDHAK",
+        "Sardhaak",
+        "All of them are fantastic!",
+        "Saardhak B",
+        "Saardhak",
+        "Saardhak Bhrubanda",
+        "Saardhak Bhrugubanda",
+        "Saardhak Bhrugubanda",
+        "Kathy Liu",
+        "Saardhak Bhrugubanda"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 12,
+        "Much heavier": 4
+    }
+}

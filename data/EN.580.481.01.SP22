@@ -1,0 +1,87 @@
+{
+    "course_name": "Precision Care Medicine II",
+    "instructor_name": "Joseph Greenstein",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 15,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 15,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 14,
+        "Excellent": 25
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 30
+    },
+    "ta_names": [
+        "N/A",
+        "Jacob Desman, Tony Wei",
+        "Jacob Desmond",
+        "Tony Wei and Jacob Desman",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Tony Wei, Jacob Desman",
+        "Jacob Desman, TOny Wei",
+        "Jacob, Tony",
+        "Tony and Jacob",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Jacob",
+        "Jacob Desman, Tony Wei",
+        "Tony Wei, Jacob Desman",
+        "Jacob Desman",
+        "Tony Wei",
+        "Jacob Desman and Tony Wei",
+        "Jacob Desman",
+        "All of them are awesome",
+        "Tony and Jacob",
+        "Jacob",
+        "tony wei, jacob desman",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Tony Wei, Jacob",
+        "Jacob and Tony",
+        "Jacob Desman",
+        "Tony Wei, Jacob Desman",
+        "Tony, Jacob",
+        "Tony and Jacob",
+        "Jacob and Tony",
+        "Tony Wei",
+        "Tony Wei",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Jacob"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 14,
+        "Agree strongly": 25
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 29,
+        "Somewhat heavier": 14,
+        "Much heavier": 3
+    }
+}

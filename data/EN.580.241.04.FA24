@@ -1,0 +1,69 @@
+{
+    "course_name": "Statistical Physics",
+    "instructor_name": "Jude Phillip",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 5,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "I don't remember.",
+        "Ramya",
+        "Ramya",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya",
+        "Ramya",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Nina Nair",
+        "Ramya",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Both Sai Rayasam and Emma Meihofer are awful TAs who both constantly make mistakes during either office hours or review sessions",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya",
+        "Ramya",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 12,
+        "Somewhat heavier": 9,
+        "Much heavier": 1
+    }
+}

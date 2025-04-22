@@ -1,0 +1,75 @@
+{
+    "course_name": "Developmental Biology",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 5,
+        "Weak": 16,
+        "Satisfactory": 48,
+        "Good": 86,
+        "Excellent": 45
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 12,
+        "Weak": 37,
+        "Satisfactory": 63,
+        "Good": 52,
+        "Excellent": 34
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 15,
+        "Good": 62,
+        "Excellent": 115
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 2,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "N/A",
+        "N/A",
+        "N/A",
+        "n/a",
+        "NA",
+        "N/A",
+        "N/A",
+        "N/A",
+        "NA",
+        "N/A",
+        "N/A",
+        "v",
+        "Not sure",
+        "N/A",
+        "n/a",
+        "N/A",
+        "NA",
+        "N/A",
+        "N/A",
+        "NA",
+        "N/A",
+        "N/A",
+        "n/a",
+        "Joanna Portillo",
+        "N/A",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 22,
+        "Disagree somewhat": 45,
+        "Neither agree nor disagree": 37,
+        "Agree somewhat": 56,
+        "Agree strongly": 25
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 16,
+        "Typical": 93,
+        "Somewhat heavier": 60,
+        "Much heavier": 22
+    }
+}

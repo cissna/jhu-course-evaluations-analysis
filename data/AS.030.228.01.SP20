@@ -1,0 +1,74 @@
+{
+    "course_name": "Intermediate Organic Chemistry Laboratory",
+    "instructor_name": "Eric Hill",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 12,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Anant Chopra, Juan Baltazar",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Juan Baltazar",
+        "Anant Chopra and Juan Baltazar",
+        "Anant!!",
+        "Juan Baltazar, Anant Chopra",
+        "Anant Chopra",
+        "Juan Baltazar, Anant Chopra",
+        "Juan Baltazar, Anant Chopra",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Anant Chopra",
+        "N/A",
+        "Juan",
+        "Anant Chopra",
+        "Juan and Anant are excellent, Lukas was in a different room so I didn't really interact with him much but he was nice and patient, David is not as personable as the",
+        "Anant Chopra, Juan Baltazar",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Anant Chopra",
+        "Anant & Juan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 10,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 15,
+        "Somewhat heavier": 6,
+        "Much heavier": 0
+    }
+}

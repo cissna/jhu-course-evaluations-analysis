@@ -1,0 +1,61 @@
+{
+    "course_name": "Nonlinear Dynamics of Biological Systems",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "William Xu",
+        "William Xu",
+        "William Xu",
+        "William Xu",
+        "Alan Poe",
+        "William Xu",
+        "Alan Poe",
+        "Annie",
+        "Alan Poe",
+        "Alan Poe",
+        "Alan Poe",
+        "William Xu",
+        "Alan Poe"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 4,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

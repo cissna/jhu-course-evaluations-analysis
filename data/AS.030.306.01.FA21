@@ -1,0 +1,57 @@
+{
+    "course_name": "Physical Chemistry Instrumentation Laboratory II",
+    "instructor_name": "Thomas Kempa",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Shannon Berner, Kathryn Kingsbury, Savannah Philips, Ona Ambrozaite, Yifei Zhu",
+        "Yifei, Kathryn, Shannon, Ona",
+        "Yifei",
+        "They were all great.",
+        "Shannon, Savannah, Katherine, Yifei",
+        "Shannon Bernier, Ona Ambrozaite, Yifei Zhu, Savannah Phillips, Kathryn Kingsbury",
+        "all of them",
+        "There were a lot",
+        "All were satisfactory. Ona was particularly helpful, as were Shannon and Katheryn."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 7,
+        "Much heavier": 6
+    }
+}

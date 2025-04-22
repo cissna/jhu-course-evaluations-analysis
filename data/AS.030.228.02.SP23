@@ -1,0 +1,62 @@
+{
+    "course_name": "Intermediate Organic Chemistry Laboratory",
+    "instructor_name": "Eric Hill",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Em",
+        "Em Ambrosius & Mengjiao Wang",
+        "Mengjiao",
+        "Em",
+        "Em Ambrosia",
+        "Em Ambrosius",
+        "Mengjiao Wang and Em Ambrosius",
+        "Em Ambrosius",
+        "Em Ambrosius",
+        "Em Ambrosius and Mengjiao Wang",
+        "Em Ambrosius & Mengjiao Wang",
+        "Em",
+        "Em and Meng Jiao",
+        "Mengjiao Wang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 12,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 8,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

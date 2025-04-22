@@ -1,0 +1,56 @@
+{
+    "course_name": "Advanced Data Science for Biomedical Engineering",
+    "instructor_name": "Brian Caffo",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 12,
+        "Excellent": 20
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 23
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 17,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "J Liu",
+        "N/A",
+        "Jinrui Liu",
+        "Runze Han",
+        "Louis (Jinrui)",
+        "Louis",
+        "Runzhe Li",
+        "Louis"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 14,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 25,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

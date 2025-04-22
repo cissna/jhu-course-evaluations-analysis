@@ -1,0 +1,67 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 11,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "sammy andrew",
+        "Andrew Bortvin, Sammie Goetting",
+        "Sammie",
+        "Sammie, Andrew",
+        "Sammy and Andrew",
+        "Andrew Bortvis",
+        "Andrew Bortvin",
+        "Andrew/Sammy",
+        "Sammy and Andrew",
+        "Andrew",
+        "Andrew Bortvin, Sammie Goetting",
+        "Andrew",
+        "Andrew and Sammy (Andrew was especially great-- he should get a raise)",
+        "Andrew and Maggie",
+        "Sammie, Andrew",
+        "Samantha Goetting, Andrew Bortvin",
+        "Andrew and Sammy",
+        "Andrew Bortvin",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 10,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 15,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "course_name": "Design Team Health-Tech Project II",
+    "instructor_name": "Michelle Zwernemann",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 21,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 22
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 19,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Unnathi",
+        "Aditi Sriram",
+        "Aditi Sriram",
+        "Noah",
+        "Aditi Sriram",
+        "Pallavi Ekbote",
+        "Pallavi Ekbote",
+        "Neha",
+        "Sandhya Tiku",
+        "Unnathi Shashikumar",
+        "Noah Lu",
+        "noah",
+        "Vince Wang",
+        "Vince Wang",
+        "Luke Boyce",
+        "Luke Boyce",
+        "Vince Wang",
+        "Neha",
+        "Neha Rajan",
+        "Noah Lu",
+        "Unnathi Annapurna Shashikumar",
+        "Amina Ishrat",
+        "Luke Boyce",
+        "Luke Boyce",
+        "Vince Wang",
+        "Amina",
+        "Amina Ishrat",
+        "Sandhya Tiku",
+        "Aditi",
+        "Noah Lu",
+        "Aditi Sriram",
+        "Unnathi Annapurna Shashikumar",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Tech Project II"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 15,
+        "Agree strongly": 21
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 13,
+        "Much heavier": 26
+    }
+}

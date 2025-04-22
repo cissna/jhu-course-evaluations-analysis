@@ -1,0 +1,63 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Sophia Cinquemani",
+        "Sophia Cinquemani",
+        "Sophia Cinquemani",
+        "Sophia Cinquemani",
+        "Eden Sheinin",
+        "Eden Sheinin",
+        "Eden Sheinin",
+        "Sophia Cinquemani",
+        "Sophia Cinquemanni",
+        "Eden Sheinin",
+        "Sophia Cinquemani",
+        "Eden Sheinin",
+        "Eden Sheinin",
+        "Eden Sheinin",
+        "Sofia"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 3,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 5,
+        "Somewhat lighter": 7,
+        "Typical": 3,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

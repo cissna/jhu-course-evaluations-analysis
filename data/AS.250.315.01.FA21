@@ -1,0 +1,63 @@
+{
+    "course_name": "Biochemistry I",
+    "instructor_name": "Juliette Lecomte",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Tom Zhang",
+        "Chris and Tom",
+        "Tom Zhang",
+        "Chris Anchan, Tom Zhang",
+        "Chris",
+        "Chris Anchan and Tom Zhang",
+        "Tom/Chris",
+        "Tom Zhang",
+        "Tom and Chris",
+        "Tom Zhang, Chris Anchan",
+        "Chris Anchan and Tom Zhang",
+        "Tom Zhang and Chris Anchan",
+        "Tom",
+        "Tom Zhang and Chris Anchan",
+        "Yipeng Zhang"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 6,
+        "Much heavier": 6
+    }
+}

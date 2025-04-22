@@ -1,0 +1,83 @@
+{
+    "course_name": "Tissue Engineering",
+    "instructor_name": "Jennifer Elisseeff",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 13,
+        "Good": 25,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 18,
+        "Excellent": 31
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 31,
+        "Excellent": 20
+    },
+    "ta_frequency": {
+        "Poor": 4,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 13,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Joy Su",
+        "Anna Ruta, Joy Su",
+        "anna",
+        "The head TAs",
+        "Joy",
+        "Anna Ruta",
+        "Both",
+        "Anna Ruta, Joy Su",
+        "Joy Su",
+        "N/A",
+        "Joyce Su",
+        "Joy Su",
+        "Anna Ruta and Joy Chia-Yi Su",
+        "N/A",
+        "Joy Su",
+        "Anna",
+        "Anna Ruta",
+        "Joy Su, Anna Ruta",
+        "Anna and Joy",
+        "All the TAs are very good in this course. They are very attentive.",
+        "Chia-Yi Su, Anna Ruta",
+        "Anna Ruta, Joy Su",
+        "Joy",
+        "Joy Chia-Yi Su",
+        "Anna Ruta, Joy Su",
+        "Anna Ruta, Joy Chia-Yi Su",
+        "Anna Ruta",
+        "Joy Su",
+        "Sue",
+        "Anna and Joy",
+        "Joy Su",
+        "Unknown",
+        "Anna Ruta, Joy Su",
+        "Chia-Yi Su",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 8,
+        "Disagree somewhat": 11,
+        "Neither agree nor disagree": 13,
+        "Agree somewhat": 14,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 8,
+        "Typical": 29,
+        "Somewhat heavier": 10,
+        "Much heavier": 7
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "course_name": "Linear Signals and Systems",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Esther Kwon",
+        "Esther Kwon",
+        "Esther",
+        "N/A",
+        "Ester Kwon",
+        "Esther Kwon",
+        "Esther",
+        "Esther Kwon",
+        "Esther Kwon",
+        "Tika",
+        "Esther Kwon",
+        "esther kwon",
+        "Nina Nair",
+        "Esther",
+        "Nina",
+        "Ester"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 11,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 8,
+        "Much heavier": 0
+    }
+}

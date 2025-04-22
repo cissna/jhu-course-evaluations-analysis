@@ -1,0 +1,67 @@
+{
+    "course_name": "Cell Biology Lab",
+    "instructor_name": "Robert Horner",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Jeffrey Liao",
+        "Jeffrey Liao",
+        "Jeff Liao",
+        "Jeffrey Liao",
+        "Jeff Liao",
+        "Jeffery Liao",
+        "Jeff Liao",
+        "Jeff Liao",
+        "Jeffrey Liao",
+        "Jeffrey Liao",
+        "Jeffery Liao",
+        "Jeff Liao",
+        "Jeffrey Liao",
+        "Jeff!!!",
+        "Jeff",
+        "Jeffrey Liao",
+        "Jeff Liao",
+        "Jeffrey Liao",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 10,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

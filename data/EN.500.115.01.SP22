@@ -1,0 +1,56 @@
+{
+    "course_name": "Gateway Data Science",
+    "instructor_name": "Fadil Santosa",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Weihang Gao",
+        "All",
+        "Weihang Gao",
+        "Weihang Gao",
+        "Weihang",
+        "Weihang Gao",
+        "Weihang Gao",
+        "Weihang Gao"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 1,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Christian Mendoza",
+        "Simon Zhang and Christian Mendoza",
+        "Christian Mendoza",
+        "Christian and Simon",
+        "Christian Mendoza, Simon Zhang",
+        "Christian Mendoza and Simon Zhang",
+        "Simon and Christian",
+        "Christian Mendoza, Simon Zhang",
+        "Simon and Christian",
+        "christian",
+        "Simon and Christian",
+        "Christian, Simon",
+        "simon and christian",
+        "Simon Zhang; Christian Mendoza",
+        "Christian and Simon",
+        "Christian",
+        "Simon and Christian",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 7,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 6,
+        "Typical": 13,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

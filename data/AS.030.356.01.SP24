@@ -1,0 +1,63 @@
+{
+    "course_name": "Advanced Inorganic Lab",
+    "instructor_name": "Xiongyi Huang",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Sawyer Lyons",
+        "Sawyer Lyons",
+        "Sawyer Lyons",
+        "Sawyer Lion, Yuxuan",
+        "Sawyer Lyons",
+        "Sawyer Lyons",
+        "Sawyer",
+        "Sawyer Lyons",
+        "Sawyer Lyons",
+        "Yuxuan Su (weak) and Sawyer Lyons (good)",
+        "Sawyer and Yuxuan",
+        "Sawyer Lyons",
+        "Sawyer Lyons",
+        "Sawyer Lyons",
+        "Sawyer Lyons"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 3,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 8,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

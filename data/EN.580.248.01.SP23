@@ -1,0 +1,72 @@
+{
+    "course_name": "Systems Biology of the Cell",
+    "instructor_name": "Joel Bader",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 6,
+        "Satisfactory": 11,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 13,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Sheila",
+        "Sheila Iyer",
+        "Sheila Iyer",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila",
+        "Sheila",
+        "Sheila",
+        "Sheila Iyer",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila",
+        "Sheila",
+        "Sheila Iyer",
+        "Sophia",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila",
+        "Sheila",
+        "Gabby Kang, Sheila",
+        "Sheila",
+        "Shelia",
+        "Sheila Iyer",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 13,
+        "Agree somewhat": 9,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 17,
+        "Somewhat heavier": 4,
+        "Much heavier": 2
+    }
+}

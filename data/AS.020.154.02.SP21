@@ -1,0 +1,82 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 15
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 13,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Betty Wu",
+        "Rithvic",
+        "Rithvic",
+        "Betty Wu",
+        "Maryam Ibrahim",
+        "Maryam Ibrahim",
+        "rithvic jupudi",
+        "Maryam",
+        "Rithvic Jupudi",
+        "Rithvic Jupudi",
+        "Maryam Ibrahim",
+        "Maryam Ibrahim",
+        "Rithvik Jupudi",
+        "Maryam Ibrahim",
+        "Betty Wu",
+        "Betty Wu",
+        "Rithvik Jupudi",
+        "Maryam Ibrahim",
+        "Maryam Ibrahim",
+        "Maryam Ibrahim",
+        "Maryam ibrahim",
+        "Betty Wu",
+        "Betty Wu",
+        "Betty Wu",
+        "Betty Wu",
+        "Rithvic Jupudi",
+        "Rithvic Jupudi",
+        "Rithvic Jupudi",
+        "Betty Wu",
+        "Rithvic Jupudi",
+        "Rithvic Jupudi",
+        "Maryam Ibrahim",
+        "Maryam Ibrahim",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 16,
+        "Typical": 12,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

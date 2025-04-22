@@ -1,0 +1,59 @@
+{
+    "course_name": "Systems Biology of the Cell",
+    "instructor_name": "Joel Bader",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 5,
+        "Satisfactory": 12,
+        "Good": 7,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 6,
+        "Weak": 6,
+        "Satisfactory": 10,
+        "Good": 5,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Eesha Verma",
+        "Eesha",
+        "Isha Verma",
+        "Eesha Verma",
+        "Niranjan Behera",
+        "Eesha Verma",
+        "Eesha Verma",
+        "Niranjan Behera",
+        "Eesha Verma",
+        "Ryan Zhao",
+        "Eesha Verma"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 11,
+        "Agree somewhat": 4,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 17,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

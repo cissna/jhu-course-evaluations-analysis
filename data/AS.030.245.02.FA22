@@ -1,0 +1,55 @@
+{
+    "course_name": "Quantitative Analytical Laboratory",
+    "instructor_name": "Sunita Thyagarajan",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Jacob",
+        "Jacob Wade",
+        "Jacob/George/Allana/Andy",
+        "Jacob Wade",
+        "Andy Chia",
+        "Allana Iwanicki",
+        "Andy Chia, Jacob Wade, Allana Iwanicki"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 5,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

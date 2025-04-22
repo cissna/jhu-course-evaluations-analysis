@@ -1,0 +1,61 @@
+{
+    "course_name": "Biological Models and Simulations",
+    "instructor_name": "Aleksander Popel",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Rebeca Oliveira",
+        "Rebeca Olivera",
+        "Rebeca Oliveira",
+        "Gavin Lu",
+        "Rebeca",
+        "Rebeca Olivera",
+        "Rebeca Oliveira",
+        "Rebeca",
+        "N/A",
+        "Rebeca Oliveira",
+        "Rebeca, Gavin, Eesha, Alex",
+        "Gavin",
+        "Gavin Lu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 1,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

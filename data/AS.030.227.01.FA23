@@ -1,0 +1,62 @@
+{
+    "course_name": "Chemical Chirality: An Introduction in Organic Chem. Lab, Techniques",
+    "instructor_name": "Eric Hill",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Em, Lillian",
+        "Em Ambros",
+        "Em",
+        "Em and Lillian",
+        "Em, Lilian",
+        "Em",
+        "Em Ambrosius",
+        "Cameron and Andrew",
+        "Em Ambrosius",
+        "Em Ambriosus. Lillian Scales",
+        "Em Ambrose & Lillian Scales",
+        "Em",
+        "Em Ambrosius",
+        "Em and Lillian"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 4,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 5,
+        "Much heavier": 2
+    }
+}

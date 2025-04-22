@@ -1,0 +1,66 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Connor Gephart",
+        "connor gephart",
+        "Connor",
+        "Connor Gephart",
+        "Connor (10 AM section)",
+        "Connor G",
+        "Taylor Bobrow",
+        "Connor Gephart",
+        "Connor (idk his last name)",
+        "Connor Gephart",
+        "Kwame Kutten",
+        "Aryan Dugar",
+        "Connor Gephart",
+        "Rohan Vijayan",
+        "Connor",
+        "Jaxon North",
+        "Conner",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 8,
+        "Much heavier": 2
+    }
+}

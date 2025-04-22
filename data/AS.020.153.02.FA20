@@ -1,0 +1,89 @@
+{
+    "course_name": "General Biology Laboratory I",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 9,
+        "Excellent": 21
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 15,
+        "Good": 15,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 37
+    },
+    "ta_names": [
+        "Xinyue Lang",
+        "Noah Smith",
+        "Kelly Beharry",
+        "Noah Smith",
+        "Noah Smith",
+        "Kelly Beharry",
+        "Kelly Beharry",
+        "Noah Smith",
+        "Philip (Xinyue) Lan",
+        "Kelly Beharry",
+        "Kelly Beharry",
+        "Noah Smith",
+        "Philip",
+        "Kelley Beharry",
+        "Noah Smith",
+        "Kelly Beharry",
+        "Noah Smith",
+        "Noah Smith",
+        "Kelly Beharry",
+        "Noah Smith",
+        "Noah Smith",
+        "Philip Xinyue Lan",
+        "Kelly Beharry",
+        "Kelly Beharry",
+        "Noah",
+        "Xinyue Lan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Kelly Beharry",
+        "Philip Xinyue Lan",
+        "Kelly Beharry",
+        "Philip Lan",
+        "Philip Lan",
+        "Philip lan",
+        "Xinyue Lan",
+        "Kelly Beharry",
+        "Philip Lan",
+        "Philip Xinyue Lan",
+        "Philip (Xinyue) Lan",
+        "Noah Smith",
+        "Kelly Behary",
+        "Phillip"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 11,
+        "Agree strongly": 22
+    },
+    "workload_frequency": {
+        "Much lighter": 6,
+        "Somewhat lighter": 21,
+        "Typical": 14,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

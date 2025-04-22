@@ -1,0 +1,72 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Erin Capodanno",
+        "Tony Y",
+        "Tony",
+        "Erin Capodanno",
+        "Tony Yao",
+        "Erin Capodanno",
+        "Erin Capodanno",
+        "Tony Yao",
+        "Tony yao",
+        "Tony Yao",
+        "Erin",
+        "Tony Yao",
+        "Erin C",
+        "Erin",
+        "Tony Yao",
+        "erin capodanno",
+        "Erin Capodanno",
+        "Tony Yao",
+        "Erin Capodanno",
+        "Tony Yao",
+        "Erin Capodano",
+        "Erin Capodanno",
+        "Erin Capodanno",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 7,
+        "Somewhat lighter": 7,
+        "Typical": 10,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

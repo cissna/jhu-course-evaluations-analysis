@@ -1,0 +1,63 @@
+{
+    "course_name": "Chemical Chirality: An Introduction in Organic Chem. Lab, Techniques",
+    "instructor_name": "Eric Hill",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Sydney Gregory",
+        "Sydney & Molly -Wednesday TAs",
+        "Sydney",
+        "Sydney Gregory and Molly Kuzma",
+        "Sydney and Molly",
+        "Sydney Gregory, Molly",
+        "Sydney Gregory, and Molly",
+        "Sydney Gregory, Molly Kuzma",
+        "Sydney, Molly",
+        "n/a",
+        "molly nd sydney",
+        "Sydney Gregory, Molly Kuzma",
+        "Sydney and Molly",
+        "Sydney Gregory, Molly Kuzma",
+        "Sydney Gregory"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 5,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "course_name": "Statistical Physics",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 7,
+        "Satisfactory": 9,
+        "Good": 6,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 6,
+        "Weak": 9,
+        "Satisfactory": 5,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "William Xu",
+        "William Xu",
+        "Ze Ou",
+        "Will Xu",
+        "William Zhu",
+        "William",
+        "N/A",
+        "William Xu",
+        "Ze Ou",
+        "William Xu",
+        "Adam Kenet",
+        "Adam Kenet",
+        "William",
+        "William Xu",
+        "William Xu",
+        "William Xu",
+        "William Xu",
+        "Christine Ji",
+        "William Xu",
+        "William Xu",
+        "William",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 7,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 13,
+        "Much heavier": 8
+    }
+}

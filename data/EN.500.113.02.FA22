@@ -1,0 +1,59 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Siamak Ardekani",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Gisselle Negron; Hannah Qu",
+        "not sure",
+        "All of them",
+        "Giselle",
+        "TA for 9AM Ardekani section",
+        "Gisselle Negron",
+        "Gisselle Negron",
+        "9am section",
+        "Giselle",
+        "n/a",
+        "Giselle"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 4,
+        "Somewhat heavier": 8,
+        "Much heavier": 4
+    }
+}

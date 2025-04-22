@@ -1,0 +1,68 @@
+{
+    "course_name": "Nonlinear Dynamics of Biological Systems",
+    "instructor_name": "Prajakta Purushottam Bedekar",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Saardhak Bhrugubanda",
+        "Nina, Saardhak",
+        "Kathy, Nina, Kareef",
+        "Nina Nair",
+        "all",
+        "Saardhak Bhrugubanda",
+        "Saardhak Bhrugubanda",
+        "Saardhak",
+        "Nina Nair",
+        "Saardhak",
+        "Nina",
+        "Saardhak Bhrugubanda",
+        "Saardhak Bhrugubanda",
+        "Saardhak",
+        "Nina, Kathy",
+        "Nina",
+        "Saardhak",
+        "Saardhak Bhrugubanda",
+        "Naina",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 9,
+        "Much heavier": 7
+    }
+}

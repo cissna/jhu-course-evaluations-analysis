@@ -1,0 +1,63 @@
+{
+    "course_name": "Biochemistry",
+    "instructor_name": "Emily Fisher",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 14,
+        "Good": 39,
+        "Excellent": 36
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 8,
+        "Satisfactory": 29,
+        "Good": 29,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 32,
+        "Excellent": 48
+    },
+    "ta_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 0,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "n/a",
+        "N/A.",
+        "N/A",
+        "N/A",
+        "N/A",
+        "n/a",
+        "I'm not sure who my TA was",
+        "N/A",
+        "N/A",
+        "?",
+        "NA",
+        "i never went to them",
+        "don't know",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 15,
+        "Agree somewhat": 36,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 36,
+        "Somewhat heavier": 38,
+        "Much heavier": 12
+    }
+}

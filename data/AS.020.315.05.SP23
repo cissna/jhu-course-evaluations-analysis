@@ -1,0 +1,60 @@
+{
+    "course_name": "Biochemistry Project lab",
+    "instructor_name": "Eric Johnson",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Xinchen Yuan",
+        "Xincheng",
+        "sorry, i forgot his name (section 5)",
+        "Xinchen",
+        "Xincheng",
+        "Xincheng",
+        "Xincheng Yuan",
+        "Xincheng Yuan",
+        "Xincheng Yuan",
+        "Xincheng Yuan",
+        "Xincheng",
+        "Xincheng Yuan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 5,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 5,
+        "Somewhat heavier": 6,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "course_name": "Molecular and Cellular Mechanisms of Reproduction",
+    "instructor_name": "Barry Zirkin",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 24
+    },
+    "ta_names": [
+        "Maggie",
+        "Maggie",
+        "Maggie Starostik",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Margaret",
+        "Maggie",
+        "Maggie",
+        "maggie",
+        "Maggie",
+        "Maggie Starostik",
+        "Maggie Starostik",
+        "Margaret",
+        "Margaret",
+        "Maggie",
+        "Maggie Starostik",
+        "Margaret Starostik",
+        "Maggie",
+        "Margret",
+        "Margaret (Maggie!)",
+        "Margaret Starostik",
+        "Maggie STAROSTIK",
+        "Margaret",
+        "Maggie",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 10,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 5,
+        "Somewhat lighter": 8,
+        "Typical": 11,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

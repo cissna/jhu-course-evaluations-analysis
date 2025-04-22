@@ -1,0 +1,79 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 10,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "TA Shafkat Meraj",
+        "Shafkat",
+        "Shafkat Meraj",
+        "shaf",
+        "Arieana",
+        "SHAFKAT",
+        "Arieana",
+        "Shafkat",
+        "Arieana Johnson",
+        "Arieana Johnson",
+        "Shafkat",
+        "Arieana",
+        "Arieana Johnson",
+        "Shafket",
+        "Arieana Johnson",
+        "Arieana Johnson",
+        "Arieana",
+        "Arieanna",
+        "Arieanna",
+        "Arieanna",
+        "Shafkat",
+        "Shafkat",
+        "Arieanna",
+        "Arieanna",
+        "Shaf",
+        "Shafkat",
+        "SHaf",
+        "Ariana",
+        "Shafkat Meraj",
+        "Shafkat Meraj",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 12,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 10,
+        "Somewhat lighter": 11,
+        "Typical": 9,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

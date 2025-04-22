@@ -1,0 +1,61 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Connor Gephart",
+        "Connor Gephart",
+        "Connor",
+        "Connor Gephart",
+        "Connor Gephart",
+        "Mathew Ost",
+        "Matthew Ost",
+        "Connor",
+        "Every TAs",
+        "Connor",
+        "Loic Sangwa",
+        "Do not remember",
+        "Not sure"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 2,
+        "Much heavier": 1
+    }
+}

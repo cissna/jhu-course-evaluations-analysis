@@ -1,0 +1,61 @@
+{
+    "course_name": "Biochemistry Project lab",
+    "instructor_name": "Eric Johnson",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Adriana Rhodes",
+        "Adriana Rhodes",
+        "Adriana Rhodes",
+        "Adriana Rhodes",
+        "Adrianna",
+        "Adrianna Section 1",
+        "Adriana Rhodes",
+        "Adriana Rhodes",
+        "Adriana Rhodes",
+        "Adrianna Rhodes",
+        "Adriana Rhodes",
+        "Adriana Rhodes",
+        "Adriana Rhodes"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 3,
+        "Somewhat heavier": 6,
+        "Much heavier": 4
+    }
+}

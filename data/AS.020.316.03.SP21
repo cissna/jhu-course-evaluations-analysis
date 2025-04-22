@@ -1,0 +1,59 @@
+{
+    "course_name": "Cell Biology Lab",
+    "instructor_name": "Robert Horner",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Raquel Merino",
+        "Raquel Merino",
+        "Raquel Merino",
+        "Raquel",
+        "Raquel Merino",
+        "Raquel Merino",
+        "N/A",
+        "Raquel",
+        "Raqel",
+        "Raquel Merino",
+        "Not sure."
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 4,
+        "Typical": 7,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

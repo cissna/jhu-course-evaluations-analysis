@@ -1,0 +1,53 @@
+{
+    "course_name": "Physical Chemistry Instrumentation Laboratory I",
+    "instructor_name": "D Fairbrother",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "George Jiang, Neal Marshall, Luke O'Connor, Manuel Palma (they are all awesome)",
+        "George Jiang, Luke, mauel",
+        "Luke O'Connor, Neal Marshall, Manuel A Palma, George Jiang",
+        "Manuel Palma, George, Luke",
+        "Manuel Palma"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 1,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 0,
+        "Much heavier": 7
+    }
+}

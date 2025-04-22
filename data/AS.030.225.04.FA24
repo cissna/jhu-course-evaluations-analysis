@@ -1,0 +1,79 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 13,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "Giuliana, Will, and Amy",
+        "John Beltran and T.C. Taylor",
+        "Will and Giuliana",
+        "Austin and Ella",
+        "Het Patel",
+        "John Beltran and TC Taylor",
+        "John and TC",
+        "John, TC",
+        "John and TC",
+        "Het Patel",
+        "John and TC",
+        "Will Taggart and Giuliana Sardi Rogines",
+        "Het Patel",
+        "Amy",
+        "Ella Macko / Austin",
+        "Will",
+        "Het",
+        "John and TC",
+        "Het Patel",
+        "Will and Giuliana",
+        "Ella, Austin",
+        "Het",
+        "Ella and Austin",
+        "Austin and Ella",
+        "John and TC",
+        "Will and Giuliana were the best!",
+        "John, TC",
+        "Will Taggart and G",
+        "Austin/Ella",
+        "Austin Ella",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 14,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 13,
+        "Somewhat heavier": 14,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "course_name": "Biochemistry Project lab",
+    "instructor_name": "Eric Johnson",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Charlie",
+        "charlie millard",
+        "Charlie",
+        "Charles Millard",
+        "Charles Millard",
+        "Charles Millard",
+        "Charles Millard",
+        "Charlie",
+        "Charles Millard",
+        "Charles Millard",
+        "Charles Millard",
+        "CHARLES MILLARD",
+        "Charles Millard",
+        "Charlie Millard",
+        "Charlie Millard",
+        "Charlie"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 6,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 4,
+        "Much heavier": 2
+    }
+}

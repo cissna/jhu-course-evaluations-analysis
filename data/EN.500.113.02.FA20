@@ -1,0 +1,62 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Muna Igoboko",
+        "Muna",
+        "I talked to many different TAs and all are helpful",
+        "A mixture of all of them",
+        "Muna, Kevin, Katiana, Connor",
+        "All of them",
+        "Katiana is the best TA for python",
+        "Stephanie Slania",
+        "Muna Igboko",
+        "Muna Igboko",
+        "Muna Igboko",
+        "Muna",
+        "Loic Sangwa",
+        "Munachiso Igboko"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 5,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 5,
+        "Somewhat heavier": 9,
+        "Much heavier": 3
+    }
+}

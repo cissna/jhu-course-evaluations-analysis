@@ -1,0 +1,58 @@
+{
+    "course_name": "Biomedical Data Science Laboratory",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Emily, Viggy",
+        "Viggy",
+        "Viggy",
+        "Viggy Vanchinathan and Hyun Seo Lee",
+        "Viggy",
+        "Connie Chen",
+        "Vignesh",
+        "Viggy",
+        "Viggy Vanchinathan. Hyun Seo Lee",
+        "Jiwoo Noh"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 14,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

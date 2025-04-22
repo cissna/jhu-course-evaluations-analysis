@@ -1,0 +1,55 @@
+{
+    "course_name": "Quantitative Analytical Laboratory",
+    "instructor_name": "Sunita Thyagarajan",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 1
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Mike, Leeker",
+        "Mike He; Leeker Lin",
+        "Mike He, Leeker Lin",
+        "Mike He",
+        "Leeker Lin, Mike He",
+        "Mike He",
+        "mike and leeker"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 3,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 5,
+        "Much heavier": 3
+    }
+}

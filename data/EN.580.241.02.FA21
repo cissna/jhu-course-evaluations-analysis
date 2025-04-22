@@ -1,0 +1,67 @@
+{
+    "course_name": "Statistical Physics",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 5,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 10,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Adam K",
+        "Adam Kenet",
+        "Adam Kenat",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Adam Kenet",
+        "N/A",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Adam Louis Kenet",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Adam",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 11,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 18,
+        "Much heavier": 7
+    }
+}

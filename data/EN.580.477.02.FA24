@@ -1,0 +1,66 @@
+{
+    "course_name": "Biomedical Data Science Laboratory",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 11,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Connie Chen",
+        "ALL",
+        "not sure",
+        "Connie Chen",
+        "Connie Chen",
+        "Amir Hossein Daraie",
+        "Jiwoo Noh",
+        "Jiwoo Noh",
+        "Connie",
+        "NA",
+        "Jiwoo and Connie",
+        "Connie Chen",
+        "Connie",
+        "Connie Chen",
+        "Connie",
+        "Jiwoo Noh and Connie Chen",
+        "Jiwoo Noh",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 11,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 22,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "course_name": "Immunoengineering Laboratory",
+    "instructor_name": "Jessica Dunleavey",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Anna Long",
+        "Anna Long",
+        "Anna Long and Megha Lingamsetty",
+        "Anna",
+        "Anna and Megha",
+        "anna, i'm sorry i didn't catch her name but she was also amazingly patient",
+        "Anna, Megha",
+        "Yuan Mu Huang Long - Anna Long"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 9,
+        "Much heavier": 4
+    }
+}

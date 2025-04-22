@@ -1,0 +1,64 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Scot Miller",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Alina Goo",
+        "Alina",
+        "Gigi Wang",
+        "Helena",
+        "Alina Guo",
+        "Alina Guo",
+        "Alina",
+        "Alina Guo",
+        "Kevin Zhang",
+        "Alina Guo",
+        "Alina",
+        "Alina Guo",
+        "Alina Guo",
+        "Peter Uba",
+        "Alina Guo",
+        "Alina Guo"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 5,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 11,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

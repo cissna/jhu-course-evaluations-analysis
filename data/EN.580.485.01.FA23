@@ -1,0 +1,76 @@
+{
+    "course_name": "Computational Medicine: Cardiology",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 7,
+        "Satisfactory": 16,
+        "Good": 11,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 10,
+        "Satisfactory": 8,
+        "Good": 15,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 17,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Jonathan Wang",
+        "Kelly Zhang",
+        "Jonathan Wang",
+        "Jonathan Wang",
+        "Jonathan",
+        "Jonathan Wang",
+        "N/A",
+        "Jonathan",
+        "Jonathon Wang",
+        "Jonathan Wang",
+        "N/A",
+        "Jonathan",
+        "Jonathan",
+        "Jonathan Wang",
+        "Kelly",
+        "Jonathan Wang",
+        "Jonathon",
+        "Kelly Zhang",
+        "Jonathan Wang",
+        "Kelly Zhang",
+        "Harrison",
+        "Johnathan Wang",
+        "Kelly Zhang",
+        "Harrison",
+        "Kelly",
+        "Jonathan",
+        "All",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 9,
+        "Disagree somewhat": 8,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 12,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 13,
+        "Much heavier": 24
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "Foundations of Computational Biology and Bioinformatics",
+    "instructor_name": "Chris Bradburne",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Eleanor",
+        "Eleanor, Soichiro",
+        "Soichiro Asami and Eleanor Hilgart",
+        "Eleanor Hilgart",
+        "Soichiro, Eleanor",
+        "Eleanor and Soichiro",
+        "Eleanor and Sachoro",
+        "Soichiro and Eleanor",
+        "Eleanor Hilgart and Soichiro Asami",
+        "Eleanor and Soichiro",
+        "Eleanor Hilgart"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 4,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 8,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

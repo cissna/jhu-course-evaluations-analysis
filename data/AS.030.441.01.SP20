@@ -1,0 +1,57 @@
+{
+    "course_name": "Spectroscopic Methods of Organic Structure Determination",
+    "instructor_name": "Christopher Falzone",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "Bing Xu",
+        "I don't know their name, I think they just grade our exams.",
+        "Bing",
+        "Can't remember but he was really nice",
+        "Bing"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 9,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 7,
+        "Typical": 17,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

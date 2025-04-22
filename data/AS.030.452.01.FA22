@@ -1,0 +1,60 @@
+{
+    "course_name": "Materials & Surface",
+    "instructor_name": "D Fairbrother",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 7,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Mohammed Abdel-Rahman",
+        "N/A",
+        "Mohammad",
+        "Patrick",
+        "Patrick Eckhert",
+        "Patrick Eckhert",
+        "Muhammad",
+        "Patrick and Mohammed",
+        "according to the syllabus, patrick but the postdoc from the professor's lab acted as the grading ta",
+        "Mohammed",
+        "Patrick Eckhert",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 8,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 15,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

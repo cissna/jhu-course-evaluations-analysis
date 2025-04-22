@@ -1,0 +1,55 @@
+{
+    "course_name": "Design Team Leader II",
+    "instructor_name": "Elizabeth Logsdon",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 1,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Sarah Lee",
+        "Sarah",
+        "Sarah Lee",
+        "Sarah Lee",
+        "Sarah Lee",
+        "Sarah Lee",
+        "Sarah"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 3,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "course_name": "Systems and Controls",
+    "instructor_name": "Sri Sarma",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Susan Kim",
+        "Serena Banghar",
+        "Serena",
+        "Serena Banghar",
+        "Nina Nair",
+        "Serena",
+        "Serena Banghar",
+        "Brian Zhou",
+        "Nina Nair"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 2,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 3,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 5,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Dennis Gong",
+        "Natsuki, David, Ananya",
+        "Dennis Gong",
+        "Dennis Gong",
+        "Dennis Gong",
+        "Dennis Gong, Ananya Swaminathan",
+        "Dennis Gong, Ananya Swaminathan",
+        "Dennis",
+        "Dennis Gong",
+        "All of them",
+        "Natsuki Furukawa",
+        "All! Especially Natsuki, and Dennis",
+        "Dennis Gong",
+        "Dennis Gong",
+        "Dennis Gong"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 12,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 7,
+        "Much heavier": 2
+    }
+}

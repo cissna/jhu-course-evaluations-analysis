@@ -1,0 +1,72 @@
+{
+    "course_name": "Nonlinear Dynamics of Biological Systems",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 7,
+        "Satisfactory": 7,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 3,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Tanisk",
+        "Tanishk",
+        "Tanishk Sinha",
+        "Tanishk Sinha",
+        "Tanishk",
+        "Celia Quintana",
+        "Peggy Li",
+        "Tanishk Sinha",
+        "Tanishk",
+        "Tanishk Singh",
+        "Tanishk Sinha",
+        "Tanishk Sinha",
+        "Tanishk Sinha",
+        "Celia Doyle",
+        "Tanishk",
+        "Celia",
+        "Tanishk Sinha",
+        "Peggy",
+        "Tanishk",
+        "tanishk",
+        "All of them were very helpful!",
+        "Saardhak Bhrugubanda",
+        "Tanishk",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 12,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 7,
+        "Somewhat heavier": 13,
+        "Much heavier": 4
+    }
+}

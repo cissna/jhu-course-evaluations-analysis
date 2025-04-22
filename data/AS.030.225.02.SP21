@@ -1,0 +1,90 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 26,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 22,
+        "Excellent": 30
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 28,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 17,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "Valeria Jimenez",
+        "Burak",
+        "Valeria Jimenez",
+        "Nehali Gupta",
+        "Burak Tufekci",
+        "Manusha",
+        "Valeria Jimenez",
+        "Nehali Gupta",
+        "Eric",
+        "Robert Medina",
+        "Burak",
+        "Robert Medina",
+        "Valeria Jimenez",
+        "Daniel Habib",
+        "Nahali Gupta",
+        "Nehali Gupta",
+        "I forgot...",
+        "Robert Medina",
+        "Daniel Habib",
+        "Burak Tufekci",
+        "Daniel Habib",
+        "Robert Medina",
+        "Daniel",
+        "Burak Tufecki",
+        "Robert Medina",
+        "Nehali Gupta",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Daniel Habib",
+        "Valeria",
+        "Valeria Jimenez",
+        "Nehali Gupta",
+        "Daniel Habib",
+        "Daniel Habib",
+        "Robert Medina",
+        "Valeria",
+        "Nehali Gupta",
+        "Valeria",
+        "Daniel Habib",
+        "Nehali",
+        "Daniel Habib",
+        "DANIEL ROY HABIB",
+        "Burak Tufecki"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 32,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 26,
+        "Somewhat heavier": 24,
+        "Much heavier": 4
+    }
+}

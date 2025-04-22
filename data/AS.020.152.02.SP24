@@ -1,0 +1,82 @@
+{
+    "course_name": "General Biology II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 14,
+        "Good": 44,
+        "Excellent": 64
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 12,
+        "Good": 27,
+        "Excellent": 83
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 15,
+        "Good": 56,
+        "Excellent": 49
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 9,
+        "Good": 15,
+        "Excellent": 22
+    },
+    "ta_names": [
+        "Kevin",
+        "Kevin",
+        "N/A",
+        "N/A",
+        "N/A",
+        "Maggie Clark",
+        "N/A",
+        "N/A",
+        "Angie Park",
+        "n/a",
+        "N/A (I never personally interacted with a specific TA)",
+        "Annie",
+        "Ryan",
+        "n/a",
+        "Malak Adam",
+        "Jennifer Tang",
+        "Kevin Wang",
+        "Emily",
+        "Biology mentors",
+        "n/a",
+        "Unsure of their names as we never met them....",
+        "Kevin Wang",
+        "All of them were helopful",
+        "NA",
+        "Emily",
+        "Idk",
+        "Maggie",
+        "n/a",
+        "N/A",
+        "all",
+        "Maggie Clark",
+        "Annabelle Dilara <3",
+        "N/a",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 21,
+        "Agree somewhat": 52,
+        "Agree strongly": 38
+    },
+    "workload_frequency": {
+        "Much lighter": 4,
+        "Somewhat lighter": 25,
+        "Typical": 73,
+        "Somewhat heavier": 14,
+        "Much heavier": 5
+    }
+}

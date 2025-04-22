@@ -1,0 +1,69 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "wesley",
+        "wesley r",
+        "Wesley Ravich",
+        "Wesley Ravich",
+        "Wesley Ravich",
+        "Wesley R.",
+        "Wesley Ravich",
+        "Niki",
+        "Jun, Niki",
+        "Niki",
+        "Jun Tarushi",
+        "Jun, Niki",
+        "Jun Tarashi",
+        "N/A",
+        "Wesley Ravich",
+        "Jun, Nikki",
+        "Jun Karachi",
+        "Wesley Ravich",
+        "Niki Trivedi",
+        "Wesley Ravich",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 10,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 7,
+        "Somewhat lighter": 10,
+        "Typical": 7,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "course_name": "Biomedical Data Science",
+    "instructor_name": "Brian Caffo",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 23,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 17,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 17,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 10,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Dennis Gong",
+        "Ryan O' Hara",
+        "N/A",
+        "Min Jae Kim",
+        "Various",
+        "Cassandra Parent",
+        "N/A",
+        "Dennis",
+        "N/A",
+        "Dennis Gong",
+        "N/A",
+        "Dennis Gong",
+        "Dennis Gong",
+        "Dennis Gong",
+        "N/A",
+        "N/A",
+        "Cassie",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 15,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 20,
+        "Somewhat heavier": 10,
+        "Much heavier": 2
+    }
+}

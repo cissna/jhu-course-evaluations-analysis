@@ -1,0 +1,72 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Kevin Yarema",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 6,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 6,
+        "Satisfactory": 8,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 16,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Kevin Ngyeun",
+        "Kevin Nyugen",
+        "Kevin Nguyen",
+        "Sayatika Roy",
+        "Kevin Nguyen",
+        "Kevin",
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Kevin",
+        "Susan Kim",
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Kevin Nguyen",
+        "Sun Moon, Kevin Nguyen",
+        "Ojas Chahal",
+        "Kevin Nguyen",
+        "Kevin",
+        "Kevin Nguyen",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 15,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 15,
+        "Somewhat heavier": 9,
+        "Much heavier": 4
+    }
+}

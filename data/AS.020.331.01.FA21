@@ -1,0 +1,64 @@
+{
+    "course_name": "Human Genetics",
+    "instructor_name": "Edward Hedgecock",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 23,
+        "Good": 35,
+        "Excellent": 32
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 9,
+        "Satisfactory": 23,
+        "Good": 29,
+        "Excellent": 32
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 17,
+        "Good": 36,
+        "Excellent": 38
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "N/A",
+        "NA",
+        "Nanda Rajasekaran",
+        "lewis",
+        "N/A",
+        "N/A",
+        "Lewis Bennett, Nanda Rajasekaran",
+        "n/a",
+        "Lewis Bennett, Nanda Rajasekaran",
+        "N/A",
+        "N/A",
+        "Lewis Bennett",
+        "N/A",
+        "Lewis Bennett",
+        "N/A",
+        "Na"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 17,
+        "Agree somewhat": 32,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 6,
+        "Somewhat lighter": 37,
+        "Typical": 47,
+        "Somewhat heavier": 3,
+        "Much heavier": 1
+    }
+}

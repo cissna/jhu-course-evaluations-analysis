@@ -1,0 +1,69 @@
+{
+    "course_name": "Linear Signals and Systems",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 14,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 14,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Ruixing",
+        "Ruixiang Li",
+        "Ruixiang",
+        "Ruixiang Li",
+        "N/A",
+        "Ruixiang",
+        "Aidan Aug",
+        "Ruixiang Li",
+        "Aiden Aug, Ruixiang Li, Matthew Tivnan",
+        "Ruixiang Li",
+        "n/a - did not find a good TA, so didn't attend TA section",
+        "Rachel Li",
+        "Aidan Aug",
+        "Ruixiang Li",
+        "Betul Celiker",
+        "Ruixiang Li",
+        "Aidan Aug",
+        "Aidan Aug",
+        "Ruixiang Li",
+        "Aidan Aug",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 11,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 13,
+        "Much heavier": 1
+    }
+}

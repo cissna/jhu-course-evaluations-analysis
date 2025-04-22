@@ -1,0 +1,74 @@
+{
+    "course_name": "Biochemistry I",
+    "instructor_name": "Doug Barrick",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 18,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 24
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Ted, Iryna",
+        "Ted and Iryna",
+        "Ted Chor",
+        "Ted",
+        "Ted Chor and Iryna Chelepis",
+        "Ted and Irina",
+        "Iryna, Ted",
+        "Iryna Chelepis, Ted Chor",
+        "Both",
+        "Ted Chor. Have not made an official complaint yet because I do not proof, but he leaked multiple people's test scores to his close friend in the course which violates",
+        "Ted Chor, Iryna Chelepis",
+        "Ted Chor",
+        "n/a",
+        "Ted Chor",
+        "Ted Chor, Iryna Chelepis",
+        "Ted Chor",
+        "Ted, Iryna",
+        "n/a",
+        "Ted Chor",
+        "Ted Chor",
+        "Ted Chor",
+        "Ted Chor",
+        "Ted Chor",
+        "Ted Chor & Iryna Chelepis",
+        "Ted",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 9,
+        "Agree somewhat": 17,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 22,
+        "Somewhat heavier": 10,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Leibny Garcia Perera",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Jeremy Welland",
+        "Jeremy",
+        "Jeremy Welland, Kevin",
+        "Jeremy Welland",
+        "Jeremy",
+        "Jeremy",
+        "Jeremy",
+        "Jeremy",
+        "Jeremy",
+        "paola"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 5,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 5,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

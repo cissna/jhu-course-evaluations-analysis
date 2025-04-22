@@ -1,0 +1,55 @@
+{
+    "course_name": "Biomedical Data Science",
+    "instructor_name": "Joseph Greenstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "Ime",
+        "n/a",
+        "Jiwon Woo",
+        "Molly Li",
+        "Molly Li",
+        "Nathan",
+        "Bobby Ni"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 6,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 13,
+        "Somewhat heavier": 1,
+        "Much heavier": 2
+    }
+}

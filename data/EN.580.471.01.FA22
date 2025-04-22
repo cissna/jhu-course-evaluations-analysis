@@ -1,0 +1,54 @@
+{
+    "course_name": "Principles of Design of BME Instrumentation",
+    "instructor_name": "Nitish Thakor",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Paul, Kiara, Noah",
+        "All the class and project TAs were very helpful throughout the semester",
+        "Paul Hage",
+        "Noah, Paul, Arik, Alexis, All TAs",
+        "Paul, Noah, Alexis, Eric -- and literally every single TA",
+        "Paul Hage"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 3,
+        "Much heavier": 2
+    }
+}

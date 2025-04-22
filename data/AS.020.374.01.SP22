@@ -1,0 +1,73 @@
+{
+    "course_name": "Comparative Animal Physiology",
+    "instructor_name": "Anna Coppola",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 11,
+        "Satisfactory": 22,
+        "Good": 21,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 4,
+        "Weak": 12,
+        "Satisfactory": 23,
+        "Good": 16,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 7,
+        "Satisfactory": 16,
+        "Good": 25,
+        "Excellent": 17
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 15,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Lars",
+        "Lars Benett",
+        "Lars Benner",
+        "Lars Benner",
+        "Lars",
+        "Lars",
+        "/",
+        "Lars Brenner",
+        "Lars",
+        "Lars",
+        "Lars",
+        "Lars",
+        "Lars",
+        "The head TA",
+        "I forgot both their names but both of them",
+        "Lars and Jessica",
+        "Lars Brenner",
+        "Don't remember all their names",
+        "Jessica and Lars",
+        "Lars",
+        "Jessica Kirshner, Lars Benner",
+        "Lars",
+        "I don't know who my TA was",
+        "Lars",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 13,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 27,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 18,
+        "Typical": 42,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

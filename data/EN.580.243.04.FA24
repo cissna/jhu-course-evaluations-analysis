@@ -1,0 +1,71 @@
+{
+    "course_name": "Linear Signals and Systems",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 8,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 16,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Ramya Palani",
+        "Ramya",
+        "Sai",
+        "Rama Palani",
+        "Ramya Palani",
+        "Ramya",
+        "Ramya Palani",
+        "Ramya",
+        "Ramya Palani",
+        "Ramya",
+        "Ramya",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya",
+        "Ramya",
+        "Ramya",
+        "Natasha",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya Palani",
+        "Ramya",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 11,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 6,
+        "Typical": 14,
+        "Somewhat heavier": 6,
+        "Much heavier": 1
+    }
+}

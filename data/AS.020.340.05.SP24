@@ -1,0 +1,63 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Emma, Jiaxin",
+        "Emma, Jiaxin",
+        "Emma",
+        "Jiaying and Emma Trossi",
+        "Emma T",
+        "Emma",
+        "Jiaxin Li and Emma Troisi",
+        "Emma, Jiaxin",
+        "Emma and Jiaxin",
+        "Emma Troisi and Jiaxin Li",
+        "Emma Troisi",
+        "Emma Troisi",
+        "Emma and Jiaxin",
+        "Jiaxin Li, Emma Troisi",
+        "Emma Trosi and Ja Xin"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 4,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 9,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "course_name": "Immunoengineering Laboratory",
+    "instructor_name": "Jessica Dunleavey",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Alexandra Gorham, Kenneth Marfo Adusei, Anna Long",
+        "Alex and Kenneth <3",
+        "Alexandra Gorham",
+        "Kenneth",
+        "Alexandra Gorham",
+        "All",
+        "Kenneth Adusei and Alex Gorham. Kenneth in particular was incredibly kind and patient, on two separate occasions staying late at his office hours for up to 45 extra"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 2,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 6,
+        "Much heavier": 4
+    }
+}

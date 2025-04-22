@@ -1,0 +1,62 @@
+{
+    "course_name": "Neuro Data Design II",
+    "instructor_name": "Joshua Vogelstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 1,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Hao, Jayanta",
+        "Haoyin Xu",
+        "Jayanta Dey",
+        "Jayanta and Hao",
+        "Jayanta",
+        "Jayanta Dey",
+        "Jayanta, Hao",
+        "Sambit Panda",
+        "Jayanta Dey",
+        "Sambit Panda",
+        "Sambit Panda",
+        "Sambit Panda",
+        "Sambit",
+        "Hao Xu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 10
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 9,
+        "Much heavier": 1
+    }
+}

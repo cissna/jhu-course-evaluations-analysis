@@ -1,0 +1,64 @@
+{
+    "course_name": "Biochemistry Project lab",
+    "instructor_name": "Eric Johnson",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 10
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Frank Liu",
+        "Frank",
+        "Frank Liu",
+        "Frank Liu",
+        "FRANK LIU",
+        "Frank!",
+        "Frank",
+        "Frank Liu",
+        "Frank",
+        "Frank liu",
+        "Frank Liu",
+        "Frank Liu",
+        "Frank Liu",
+        "Frank Liu",
+        "Frank Liu",
+        "Frank Liu"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 10,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

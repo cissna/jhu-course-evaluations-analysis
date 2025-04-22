@@ -1,0 +1,77 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 12,
+        "Excellent": 17
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 16
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 25
+    },
+    "ta_names": [
+        "Andy Mao and Dennis Nguyen",
+        "Ben Eke, Kent Kotaka",
+        "Ben Eke & Kent Kotaka",
+        "Kent Kotaka, Ben Eke",
+        "Andy & Dennis",
+        "Ben Eke, Kent Kotaka",
+        "Andy and Dennis",
+        "Dennis and Andy",
+        "Andy Mao, Dennis Nguyen",
+        "Kent Kotaka and Ben Eke",
+        "Andy Mao and Dennis Nguyen",
+        "Kent and Ben",
+        "Ben Eke",
+        "Ben & Kent",
+        "Andy Mao Dennis Nguyen",
+        "Kent Kotaka, Ben Eke",
+        "Ben and Kent",
+        "Kent, Ben",
+        "Andy Mao and Dennis Nguyen",
+        "Benjamin Eke",
+        "Kent, Ben",
+        "Dennis, Andy",
+        "Kent Kotaka and Ben Eke",
+        "Dennis Ngyuen and Andy Mao",
+        "Andy",
+        "Andy Mao",
+        "Andy and Dennis",
+        "Andy Mao, Dennis Nguyen",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 11,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 22,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

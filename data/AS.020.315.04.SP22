@@ -1,0 +1,64 @@
+{
+    "course_name": "Biochemistry Project lab",
+    "instructor_name": "Eric Johnson",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika",
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika",
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika",
+        "radhika",
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika Jangi",
+        "Radhika Jangi"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 1,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 5,
+        "Much heavier": 0
+    }
+}

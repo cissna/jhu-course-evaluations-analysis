@@ -1,0 +1,88 @@
+{
+    "course_name": "General Biology Lab II",
+    "instructor_name": "Rebecca Pearlman",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 24
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 16,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 35
+    },
+    "ta_names": [
+        "Ryan Walk",
+        "Ryan Walk",
+        "Annie Haung",
+        "Ryan Walk",
+        "Annie Huang",
+        "Annie H.",
+        "Annie Huang",
+        "Ryan Walk",
+        "Ryan Walk",
+        "Annie Huang",
+        "Ryan Walk",
+        "Annie",
+        "Annie Huang",
+        "Ryan",
+        "ryan walk",
+        "Ryan",
+        "Ryan Walk",
+        "Ryan Walk",
+        "Ryan",
+        "Ryan Walk",
+        "Ryan",
+        "Annie H",
+        "Annie Huang",
+        "Annie Huang",
+        "Annie Huang",
+        "Ryan Walk",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Ryan Walk",
+        "Annie",
+        "Annie H",
+        "Annie Huang",
+        "Ryan Walk",
+        "Annie",
+        "Annie",
+        "Annie Huang",
+        "- Zach",
+        "Ryan Walk",
+        "Ryan Walk",
+        "Annie Huang",
+        "ryan walk"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 28
+    },
+    "workload_frequency": {
+        "Much lighter": 6,
+        "Somewhat lighter": 21,
+        "Typical": 14,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

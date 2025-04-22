@@ -1,0 +1,59 @@
+{
+    "course_name": "Linear Signals and Systems",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 7,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Matt Tivnan",
+        "all of them are 10/10",
+        "Matt Tivnan",
+        "Dr. Kutten",
+        "N/A",
+        "Matt Tivnan",
+        "Matt Tivnan",
+        "Matt Tivnan",
+        "Matt Tivnan",
+        "Betul Celliker",
+        "Matthew Tivnan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 4,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 5,
+        "Much heavier": 2
+    }
+}

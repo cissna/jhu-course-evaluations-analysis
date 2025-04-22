@@ -1,0 +1,76 @@
+{
+    "course_name": "Introduction to Computational Medicine: The Physiome",
+    "instructor_name": "Joseph Greenstein",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 19
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 18,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 12,
+        "Excellent": 22
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 14,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Hrishikesh Kambli, JiWon Woo",
+        "Hrishikesh Kambli",
+        "JiWon Woo",
+        "JiWon Woo",
+        "Hrishikesh Kambli, JiWon Woo",
+        "Hrishikesh",
+        "JiWon Woo",
+        "JiWon Woo and Hrishikesh Kambli",
+        "JiWon Woo",
+        "Both",
+        "JiWon Woo, Hrishikesh Kambli",
+        "Hrishikesh Kambli",
+        "all",
+        "JiWon Woo",
+        "Hrishikesh Kambli",
+        "JiWon Woo, Hrishikesh Kambli",
+        "JiWon Wo",
+        "JiWon Woo",
+        "JiWon Woo",
+        "JiWon Woo",
+        "JiWon Woo",
+        "Jiwon",
+        "Jiwon Woo",
+        "Jiwon Woo",
+        "Jiwon",
+        "JiWon Woo",
+        "JiWon Woo",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 14,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 23,
+        "Somewhat heavier": 8,
+        "Much heavier": 5
+    }
+}

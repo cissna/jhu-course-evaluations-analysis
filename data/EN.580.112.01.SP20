@@ -1,0 +1,91 @@
+{
+    "course_name": "BME Design Group",
+    "instructor_name": "Elizabeth Logsdon",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 32
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 42
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 27
+    },
+    "ta_names": [
+        "dont know name of ta",
+        "David Maher",
+        "N/A",
+        "Disha Mankodi",
+        "Karina",
+        "Carina Frank",
+        "Disha Mankodi",
+        "Disha",
+        "Monet Slinowsky",
+        "Alina Andrews",
+        "Grace Weyand",
+        "Disha",
+        "Bailey Surtees",
+        "Grace Weyand",
+        "Monet",
+        "David",
+        "Grace Weyand",
+        "Bailey Surtees",
+        "Karina Frank",
+        "Alina Andrews",
+        "Monet",
+        "Grace Weyand",
+        "Zachary Buono",
+        "Collin Shale",
+        "Bailey Surtees",
+        "Monet Slinowsky",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "..",
+        "Shababa",
+        "David Maher",
+        "Niranjanaa Jeeva",
+        "Karina Frank",
+        "Niranjanaa Jeeva",
+        "Shayan Roychoudhury",
+        "Disha Mankodi",
+        "Zack Buono",
+        "Karina Frank",
+        "Zachary Buono",
+        "Grace Weyand",
+        "Disha Mankodi",
+        "Karina Frank",
+        "David Maher",
+        "Collin Shale"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 14,
+        "Agree strongly": 30
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 24,
+        "Much heavier": 15
+    }
+}

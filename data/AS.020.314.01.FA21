@@ -1,0 +1,63 @@
+{
+    "course_name": "The Biology of Disease",
+    "instructor_name": "Kathryn Tifft Oshinnaiye",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 12,
+        "Good": 33,
+        "Excellent": 63
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 12,
+        "Good": 24,
+        "Excellent": 57
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 13,
+        "Good": 39,
+        "Excellent": 49
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "N/A",
+        "N/A",
+        "Tim Zambello",
+        "none",
+        "NA",
+        "N/A",
+        "N/A",
+        "n/a",
+        "n.a",
+        "N/A",
+        "N/A",
+        "N/A",
+        "asd",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 10,
+        "Neither agree nor disagree": 16,
+        "Agree somewhat": 32,
+        "Agree strongly": 37
+    },
+    "workload_frequency": {
+        "Much lighter": 23,
+        "Somewhat lighter": 50,
+        "Typical": 29,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

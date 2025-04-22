@@ -1,0 +1,60 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Siamak Ardekani",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Ravina Sashti",
+        "Ravina Sashti",
+        "Matthew Ost",
+        "Ravina",
+        "Ravina Sashti",
+        "Ravina Sashti",
+        "Matthew Ost",
+        "Ravina",
+        "Matthew Ost",
+        "Ravina Shahsti",
+        "I worked most with Rohan and Matthew",
+        "Ravina Sashti"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 9,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 7,
+        "Much heavier": 1
+    }
+}

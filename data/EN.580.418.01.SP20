@@ -1,0 +1,61 @@
+{
+    "course_name": "Principles of Pulmonary Physiology",
+    "instructor_name": "Dave Shade",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Gabriel & Diego",
+        "Diego and Gabriel",
+        "Diego Arevalo and Gabriel Fernandes",
+        "Gabriel Fernandez",
+        "Gabriel/Diego",
+        "Diego Arevalo",
+        "Diego",
+        "Gabriel Fernandes, Diego Arevalo",
+        "Diego & Gabriel",
+        "Diego Arevalo, Gabriel Fernandez",
+        "Diego",
+        "Diego Arevalo and Gabriel Fernandes",
+        "Diego and Gabriel"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 8,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 12,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

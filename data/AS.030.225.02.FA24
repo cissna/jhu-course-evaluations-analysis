@@ -1,0 +1,93 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 29
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 9,
+        "Excellent": 32
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 25,
+        "Excellent": 19
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 10,
+        "Excellent": 35
+    },
+    "ta_names": [
+        "Jasmine Wu",
+        "Adrian Long",
+        "Rebecca Zhang",
+        "Danae",
+        "Jasmine",
+        "Adrian, Amy",
+        "Amy Chen",
+        "Rebecca Zhang",
+        "Rebecca Zhang",
+        "Rebecca Zhang",
+        "Rebecca Zhang",
+        "Adrian Long",
+        "Rebecca Zhang",
+        "Jasmine",
+        "Danae",
+        "Rebecca",
+        "Jasmine Wu",
+        "Adrian Long",
+        "Danea",
+        "Jasmine",
+        "Danae, Amy",
+        "Jasmine Wu",
+        "Jasmine",
+        "Danae",
+        "Rebecca, Amy",
+        "Jasmine",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Danae Villalva, Amy Chen",
+        "danae",
+        "Adrian Long",
+        "Rebecca Zhang",
+        "Rebecca",
+        "Aidan Long",
+        "Danae Villalva",
+        "Jasmine",
+        "Jasmine Wu",
+        "Danae",
+        "Danae",
+        "Danae, Amy",
+        "Jasmine Wu",
+        "Jasmine Wu, Yuxuan Su",
+        "Adrian Long",
+        "Adrian",
+        "adrian long",
+        "Jasmine"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 19,
+        "Agree strongly": 26
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 5,
+        "Typical": 21,
+        "Somewhat heavier": 17,
+        "Much heavier": 6
+    }
+}

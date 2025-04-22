@@ -1,0 +1,63 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 11,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Kyle Kampta",
+        "Natsuki Furukawa",
+        "Kyle Kampta",
+        "Kyle Kampta",
+        "Kyle",
+        "Stanley Zhu",
+        "Kyle",
+        "kyle",
+        "Kyle Kampta",
+        "Kyle",
+        "Kyle Kampta",
+        "Kyle",
+        "Natsuka and Brooke were amazing TAs, but Kyle was not super helpful. There were times when he presented the wrong presentation or gave wrong information.",
+        "Natsuki Furukawa",
+        "I don't even remember like all of them"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 9,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 3
+    }
+}

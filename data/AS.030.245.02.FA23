@@ -1,0 +1,60 @@
+{
+    "course_name": "Quantitative Analytical Laboratory",
+    "instructor_name": "Sunita Thyagarajan",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Winson Lam, the undisputed goat <3",
+        "Winson Lam",
+        "Winson Lam",
+        "Winson Lam",
+        "Winson Lam",
+        "Winson Lam",
+        "Winson Lam",
+        "Winson Lam",
+        "Winson",
+        "Winson",
+        "Juan Garcia",
+        "Winson Lam"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 2,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 8,
+        "Much heavier": 2
+    }
+}

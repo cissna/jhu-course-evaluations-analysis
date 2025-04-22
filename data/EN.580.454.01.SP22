@@ -1,0 +1,59 @@
+{
+    "course_name": "Methods in Nucleic Acid Sequencing Lab",
+    "instructor_name": "Winston Timp",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Natalia Rincon",
+        "Theron",
+        "Natalia Rincon and Theron Palmer",
+        "Theron",
+        "Theron Palmer, Natalia Rincon, Quinn Hauck",
+        "Theron, Natalia",
+        "Theron Palmer",
+        "Natalia, Theron, Quinn",
+        "Natalia Rincon",
+        "Therone, Natalia, Quinn",
+        "Amanda Rucci"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 10,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 9,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

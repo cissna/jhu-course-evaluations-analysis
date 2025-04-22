@@ -1,0 +1,76 @@
+{
+    "course_name": "Neuro Data Design I",
+    "instructor_name": "Joshua Vogelstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 24
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "Sambit Panda",
+        "Vivek Gopalakrishnan",
+        "Vivek",
+        "Jayanta",
+        "Tommy Athey",
+        "Jayanta Dey",
+        "all",
+        "Benjamin Pedigo",
+        "Thomas, Bijan",
+        "Ben Pedigo",
+        "Jayanta Dey",
+        "Jayanta",
+        "Jayanta Dey",
+        "Benjamin Pedigo",
+        "Thomas Athey, Bijan Varjavand",
+        "Jayanta Dey, Sambit Panda",
+        "Jayanta Dey, Will LeVine",
+        "Jayanta Dey",
+        "Ben Pedigo",
+        "Jayanta",
+        "Jayanta",
+        "Benjamin Pedigo",
+        "Tommy Athey",
+        "Jayanta Dey",
+        "Pedigo",
+        "Vivek Gopalakrishnan",
+        "Ben Pedigo",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 3,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 15,
+        "Much heavier": 8
+    }
+}

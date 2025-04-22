@@ -1,0 +1,57 @@
+{
+    "course_name": "Gateway Computing: JAVA",
+    "instructor_name": "Sara More",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 4,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Caitlyn",
+        "Caitlyn B",
+        "Caitlyn Bernhard",
+        "Kaitlyn",
+        "Caitlyn Bernhard",
+        "Caitlyn Bernhard",
+        "Caitlyn",
+        "Katelyn",
+        "Caitlin"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 7,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 9,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

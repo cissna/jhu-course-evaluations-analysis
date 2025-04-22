@@ -1,0 +1,58 @@
+{
+    "course_name": "Biological Models and Simulations",
+    "instructor_name": "Aleksander Popel",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Aditi Jithendra",
+        "Rebecca Yu",
+        "William Xu",
+        "Hanwen Wang",
+        "Dennis Gong",
+        "Aditi Jithendra",
+        "Jason Fan",
+        "Aditi Jithendra",
+        "Dennis Gong",
+        "Aditi Jithendra"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

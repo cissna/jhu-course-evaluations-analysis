@@ -1,0 +1,90 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 11,
+        "Excellent": 32
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 7,
+        "Excellent": 37
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 13,
+        "Excellent": 31
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 37
+    },
+    "ta_names": [
+        "Jingyan Zhang",
+        "Anika Khandekar",
+        "Jingyan",
+        "Jingyan Zhang",
+        "Charlie and Vikrant",
+        "Jingyan",
+        "Anika",
+        "Amy",
+        "Zinyang, Xavier",
+        "Anika Khandekar",
+        "Xavier Cheng",
+        "Xavier/Charles/Vikrant",
+        "Xavier",
+        "Abby and Amy",
+        "Amy and Abby",
+        "Vikrant and Charles",
+        "Jingyan Zhang",
+        "Vikrant & Charles",
+        "Xavier Cheng",
+        "Vikrant",
+        "Jingyan",
+        "Jing Zhang",
+        "Anika Khandekar",
+        "Jingyan",
+        "Xavier, Amy, Abby",
+        "Jing",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Anika",
+        "Jingyan Zhang",
+        "Vikrant and Charles",
+        "Jingyagn",
+        "Anika",
+        "Xavier Cheng",
+        "Xavier, Amy, Abby",
+        "Charles and Vikrant",
+        "Vikrant, Charlie",
+        "Jingyan",
+        "Anika Khandekar",
+        "Anika",
+        "Anika",
+        "Xavier",
+        "Anika Khandekar"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 19,
+        "Agree strongly": 27
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 24,
+        "Somewhat heavier": 19,
+        "Much heavier": 8
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 14,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Natsuki",
+        "Jody",
+        "Jody Mou and Marissa McDonald",
+        "Jody Mou",
+        "Jody Mou",
+        "Jody Mou",
+        "Jody Mou",
+        "All of them are excellent",
+        "Judy Mou",
+        "Jody Mou",
+        "Jody Mou, Marissa Mcdonald",
+        "Marissa McDonald and Jody Mou",
+        "Jodi, marissa",
+        "Jody Mou",
+        "Jody",
+        "Jodi",
+        "Jody Mou",
+        "Judy",
+        "N/A",
+        "Marissa and Judy",
+        "Jody Mou & Marissa McDonald",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 14,
+        "Agree strongly": 1
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 9,
+        "Much heavier": 3
+    }
+}

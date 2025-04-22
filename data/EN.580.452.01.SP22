@@ -1,0 +1,58 @@
+{
+    "course_name": "Cell and Tissue Engineering Lab",
+    "instructor_name": "Jordan Green",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Brooke",
+        "Liz Bertelson",
+        "Liz Bertelson, Brooke Hardesty",
+        "Brooke Hardesty, Liz Bertelson",
+        "Brooke",
+        "Liz, Brooke",
+        "Brooke Hardesty, Liz Bertelson",
+        "Brooke and Liz",
+        "Lizz",
+        "Liz Bertelson"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 4,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 3,
+        "Somewhat heavier": 6,
+        "Much heavier": 4
+    }
+}

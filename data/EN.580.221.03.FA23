@@ -1,0 +1,76 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Kevin Yarema",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 10,
+        "Good": 18,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 10,
+        "Good": 15,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 18,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 11,
+        "Excellent": 17
+    },
+    "ta_names": [
+        "Nga Man Looi",
+        "Travis Brady and Ojas Chahal",
+        "Travis and Sean",
+        "Ojas Chahal",
+        "Travis",
+        "Kevin Nguyen",
+        "Ojas and Amanda",
+        "Susan Kim Travis Brady",
+        "Travis Brady",
+        "Sean, Travis",
+        "Travis",
+        "Sayantika",
+        "Amanda",
+        "Travis Brady",
+        "Amanda",
+        "Sayantika and Amanda were very good TAs.",
+        "Amanda Looi",
+        "N/A",
+        "Ojas",
+        "Sean and Travis",
+        "Ojas",
+        "Travis",
+        "Susan",
+        "section 5 dont know TA's name",
+        "Travis, Sun, Susan",
+        "Travis Brady",
+        "Amanda",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 18,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 13,
+        "Somewhat heavier": 16,
+        "Much heavier": 4
+    }
+}

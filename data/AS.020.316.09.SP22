@@ -1,0 +1,67 @@
+{
+    "course_name": "Cell Biology Lab",
+    "instructor_name": "Robert Horner",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 6,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 9,
+        "Excellent": 2
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xianging Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Xiangning Chen",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 10,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 15,
+        "Somewhat heavier": 1,
+        "Much heavier": 1
+    }
+}

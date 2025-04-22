@@ -1,0 +1,59 @@
+{
+    "course_name": "Physical Chemistry Instrumentation Laboratory I",
+    "instructor_name": "D Fairbrother",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 3,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "I have worked with all TAs associated with the course.",
+        "Kathryn Kingsbury",
+        "Kathryn Kingsbury",
+        "Ona",
+        "Kathryn Kingsbury",
+        "Everyone!",
+        "All of them.",
+        "Kathryn Kingsbury, Patrick Eckhert, Luke O'Connor, Ona Ambrozaite, Savannah Phillips",
+        "Kathryn Kingsbury",
+        "Kathryn Kingsbury",
+        "Ona"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 6,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 4,
+        "Much heavier": 9
+    }
+}

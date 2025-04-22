@@ -1,0 +1,93 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 12,
+        "Excellent": 36
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 14,
+        "Excellent": 33
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 19,
+        "Excellent": 26
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 6,
+        "Excellent": 41
+    },
+    "ta_names": [
+        "Kristin Meek",
+        "Uche",
+        "Qi and Vincent",
+        "I honestly forgot their names, but it was room 188",
+        "Kristin Meek",
+        "Jonathan Mo & Collin English",
+        "Kristin",
+        "Colin English",
+        "Collin English",
+        "Jonathan Mo",
+        "Johnathan",
+        "Jonathan Mo",
+        "Collin and Kristen",
+        "Qi and Vincent",
+        "Jonathan Mo",
+        "Vincent",
+        "Collin English",
+        "Jomo (Jonathan) and Collin!",
+        "JoMo",
+        "Kristin",
+        "Monday-186",
+        "Colin",
+        "Qi, Vincent",
+        "Uche",
+        "Kristen Meek",
+        "Uche",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Collins English",
+        "Jonathan",
+        "Vincent and Chi",
+        "Uche and Collin",
+        "Kristin",
+        "Collin English",
+        "Kristin",
+        "Collin English",
+        "Vincent, Xi, and Collin",
+        "Uche",
+        "Kristen",
+        "Kristin",
+        "jonathan mo, collin english",
+        "Jonathan Mo",
+        "Jonathan Mo",
+        "Collin English",
+        "Xi and Vincent",
+        "Johnathon"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 25,
+        "Agree strongly": 18
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 29,
+        "Somewhat heavier": 16,
+        "Much heavier": 0
+    }
+}

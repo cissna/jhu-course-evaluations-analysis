@@ -1,0 +1,58 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "John Edison",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "ta_names": [
+        "Hasan Muhammad",
+        "Mauricio",
+        "N/A",
+        "Loic Sangwa",
+        "Loic Sangwa",
+        "Maurcio Cervantes",
+        "Ntumba Loic Sangwa",
+        "Loic Sangwa",
+        "n/a",
+        "Mauricio Cervantes"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 8,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 6,
+        "Somewhat heavier": 7,
+        "Much heavier": 0
+    }
+}

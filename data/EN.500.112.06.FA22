@@ -1,0 +1,58 @@
+{
+    "course_name": "Gateway Computing: JAVA",
+    "instructor_name": "Joanne Selinski",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 9
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Julia",
+        "Julia",
+        "Julia Bian",
+        "Julia",
+        "Julia",
+        "Julia, Eugene, Shelby, Alex",
+        "Julia",
+        "Julia",
+        "All TAs",
+        "Julia Bian"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 6,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "course_name": "Comparative Physiology",
+    "instructor_name": "Anna Coppola",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 6,
+        "Satisfactory": 14,
+        "Good": 29,
+        "Excellent": 22
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 11,
+        "Satisfactory": 10,
+        "Good": 27,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 14,
+        "Good": 28,
+        "Excellent": 27
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "n/a",
+        "NA",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 17,
+        "Agree somewhat": 25,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 13,
+        "Typical": 40,
+        "Somewhat heavier": 14,
+        "Much heavier": 2
+    }
+}

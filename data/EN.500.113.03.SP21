@@ -1,0 +1,64 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_names": [
+        "Rohan Vijayan",
+        "Rohan Vijayan",
+        "All of them",
+        "Rohan Vijayan",
+        "Rohan Vijayan",
+        "All",
+        "Rohan Vijayan",
+        "Matthew Ost",
+        "N A",
+        "Rohan Vijayan",
+        "Rohan Vijayan",
+        "n/a (office hours primarily)",
+        "Rohan Vijayan",
+        "All",
+        "Rohan",
+        "Rohan Vijayan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 11,
+        "Much heavier": 4
+    }
+}

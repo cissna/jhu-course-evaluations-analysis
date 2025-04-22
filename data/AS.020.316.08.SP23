@@ -1,0 +1,67 @@
+{
+    "course_name": "Cell Biology Lab",
+    "instructor_name": "Robert Horner",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 8,
+        "Good": 5,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 3
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Maryam",
+        "Maryam Yamadi",
+        "Maryam",
+        "Maryam",
+        "Maryam",
+        "Maryam",
+        "Maryam Yamadi",
+        "Maryam Yamadi",
+        "Maryam",
+        "Maryam Yamadi",
+        "Maryam Yamadi",
+        "Maryam Yamadi",
+        "Maryam Yamadi",
+        "Maryam",
+        "Maryam",
+        "Maryam Yamadi",
+        "Maryam Yamadi",
+        "Maryam Yamadi",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 7,
+        "Typical": 10,
+        "Somewhat heavier": 0,
+        "Much heavier": 1
+    }
+}

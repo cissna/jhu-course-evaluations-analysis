@@ -1,0 +1,63 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Nanika and Vaishnavi",
+        "Nainika Pansair and Vaishnavi Karanam",
+        "Vaishnavi Karanam, Nainika Pansari",
+        "Nanika",
+        "Maddie/Maxine",
+        "Vaishnavi Karanam and Nainika Pansari",
+        "Nainika, Vashnavi",
+        "Nainika and Vaishnaivi",
+        "Vaishnavi",
+        "vishnavi",
+        "Vaishnavi Karanam, Nainika Pansari",
+        "Nainika and Vaishnavi",
+        "Nainika Pansari and Vaishnavi Karanam",
+        "Nainika & Vaishnavi",
+        "Nainika"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 17,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

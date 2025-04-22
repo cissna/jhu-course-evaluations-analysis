@@ -1,0 +1,67 @@
+{
+    "course_name": "Systems Biology of the Cell",
+    "instructor_name": "Joel Bader",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 4,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Michael Lan",
+        "Disha Mishra",
+        "Jason Fan",
+        "Disha Mishru",
+        "Disha",
+        "Disha Mishra",
+        "Disha Mishru",
+        "Disha Mishru",
+        "Disha",
+        "Brooke",
+        "Dishra",
+        "N/A",
+        "Disha Mishru",
+        "N/A",
+        "Michael Lan",
+        "Disha Mishra",
+        "Disha Mishru",
+        "Disha",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 8,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 16,
+        "Somewhat heavier": 3,
+        "Much heavier": 3
+    }
+}

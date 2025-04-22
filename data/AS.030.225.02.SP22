@@ -1,0 +1,90 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 5,
+        "Satisfactory": 3,
+        "Good": 23,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 19,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 26,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 31
+    },
+    "ta_names": [
+        "Raj Bhatt",
+        "Raj Bhatt",
+        "Sachiv Chakravati",
+        "Sachiv",
+        "Nehali Gupta",
+        "Ogechi Nwankwoala",
+        "Sachiv Chakravati",
+        "Nehali Gupta",
+        "Nehali Gupta",
+        "Ogechi Nwankwoala",
+        "Nehali Gupta",
+        "Nehali Gupta",
+        "Sachiv",
+        "Raj Bhatt",
+        "Raj Bhatt",
+        "Raj Bhatt",
+        "Sachiv Chakravarti",
+        "Nehali Gupta",
+        "Ogechi Nwankwoala",
+        "Sachiv Chakravarti",
+        "Nehali Gupta",
+        "Ogechi Nwankwoala",
+        "ogechi nwankwoala",
+        "Nehali Gupta",
+        "Raj Bhatt",
+        "Ogechi Nwankwoala",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "raj bhatt",
+        "Sachiv Chakravarti",
+        "Nehali Gupta",
+        "Ogechi Nwankwoala",
+        "Nehali Gupta",
+        "Robert Medina",
+        "Ogechi Nwankwoala",
+        "Ogechi Nwankwoala",
+        "Nehali Gupta",
+        "Sanchiv Chakravati",
+        "Sachiv",
+        "Raj",
+        "Nehali Gupta",
+        "Robert Medina",
+        "Ogechi Nwankwoala"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 21,
+        "Agree strongly": 16
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 18,
+        "Somewhat heavier": 18,
+        "Much heavier": 7
+    }
+}

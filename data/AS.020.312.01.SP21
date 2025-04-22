@@ -1,0 +1,60 @@
+{
+    "course_name": "Introduction to the Human Brain",
+    "instructor_name": "Edward Hedgecock",
+    "overall_quality_frequency": {
+        "Poor": 7,
+        "Weak": 8,
+        "Satisfactory": 31,
+        "Good": 32,
+        "Excellent": 40
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 8,
+        "Weak": 12,
+        "Satisfactory": 21,
+        "Good": 42,
+        "Excellent": 31
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 3,
+        "Weak": 8,
+        "Satisfactory": 28,
+        "Good": 47,
+        "Excellent": 28
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "NA",
+        "N/A",
+        "N/A",
+        "n/a",
+        "N/A",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 9,
+        "Neither agree nor disagree": 31,
+        "Agree somewhat": 31,
+        "Agree strongly": 20
+    },
+    "workload_frequency": {
+        "Much lighter": 8,
+        "Somewhat lighter": 49,
+        "Typical": 48,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

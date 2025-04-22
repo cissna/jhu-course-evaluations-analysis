@@ -1,0 +1,52 @@
+{
+    "course_name": "Biomedical Engineering and Design",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 1,
+        "Excellent": 0
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 1
+    },
+    "ta_names": [
+        "Ashley Koenig",
+        "Autumn",
+        "Kaitlyn Storm",
+        "Autumn Williams"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 0,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 0,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "course_name": "Systems Pharmacology and Personalized Medicine",
+    "instructor_name": "Feilim Mac Gabhann",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 2,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Maddie",
+        "Maddie",
+        "Madeleine",
+        "Maddie",
+        "Madeleine",
+        "Madeleine Gastonguay",
+        "Maddie",
+        "Madeleine Gastonguay",
+        "Maddie",
+        "Maddie",
+        "Maddie"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 2,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 6,
+        "Much heavier": 6
+    }
+}

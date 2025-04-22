@@ -1,0 +1,63 @@
+{
+    "course_name": "Biochemistry Project lab",
+    "instructor_name": "Eric Johnson",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 2,
+        "Excellent": 14
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 1,
+        "Excellent": 15
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 1,
+        "Excellent": 14
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Pat",
+        "Pat Visanpattanasin",
+        "Pat",
+        "Pat",
+        "Pat",
+        "Pat V.",
+        "Pat",
+        "Pat",
+        "Pat Visanpattanasin",
+        "Pat Visanpattanasin",
+        "Pat, MY BEST TA EVER!!! Very approachable and intelligent.",
+        "Pat",
+        "Pat",
+        "Pat",
+        "Pat Visanpattanasin"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 1,
+        "Agree strongly": 15
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 5,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

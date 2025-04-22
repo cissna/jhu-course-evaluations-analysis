@@ -1,0 +1,67 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 12,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 5,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Julia Ahn",
+        "Julia",
+        "Julia An",
+        "Julia An",
+        "Julia",
+        "Julia An",
+        "Julia An",
+        "Julia An",
+        "Julia An, Siqi Ma",
+        "Julia",
+        "n/a",
+        "Julia",
+        "Julia An",
+        "Julia An and Siqui Ma",
+        "Julia Ann and Siqi",
+        "Julia An",
+        "n/a",
+        "Siqi Ma and Julia An",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 7,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 14,
+        "Somewhat heavier": 2,
+        "Much heavier": 0
+    }
+}

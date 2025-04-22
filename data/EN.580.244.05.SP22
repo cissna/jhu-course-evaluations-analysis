@@ -1,0 +1,64 @@
+{
+    "course_name": "Nonlinear Dynamics of Biological Systems",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 6,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 6,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 6,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 5
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 7,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Celia Quintana",
+        "Celia Quintana",
+        "Celia Quintana",
+        "Celia Quintana",
+        "Adam Kenet",
+        "Celia Quintana",
+        "Celia Quintana",
+        "Adam Kenet",
+        "Adam Kenet",
+        "Celia Quintana",
+        "Celia Quintana",
+        "Celia",
+        "Celia Quintana",
+        "Celia Quintana",
+        "Celia Quintana",
+        "n/a"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 10,
+        "Somewhat heavier": 6,
+        "Much heavier": 3
+    }
+}

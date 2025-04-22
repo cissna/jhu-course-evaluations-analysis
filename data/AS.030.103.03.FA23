@@ -1,0 +1,60 @@
+{
+    "course_name": "Applied Chemical Equilibrium and Reactivity w/lab",
+    "instructor_name": "Art Bragg",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 3
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 2,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "N/A",
+        "none",
+        "Vivian",
+        "Vivian Dong",
+        "Vivian",
+        "Vivian",
+        "Vivian Dong",
+        "Vivian Dong",
+        "Vivian Dong",
+        "Vivian",
+        "Vivian",
+        "Vivian Dong"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 4,
+        "Somewhat heavier": 6,
+        "Much heavier": 6
+    }
+}

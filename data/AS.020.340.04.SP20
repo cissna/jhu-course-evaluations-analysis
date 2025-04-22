@@ -1,0 +1,64 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 8,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Wesley and Steph",
+        "Wesley Yon",
+        "Wesley Yon, Stephanie Yan",
+        "Wesley Yon, Stephanie Yan",
+        "Wes & Steph",
+        "Wesley Yon, Stephanie Yan",
+        "steph, Wesley",
+        "Steph and Wes",
+        "Wesley Yon/Stephanie Yan",
+        "stephanie and wesley",
+        "Stephanie Yan, Wesley Yon",
+        "Stephanie and Wesley",
+        "Wesley Yon and Steph Yan",
+        "Stephanie and Wesley",
+        "Wesley and Stephanie",
+        "Wesley Yon and Stephanie Yan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 9,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 8,
+        "Somewhat heavier": 11,
+        "Much heavier": 0
+    }
+}

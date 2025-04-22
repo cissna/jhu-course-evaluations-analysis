@@ -1,0 +1,78 @@
+{
+    "course_name": "Statistical Physics",
+    "instructor_name": "Jude Phillip",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 11,
+        "Excellent": 9
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 10
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 26
+    },
+    "ta_names": [
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina",
+        "Nina Nair",
+        "Nina",
+        "Nina Nair",
+        "Nina",
+        "Kathy Liu",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 13,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 15,
+        "Somewhat heavier": 12,
+        "Much heavier": 3
+    }
+}

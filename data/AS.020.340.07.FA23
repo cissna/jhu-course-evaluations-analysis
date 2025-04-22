@@ -1,0 +1,67 @@
+{
+    "course_name": "Developmental Genetics Lab",
+    "instructor_name": "Carolyn Norris",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 7
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Jessica Shaffer",
+        "Jessica Shaffer, Aiden Dunphy",
+        "Jess Shaffer and Aidan Dunphy",
+        "Both Aiden and Jessica",
+        "Jess Shaffer and Aidan Dunphy",
+        "Jessica Shaffer and Aidan Dunphy",
+        "Jessica and Aiden.",
+        "Jessica Shaffer",
+        "Jessica & Aidan",
+        "Jessica Shaffer",
+        "Jess and Aidan",
+        "Jessica and Aidan",
+        "Jess and Aidan",
+        "Aiden and Victoria",
+        "Jessica S. and Aiden D.",
+        "jess and aiden",
+        "Jess and Aidan",
+        "Aidan Dunphy, Jessica Shaffer",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 12,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 18,
+        "Somewhat heavier": 1,
+        "Much heavier": 0
+    }
+}

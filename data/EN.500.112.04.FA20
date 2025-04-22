@@ -1,0 +1,71 @@
+{
+    "course_name": "Gateway Computing: JAVA",
+    "instructor_name": "Joanne Selinski",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 16
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 7,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 11,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 8,
+        "Excellent": 14
+    },
+    "ta_names": [
+        "Jacob Lizarraga",
+        "Jacob Lizarraga",
+        "Jacob Lizarraga",
+        "Jacob Laraz",
+        "Jacob",
+        "Jacob Lizarraga",
+        "Jacob Lizaraga",
+        "Jacob Lizzaraga",
+        "Jacob Lizarraga",
+        "Jacob",
+        "all of them / jacob",
+        "Jacob Lizarraga",
+        "Jacob",
+        "Jacob L",
+        "Shelby Coe",
+        "Randy Kuang",
+        "Jacob",
+        "Jacob Lizaraga",
+        "All of them",
+        "Jacob Lizarraga",
+        "Jacob, Shelby, Ayan (couldn't remember any other specific name, but all of the TAs were very helpful)",
+        "I don't know if they were TA's, but all the class assistants were great.",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 2,
+        "Agree somewhat": 9,
+        "Agree strongly": 11
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 11,
+        "Somewhat heavier": 8,
+        "Much heavier": 1
+    }
+}

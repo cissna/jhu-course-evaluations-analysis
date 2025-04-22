@@ -1,0 +1,71 @@
+{
+    "course_name": "AIDS",
+    "instructor_name": "Trina Schroer",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 21,
+        "Excellent": 31
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 15,
+        "Excellent": 35
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 17,
+        "Excellent": 31
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 13,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Elliot Mattson, Mindy Clark",
+        "Elliott Mattson, Mindy Clark",
+        "Elliot Mattson and Mindy Clark",
+        "Mindy Clark",
+        "N/A",
+        "Mindy",
+        "Mindy Clark",
+        "Elliot and Mindy",
+        "Mandy",
+        "Mindy",
+        "Both of the TAs were good (Mindy and Elliot, I believe)",
+        "IDK",
+        "N/A",
+        "N/A",
+        "Mindy",
+        "Elliot Mattson and Mindy Clark",
+        "Elliot, Mindy",
+        "Mindy and Elliot",
+        "Mindy and Ben (?)",
+        "Elliot Mattson, Mindy Clark",
+        "I have no idea who the TA is",
+        "Mindy Clark",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 16,
+        "Agree somewhat": 19,
+        "Agree strongly": 9
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 21,
+        "Typical": 30,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

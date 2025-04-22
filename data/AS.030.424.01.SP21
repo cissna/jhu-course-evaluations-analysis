@@ -1,0 +1,61 @@
+{
+    "course_name": "Molecular Synthetic Biology",
+    "instructor_name": "Stephen Fried",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 6,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 5,
+        "Good": 4,
+        "Excellent": 6
+    },
+    "ta_names": [
+        "Qi Xie & Zhenhong Chen",
+        "Xie",
+        "Zhenghong and Qi",
+        "Zhenhong Chen, Qi Xie",
+        "Qi and Zhenhong",
+        "Qi, Zhenhong",
+        "Qi Xie",
+        "Qi, Zhenhong",
+        "Qi Xie",
+        "Qi, Zhenhong",
+        "Qi Xie",
+        "Qi Xie and Zhenhong Chen",
+        "Qi Xie, Zhenhong Chen"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 4,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 2,
+        "Somewhat heavier": 8,
+        "Much heavier": 8
+    }
+}

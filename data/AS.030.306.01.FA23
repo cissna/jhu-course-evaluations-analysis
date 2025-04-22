@@ -1,0 +1,59 @@
+{
+    "course_name": "Physical Chemistry Instrumentation Laboratory II",
+    "instructor_name": "Thomas Kempa",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 4,
+        "Good": 2,
+        "Excellent": 3
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 0,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Paul Hanrahan (among many others)",
+        "Ambar Escobar, Paul Hanharan, Marta Silwa, Abby Neil",
+        "all",
+        "Marta",
+        "Paul Hanrahan",
+        "Marta Sliwa, Paul Hanrahan, Abby Neill",
+        "Marta Sliwa",
+        "Marta Sliwa, Abby Neil, Paula Hanrahan, Ambar Escobar",
+        "Marta Sliwa, Abby Neill, Paul Hanrahan, Ambar Escobar",
+        "All the TAs were excellent",
+        "Marta Sliwa"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 6,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 3,
+        "Much heavier": 5
+    }
+}

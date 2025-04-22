@@ -1,0 +1,69 @@
+{
+    "course_name": "Biological Models and Simulations",
+    "instructor_name": "Aleksander Popel",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 13,
+        "Excellent": 8
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 7,
+        "Good": 14,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 11
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "ta_names": [
+        "Rebecca Yu",
+        "Rebecca",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "Charles Wang",
+        "Dennis Gong (also Jason Fan is Excellent)",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "NA",
+        "Rebecca",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "Rebecca Yu",
+        "rachel",
+        "Hanwen Wang",
+        "Dennis Gong",
+        "Rebecca Yu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 16,
+        "Agree strongly": 6
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 2,
+        "Typical": 20,
+        "Somewhat heavier": 5,
+        "Much heavier": 1
+    }
+}

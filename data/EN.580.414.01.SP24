@@ -1,0 +1,63 @@
+{
+    "course_name": "Design Team Leader III",
+    "instructor_name": "Michelle Zwernemann",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 18
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Shiela",
+        "Sheila Iyer",
+        "Sheila Iyer",
+        "Sheila Iyer",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila Iyer",
+        "Sheila",
+        "Sheila Lyer",
+        "N/A",
+        "Sheila Iyer"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 8,
+        "Agree strongly": 7
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 7,
+        "Somewhat heavier": 3,
+        "Much heavier": 6
+    }
+}

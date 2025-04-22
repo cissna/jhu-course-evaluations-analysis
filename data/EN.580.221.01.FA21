@@ -1,0 +1,75 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 5,
+        "Satisfactory": 11,
+        "Good": 16,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 7,
+        "Satisfactory": 8,
+        "Good": 13,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 14,
+        "Excellent": 10
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 18,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Natsuki Furukawa",
+        "Amanda, Matthew, Natsuki",
+        "The TAs for the Thursday 10:30 AM section",
+        "Matthew Vergel and Amanda Ruci",
+        "idk",
+        "Matthew Vergel and Amanda Ruci",
+        "Amanda",
+        "Matt and Amanda",
+        "Natuski",
+        "Matthew Vergel, Amanda Ruci",
+        "Natsuki Furukawa",
+        "Akash Patil",
+        "Natsuki Furukawa",
+        "Natsuki",
+        "All",
+        "Amanda Ruci",
+        "Akash Patil",
+        "Matt Vergel, Amanda",
+        "Matt Vergel and Amanda Ruci",
+        "Matt",
+        "Amanda Ruci, Matthew Vergel, Natsuki Furukawa",
+        "Amanda Ruci, Matthew Vergel",
+        "Matt and Amanda",
+        "Amanda and Matt",
+        "Brooke Hardesty",
+        "Matthew Vergel, Amanda Ruci",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 20,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 14,
+        "Somewhat heavier": 18,
+        "Much heavier": 1
+    }
+}

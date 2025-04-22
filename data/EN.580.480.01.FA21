@@ -1,0 +1,86 @@
+{
+    "course_name": "Precision Care Medicine I",
+    "instructor_name": "Joseph Greenstein",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 21,
+        "Excellent": 25
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 17,
+        "Excellent": 21
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 21,
+        "Excellent": 25
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 15,
+        "Excellent": 29
+    },
+    "ta_names": [
+        "n/a",
+        "Tony Wei",
+        "Jacob Desman, Tony Wei",
+        "Jacob Desman",
+        "Jacob",
+        "Jacob Desman",
+        "Shreyash Sonali",
+        "Jacob Desman",
+        "Tony/Jacob",
+        "Tony Wei and Jacob Desman",
+        "Jacob",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Jacob Desman",
+        "Tony Wei",
+        "Tony Wei, Jacob Desman",
+        "Jacob Desman",
+        "Tony Wei and Jacob Desman",
+        "Jacob, Tony",
+        "Tony",
+        "Tony Wei & Jacob Desman",
+        "Tony Wei",
+        "Tony Wei, Jacob Desman",
+        "Wei",
+        "Tony Wei",
+        "Jacob, Tony",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Tony",
+        "Tony",
+        "Tony, Jacob",
+        "Jacob",
+        "Jacob Desman",
+        "Tony Wei, Jacob Desman",
+        "Tony and Jacob",
+        "Tony Wei, Jacob Desman",
+        "Jacob",
+        "Shreyash Sonthalia",
+        "Tony Wei"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 16,
+        "Agree strongly": 23
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 3,
+        "Typical": 28,
+        "Somewhat heavier": 14,
+        "Much heavier": 3
+    }
+}

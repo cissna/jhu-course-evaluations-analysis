@@ -1,0 +1,73 @@
+{
+    "course_name": "Statistical Physics",
+    "instructor_name": "Jude Phillip",
+    "overall_quality_frequency": {
+        "Poor": 3,
+        "Weak": 9,
+        "Satisfactory": 5,
+        "Good": 8,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 8,
+        "Good": 8,
+        "Excellent": 0
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 16,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 18
+    },
+    "ta_names": [
+        "Sai Rayasam",
+        "Sai",
+        "sai",
+        "Sai",
+        "Sai",
+        "Sai Rayasam",
+        "Sai",
+        "Sai",
+        "sai",
+        "Ramya, Samson, Sai",
+        "Sai",
+        "Sai Rayasam",
+        "Sai R",
+        "Dessalines",
+        "Sampson",
+        "Samson",
+        "Sai Rayasam",
+        "Samson",
+        "Sai",
+        "Samson Dessalines",
+        "Sai Rayasam",
+        "Sai",
+        "Sai Rayasam",
+        "Samson",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 9,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 5,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 8,
+        "Somewhat heavier": 13,
+        "Much heavier": 1
+    }
+}

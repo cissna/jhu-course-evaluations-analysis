@@ -1,0 +1,57 @@
+{
+    "course_name": "Computational Medicine: Cardiology",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 7,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "don't remember their name but I bet that Kevin Nguyen dude is here somewhere.",
+        "Nina Nair",
+        "Nina",
+        "nina",
+        "Nina Nair",
+        "Nina Nair",
+        "Nina Nair",
+        "Justin Tso",
+        "Nina Nair - very thorough with her explanations in section and clearly answers students questions, encouraging interaction to make sure everyone feels comfortable"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 3,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 5,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 7,
+        "Much heavier": 5
+    }
+}

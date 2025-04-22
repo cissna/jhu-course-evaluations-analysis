@@ -1,0 +1,60 @@
+{
+    "course_name": "Cell and Tissue Engineering Lab",
+    "instructor_name": "Jessica Dunleavey",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 2,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "Jacob Martin and Alexis Tensfeldt",
+        "alexis, jacob",
+        "Jacob Martin",
+        "Jacob Martin, Alexis Tensfeldt",
+        "Jake and Alexis",
+        "Jake and Alexis",
+        "Alexis and Jake",
+        "Jacob Martin",
+        "Jacob Martin",
+        "Jake and Alexis",
+        "Alexis and Jacob",
+        "Jakob"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 1,
+        "Agree somewhat": 2,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 1,
+        "Somewhat heavier": 3,
+        "Much heavier": 8
+    }
+}

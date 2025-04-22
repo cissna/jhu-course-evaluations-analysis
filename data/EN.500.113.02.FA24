@@ -1,0 +1,63 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Siamak Ardekani",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 11,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 10,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 12
+    },
+    "ta_names": [
+        "Bryan Mu\u00f1oz",
+        "Bryan Munoz",
+        "Bryan Munoz",
+        "Bryna Munoz Rivero",
+        "Bryan",
+        "Idk, Section 01 TA",
+        "Bryan",
+        "Brayan",
+        "Bryan Munoz Rivero",
+        "Bryan",
+        "Alex Shane",
+        "Brian",
+        "Bryan",
+        "Alex",
+        "Bryan Munoz"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 4,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 12,
+        "Somewhat heavier": 4,
+        "Much heavier": 1
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "course_name": "Computational Medicine: Cardiology Laboratory",
+    "instructor_name": "Eileen Haase",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 7,
+        "Excellent": 4
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 4,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Ryan O'Hara",
+        "Ryan O'Hara",
+        "Rebecca Yu",
+        "Ryan O'hara",
+        "Ryan",
+        "Ryan",
+        "Kevin Sompel",
+        "Ryan O'hara",
+        "Vivek Gopalakrishnan",
+        "Michael and Vivek",
+        "Ryan",
+        "Ryan O'hara",
+        "Ryan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 11,
+        "Somewhat heavier": 4,
+        "Much heavier": 0
+    }
+}

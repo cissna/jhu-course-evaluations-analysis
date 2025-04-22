@@ -1,0 +1,90 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 25,
+        "Excellent": 26
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 23,
+        "Excellent": 28
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 7,
+        "Good": 28,
+        "Excellent": 21
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 18,
+        "Excellent": 23
+    },
+    "ta_names": [
+        "Yifei",
+        "Ogechi Nwankwoala",
+        "Uche",
+        "Ogechi Nwankoala",
+        "Christopher Anchan",
+        "Robert",
+        "Robert",
+        "Ogechi N.",
+        "Robert Medina",
+        "Ogechi",
+        "Chris Anchan",
+        "Ogechi",
+        "Ogechi",
+        "Chris",
+        "Yifei Zhu",
+        "Yifei",
+        "Chris",
+        "Yifei Zhu",
+        "Chris",
+        "Yifei Zhu",
+        "Robert Medina",
+        "Chris",
+        "Uche",
+        "Ogechi Nwankwoala",
+        "Ogechi N.",
+        "Robert Medina",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Robert Medina",
+        "Ogechi Nwankwoala",
+        "N/A",
+        "r medina",
+        "Christopher Anchan",
+        "Ewa",
+        "Robert Medina",
+        "Chris",
+        "christopher",
+        "Uche",
+        "Yifei Zhu",
+        "Christopher Anchan",
+        "Uche",
+        "Yuzuka Karube",
+        "Chris Anchan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 7,
+        "Agree somewhat": 19,
+        "Agree strongly": 26
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 4,
+        "Typical": 21,
+        "Somewhat heavier": 26,
+        "Much heavier": 7
+    }
+}

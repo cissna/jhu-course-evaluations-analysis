@@ -1,0 +1,72 @@
+{
+    "course_name": "Foundations of Computational Biology and Bioinformatics",
+    "instructor_name": "Rachel Karchin",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 13
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 6,
+        "Good": 11,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 13,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Gabe Shatkin",
+        "Adeshola Lawal",
+        "Gabe Shatkin",
+        "Gabe and Shola",
+        "Gabe",
+        "Gabe",
+        "Gabe Shatkin, Adeshola Lawal",
+        "Gabe Shatkin",
+        "Gabe Shatkin",
+        "Adeshola and Gabe",
+        "Gabe Shatkin",
+        "Gabe",
+        "Gabe",
+        "Adeshola Lawal and Gabe Shatkin",
+        "Gabe",
+        "Adeshola Lawal",
+        "Gabe",
+        "Adeshola Lawal (she took a particular interest in giving feedback for the final projects which I really appreciated) and Gabe Shatkin",
+        "Gabe Shatkin",
+        "Gabe and Shola",
+        "Gabe Shatkin",
+        "Gabe",
+        "Gabe Shatkin, Adeshola Lawal",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 13,
+        "Agree strongly": 8
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 4,
+        "Typical": 20,
+        "Somewhat heavier": 6,
+        "Much heavier": 2
+    }
+}

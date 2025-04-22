@@ -1,0 +1,86 @@
+{
+    "course_name": "Stem Cells & the Biology of Aging & Disease",
+    "instructor_name": "Barry Zirkin",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 9,
+        "Good": 31,
+        "Excellent": 52
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 35,
+        "Excellent": 41
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 7,
+        "Good": 30,
+        "Excellent": 53
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 15,
+        "Excellent": 34
+    },
+    "ta_names": [
+        "Maggie S",
+        "Margaret Starostik",
+        "Margaret",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Sadhana Pani",
+        "Maggie",
+        "Maggie",
+        "maggie",
+        "n/a",
+        "Maggie",
+        "Maggie",
+        "Margaret Starostik",
+        "Maggie",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Maggie",
+        "Margaret",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Margaret Starostik",
+        "Maggie Starostik",
+        "Margaret Starostik",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Margaret Starostik",
+        "Maggie",
+        "Maggie (don't remember the last name)",
+        "Maggie Starostik",
+        "Margaret (Maggie)",
+        "Margaret Starostik",
+        "Maggie",
+        "Maggie",
+        "Margaret",
+        "Margaret",
+        "Margaret Starostik"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 9,
+        "Disagree somewhat": 11,
+        "Neither agree nor disagree": 16,
+        "Agree somewhat": 26,
+        "Agree strongly": 13
+    },
+    "workload_frequency": {
+        "Much lighter": 14,
+        "Somewhat lighter": 36,
+        "Typical": 34,
+        "Somewhat heavier": 3,
+        "Much heavier": 3
+    }
+}

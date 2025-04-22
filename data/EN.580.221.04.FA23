@@ -1,0 +1,61 @@
+{
+    "course_name": "Biochemistry and Molecular Engineering",
+    "instructor_name": "Kevin Yarema",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 6,
+        "Excellent": 2
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 3,
+        "Excellent": 2
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 3,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 3,
+        "Excellent": 10
+    },
+    "ta_names": [
+        "Amanda Looi",
+        "Susan Kim, Sun Moon",
+        "Susan Kim",
+        "Sun",
+        "Sun Moon",
+        "Sun Moon",
+        "Travis, Sun, Susan",
+        "Susan Kim",
+        "Sun and Susan",
+        "Sun Moon",
+        "sun moon",
+        "My primary TAs were Sun and Susan. They were super helpful and put a lot of effort into section and lab. Travis was also really kind and helpful with test corrections.",
+        "Sun Susan"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 7,
+        "Agree strongly": 2
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 7,
+        "Somewhat heavier": 4,
+        "Much heavier": 2
+    }
+}

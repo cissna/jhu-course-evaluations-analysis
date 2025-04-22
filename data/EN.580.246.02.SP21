@@ -1,0 +1,72 @@
+{
+    "course_name": "Systems and Controls",
+    "instructor_name": "Sridevi Sarma",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 3,
+        "Satisfactory": 6,
+        "Good": 8,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 5,
+        "Good": 9,
+        "Excellent": 11
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 3,
+        "Good": 9,
+        "Excellent": 16
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 8,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Sandeep",
+        "Claire Zurn",
+        "Sandeep",
+        "Sandeep Kambhampati",
+        "Claire Zurn",
+        "Arshdeep",
+        "Sandeep Kambhampati",
+        "Sandeep",
+        "Sandeep",
+        "Sandeep Kambhampati",
+        "Claire Zurn",
+        "Claire Zurn",
+        "N/A",
+        "Claire Zurn",
+        "Sandeep Kambhampati",
+        "Claire Zurn",
+        "Sandeep Kambhampati",
+        "Sandeep",
+        "Claire Zurn",
+        "Claire Zurn",
+        "Sandeep Kambhampati",
+        "Claire Zurn",
+        "Sandeep Kambhampati",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 8,
+        "Agree somewhat": 11,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 3,
+        "Typical": 13,
+        "Somewhat heavier": 10,
+        "Much heavier": 3
+    }
+}

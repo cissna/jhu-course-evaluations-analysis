@@ -1,0 +1,63 @@
+{
+    "course_name": "Human Genome Variation with Lab",
+    "instructor_name": "Kyle Cunningham",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 9,
+        "Excellent": 8
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 3,
+        "Excellent": 11
+    },
+    "ta_names": [
+        "Matthew Pavesic",
+        "Matthew",
+        "Matthew Pavesic",
+        "Matthew Pavesic",
+        "Matthew Pavesic",
+        "Matthew Pavesic",
+        "Matthew Pavesic",
+        "Matthew Pavesic",
+        "Matthew",
+        "Matthew Pavesic",
+        "Matthew Pavesic",
+        "Pavesic, Roy",
+        "Matthew",
+        "Matthew",
+        "matthew"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 5,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 3,
+        "Somewhat lighter": 12,
+        "Typical": 2,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

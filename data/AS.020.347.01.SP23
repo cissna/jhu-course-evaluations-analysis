@@ -1,0 +1,71 @@
+{
+    "course_name": "AIDS",
+    "instructor_name": "Trina Schroer",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 7,
+        "Good": 20,
+        "Excellent": 30
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 12,
+        "Good": 16,
+        "Excellent": 28
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 8,
+        "Good": 18,
+        "Excellent": 31
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 8,
+        "Good": 11,
+        "Excellent": 9
+    },
+    "ta_names": [
+        "Elliot",
+        "Elliot",
+        "Elliot Mattson",
+        "N/A",
+        "Elliot",
+        "Elliot Mattson",
+        "N/A",
+        "NA",
+        "N/A",
+        "Elliot Mattson",
+        "Elliot",
+        "Elliot Mattson",
+        "Elliot Mattson",
+        "Elliot Matson",
+        "Elliott",
+        "Not sure",
+        "-",
+        "Elliot",
+        "Elliot",
+        "Elliot Matson",
+        "Elliot Mattson",
+        "Elliot Mattson",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 2,
+        "Neither agree nor disagree": 14,
+        "Agree somewhat": 21,
+        "Agree strongly": 17
+    },
+    "workload_frequency": {
+        "Much lighter": 9,
+        "Somewhat lighter": 16,
+        "Typical": 25,
+        "Somewhat heavier": 4,
+        "Much heavier": 4
+    }
+}

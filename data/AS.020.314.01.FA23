@@ -1,0 +1,89 @@
+{
+    "course_name": "The Biology of Disease",
+    "instructor_name": "Katie Tifft Oshinnaiye",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 10,
+        "Good": 27,
+        "Excellent": 73
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 14,
+        "Good": 15,
+        "Excellent": 55
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 1,
+        "Satisfactory": 13,
+        "Good": 48,
+        "Excellent": 47
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 13,
+        "Good": 25,
+        "Excellent": 24
+    },
+    "ta_names": [
+        "Anna Andrick, Taylar Mouton",
+        "Both TAs",
+        "Both TAs.",
+        "Taylar Mouton and Anna Andrick",
+        "Taylar Mouton",
+        "Ciara",
+        "N/A",
+        "Taylar and Anna",
+        "Taylar Mouton",
+        "Anna Andrick and Taylar Mouton",
+        "Anna Andrick",
+        "Taylar Mouton",
+        "N/A",
+        "Anna",
+        "Taylar",
+        "Taylor Mouton",
+        "Sheila",
+        "Anna Andrick",
+        "Taylor",
+        "Anna Andrick; Taylar Mouton",
+        "Talyar Mouton",
+        "Taylor Mouton",
+        "Taylar Mouton",
+        "Taylar",
+        "NA",
+        "Anna",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Taylor Mounton",
+        "Taylar and Anna",
+        "Anna Andrick",
+        "Anna and Taylar",
+        "Taylor",
+        "Taylar Mouton",
+        "N/A",
+        "Taylor Mouton",
+        "Taylor",
+        "N/A",
+        "Taylar Mouton",
+        "-",
+        "Anna",
+        "Anna Andrick"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 4,
+        "Disagree somewhat": 10,
+        "Neither agree nor disagree": 18,
+        "Agree somewhat": 43,
+        "Agree strongly": 33
+    },
+    "workload_frequency": {
+        "Much lighter": 6,
+        "Somewhat lighter": 49,
+        "Typical": 47,
+        "Somewhat heavier": 3,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "course_name": "Gateway Computing: Python",
+    "instructor_name": "Dimitrios Giovanis",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 4,
+        "Good": 5,
+        "Excellent": 4
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 4,
+        "Good": 4,
+        "Excellent": 5
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 6,
+        "Excellent": 6
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 4,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Mohit Chauhan",
+        "Mohit Chauhan",
+        "Mohit",
+        "Mohit Chaun",
+        "Mohit",
+        "Mohit Chauhan",
+        "Mohit",
+        "Mohit Chauhan",
+        "Mohit Chauhan",
+        "Mohit"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 4,
+        "Agree somewhat": 7,
+        "Agree strongly": 3
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 7,
+        "Somewhat heavier": 6,
+        "Much heavier": 3
+    }
+}

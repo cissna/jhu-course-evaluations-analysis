@@ -1,0 +1,47 @@
+{
+    "course_name": "Statistical Physics",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 4,
+        "Satisfactory": 11,
+        "Good": 10,
+        "Excellent": 1
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 5,
+        "Weak": 5,
+        "Satisfactory": 6,
+        "Good": 9,
+        "Excellent": 1
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 0,
+        "Good": 5,
+        "Excellent": 21
+    },
+    "ta_names": [],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 0,
+        "Agree somewhat": 0,
+        "Agree strongly": 0
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 0,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "course_name": "Human Genome Variation",
+    "instructor_name": "Kyle Cunningham",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 11,
+        "Excellent": 23
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 24
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 12,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 8,
+        "Excellent": 21
+    },
+    "ta_names": [
+        "Timothy",
+        "Timothy Nickels",
+        "Tim",
+        "Tim Nickels",
+        "Timothy Nickels",
+        "Tim",
+        "Tim",
+        "Timothy Nickels",
+        "Timothy Nickels",
+        "Timothy Nickels",
+        "tim",
+        "Tim Nickels",
+        "Tim",
+        "Timothy Nickels",
+        "Timothy Nickels",
+        "Tim Nickels",
+        "Kevin",
+        "Tim Nickels",
+        "Timothy Nickels",
+        "Tim Nickels",
+        "Timothy Nickels",
+        "Timothy Nickels",
+        "Timothy Nickels",
+        "Tim Nickels",
+        "Tim",
+        "Timothy Nickels",
+        "Tim",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 10,
+        "Agree somewhat": 7,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 8,
+        "Somewhat lighter": 17,
+        "Typical": 8,
+        "Somewhat heavier": 0,
+        "Much heavier": 0
+    }
+}

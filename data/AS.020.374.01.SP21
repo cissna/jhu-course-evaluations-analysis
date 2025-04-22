@@ -1,0 +1,92 @@
+{
+    "course_name": "Comparative Animal Physiology",
+    "instructor_name": "Anna Coppola",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 14,
+        "Good": 39,
+        "Excellent": 18
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 2,
+        "Weak": 7,
+        "Satisfactory": 13,
+        "Good": 35,
+        "Excellent": 20
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 44,
+        "Excellent": 18
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 14,
+        "Good": 34,
+        "Excellent": 15
+    },
+    "ta_names": [
+        "Jocelyn",
+        "Joselyn",
+        "Jocelyn",
+        "Name not listed on syllabus but exists",
+        "Joselyn Yamamoto",
+        "Joselyn",
+        "Jacqueline",
+        "Joselyn Stibalis",
+        "jocelyn",
+        "Jocelyn",
+        "Josslyn",
+        "Jocelyn",
+        "Joselyn",
+        "Joselyn Stibalis",
+        "Jocelyn",
+        "Joseyln",
+        "I apologize but am really bad with names!!",
+        "Joselyn Stibalis (idk if thats spelled right?)",
+        "Joselyn",
+        "Jocelyn",
+        "Jacquelin",
+        "Jocelyne",
+        "josslyn",
+        "Jocelyn",
+        "Not sure what their names are, but all are good",
+        "Jocelyn",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Jocelyn",
+        "Jocelyn Stibalis",
+        "Joselyn Stibalis",
+        "Joseline",
+        "Jocelyn",
+        "YAMAMOTO, JOSELYN",
+        "Jocelyn",
+        "Joselyn",
+        "Joselyn",
+        "Jocelyn",
+        "Jocelyn",
+        "Joselyn",
+        "idk",
+        "Jocelyn",
+        "Joselyn",
+        "Jocelyn",
+        "Jocelyn"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 11,
+        "Neither agree nor disagree": 15,
+        "Agree somewhat": 30,
+        "Agree strongly": 14
+    },
+    "workload_frequency": {
+        "Much lighter": 2,
+        "Somewhat lighter": 19,
+        "Typical": 50,
+        "Somewhat heavier": 6,
+        "Much heavier": 0
+    }
+}

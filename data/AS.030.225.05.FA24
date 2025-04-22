@@ -1,0 +1,91 @@
+{
+    "course_name": "Introductory Organic Chemistry Laboratory",
+    "instructor_name": "Larissa D'Souza",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 15,
+        "Excellent": 35
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 15,
+        "Excellent": 37
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 6,
+        "Good": 18,
+        "Excellent": 29
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 9,
+        "Excellent": 42
+    },
+    "ta_names": [
+        "Tommy and Nick",
+        "Amy Chen",
+        "Vikrant and Rosy",
+        "Nikhil and Betania",
+        "Amy Chen",
+        "Amy Chen",
+        "Amy",
+        "Nikhil",
+        "Amy, Betania, Nikhil",
+        "Betania",
+        "they are all really good TAs",
+        "Anika and Andrew",
+        "Rosy, Vikhrant",
+        "Nikhil",
+        "Vikrant & Rosy",
+        "Anika and Andrew",
+        "Nick / Tommy",
+        "Nikhil Subhas",
+        "Nick/Tommy",
+        "Amy Chen, Anika Khandekar, Andrew Gonzalez",
+        "Nick and Tommy",
+        "Vikrant (Lebron) and Rosy (Caitlyn Clark)",
+        "Amy",
+        "Vikrant and Rosy",
+        "Nick and Tommy",
+        "Anika and Andrew",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Andrew and Anika",
+        "Amy Chen",
+        "Amy Chen",
+        "Nikhil",
+        "rosy and vikrant",
+        "Nick, Tommy, Amy",
+        "Nick / Tommy",
+        "Nikhil",
+        "Anika and Andrew",
+        "Anthony Peng",
+        "Anika and Andrew",
+        "Nick, Tommy",
+        "Nikhil Subhas",
+        "Nick and Tommy",
+        "Nikhil, Betania",
+        "Tommy and Nick"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 18,
+        "Agree strongly": 31
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 24,
+        "Somewhat heavier": 21,
+        "Much heavier": 7
+    }
+}

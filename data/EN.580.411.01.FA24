@@ -1,0 +1,69 @@
+{
+    "course_name": "Design Team Health-Tech Project I",
+    "instructor_name": "Michelle Zwernemann",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 2,
+        "Good": 6,
+        "Excellent": 12
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 3,
+        "Excellent": 14
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 7,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 5,
+        "Excellent": 13
+    },
+    "ta_names": [
+        "Elena Porras",
+        "Ethan Wu",
+        "Sneha",
+        "Unnathi",
+        "Elena Porras",
+        "Santiago",
+        "Ethan Wu",
+        "Ethan Wu",
+        "Santiago Sanchez",
+        "Ishir",
+        "Sneha Raj",
+        "Alberto",
+        "Ishir Sharma",
+        "Elena Porras",
+        "Jay Tailor",
+        "Ethan",
+        "Alberto Bustamente",
+        "Santiago",
+        "Ethan Wu",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "Tech Project I"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 0,
+        "Neither agree nor disagree": 3,
+        "Agree somewhat": 6,
+        "Agree strongly": 12
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 5,
+        "Somewhat heavier": 6,
+        "Much heavier": 10
+    }
+}

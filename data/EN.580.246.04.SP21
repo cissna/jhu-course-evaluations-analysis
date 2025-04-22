@@ -1,0 +1,72 @@
+{
+    "course_name": "Systems and Controls",
+    "instructor_name": "Sridevi Sarma",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 10,
+        "Excellent": 11
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 2,
+        "Good": 8,
+        "Excellent": 17
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 12,
+        "Excellent": 13
+    },
+    "ta_frequency": {
+        "Poor": 5,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 12,
+        "Excellent": 4
+    },
+    "ta_names": [
+        "Claire Zurn",
+        "Min Jae Kim",
+        "Claire Zurn",
+        "Min Jae Kim",
+        "Went to various TAs but to be specific Richard Eng, Claire Zurn, Min Jae Kim",
+        "Claire Zurn",
+        "MinJae Kim",
+        "Min Jae Kim",
+        "Claire Zurn",
+        "Min Jae Kim",
+        "Claire Zurn",
+        "Min Jae Kim",
+        "Claire Zurn",
+        "Claire Zurn",
+        "Min Jae Kim",
+        "Claire Zurn",
+        "Claire Zurn",
+        "Min Jae Kim",
+        "All",
+        "Min Jae Kim",
+        "Min Jae Kim",
+        "Min Jae Kim",
+        "Claire Zurn",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 5,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 13,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 1,
+        "Typical": 15,
+        "Somewhat heavier": 14,
+        "Much heavier": 0
+    }
+}

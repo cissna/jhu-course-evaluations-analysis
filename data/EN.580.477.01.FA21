@@ -1,0 +1,60 @@
+{
+    "course_name": "Biomedical Data Science Laboratory",
+    "instructor_name": "Kwame Kutten",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 2,
+        "Satisfactory": 6,
+        "Good": 19,
+        "Excellent": 7
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 21,
+        "Excellent": 8
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 5,
+        "Good": 17,
+        "Excellent": 12
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 10,
+        "Excellent": 8
+    },
+    "ta_names": [
+        "Kalen Clifton",
+        "N/A",
+        "Kalen Clifton",
+        "N/A",
+        "All",
+        "Ranjani Ramasubramanian",
+        "Kalen Clifton",
+        "Kwame, Yuan",
+        "Kalen Clifton",
+        "Dennis Gong",
+        "N/A",
+        "Dennis Gong"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 3,
+        "Neither agree nor disagree": 6,
+        "Agree somewhat": 21,
+        "Agree strongly": 4
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 17,
+        "Somewhat heavier": 13,
+        "Much heavier": 2
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "course_name": "Comparative Animal Physiology",
+    "instructor_name": "Anna Coppola",
+    "overall_quality_frequency": {
+        "Poor": 2,
+        "Weak": 2,
+        "Satisfactory": 8,
+        "Good": 28,
+        "Excellent": 26
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 10,
+        "Good": 25,
+        "Excellent": 26
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 1,
+        "Weak": 2,
+        "Satisfactory": 11,
+        "Good": 25,
+        "Excellent": 26
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 0,
+        "Excellent": 3
+    },
+    "ta_names": [
+        "N/A",
+        "N/A",
+        "N/A",
+        "idk who it was",
+        "N/A",
+        "l",
+        "n/a"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 2,
+        "Disagree somewhat": 4,
+        "Neither agree nor disagree": 17,
+        "Agree somewhat": 19,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 1,
+        "Somewhat lighter": 12,
+        "Typical": 39,
+        "Somewhat heavier": 12,
+        "Much heavier": 1
+    }
+}

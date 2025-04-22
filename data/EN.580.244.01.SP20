@@ -1,0 +1,74 @@
+{
+    "course_name": "Nonlinear Dynamics of Biological Systems",
+    "instructor_name": "Michael Beer",
+    "overall_quality_frequency": {
+        "Poor": 4,
+        "Weak": 1,
+        "Satisfactory": 10,
+        "Good": 7,
+        "Excellent": 6
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 3,
+        "Weak": 2,
+        "Satisfactory": 9,
+        "Good": 8,
+        "Excellent": 6
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 5,
+        "Good": 7,
+        "Excellent": 15
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 2,
+        "Good": 4,
+        "Excellent": 20
+    },
+    "ta_names": [
+        "Annie Liang",
+        "Ze Ou",
+        "alan poe",
+        "Alan Poe, Annie Liang, Xirui Hou",
+        "Ze Ou",
+        "Annie",
+        "Ze Ou",
+        "Annie Liang, Alan Poe",
+        "Ze",
+        "Annie",
+        "Alan, Annie, Ze",
+        "Ze Ou",
+        "Alan Poe",
+        "Ze",
+        "Ze Ou",
+        "Ze Ou",
+        "Ze Ou",
+        "Ze Ou",
+        "Ze Ou",
+        "Annie",
+        "annie liang",
+        "Wu",
+        "Ze Ou",
+        "Allan Poe",
+        "Alan",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 1,
+        "Disagree somewhat": 6,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 10,
+        "Agree strongly": 5
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 0,
+        "Typical": 12,
+        "Somewhat heavier": 12,
+        "Much heavier": 4
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "course_name": "Precision Care Medicine II",
+    "instructor_name": "Raimond Winslow",
+    "overall_quality_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 21
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 0,
+        "Weak": 1,
+        "Satisfactory": 4,
+        "Good": 14,
+        "Excellent": 19
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 3,
+        "Good": 14,
+        "Excellent": 22
+    },
+    "ta_frequency": {
+        "Poor": 0,
+        "Weak": 0,
+        "Satisfactory": 1,
+        "Good": 5,
+        "Excellent": 31
+    },
+    "ta_names": [
+        "Kirby and Indranuj",
+        "Kirby Gong",
+        "Kirby Gong",
+        "Kirby Gong",
+        "kirby",
+        "Kirby Gong",
+        "Kirby",
+        "Kirby Gong",
+        "Kirby Gong",
+        "Kirby",
+        "Kirby",
+        "Kirby Gong",
+        "Kirby Gong",
+        "Kirby Gong",
+        "Kirby gong",
+        "Kirby",
+        "Kirby Gong",
+        "Kirby Gong, Indranuj Gangan",
+        "Kirby Gong",
+        "Kirby Gong",
+        "Kirby Kong",
+        "Kirby",
+        "Kirby Gong",
+        "Kirby Gong, Indranuj Gangan",
+        "Kirby Gong",
+        "Kirby Gong",
+        "kirby gong",
+        "Indranuj Gangan, Kirby Gong",
+        "Kirby Gong",
+        "Kirby Gong",
+        "Kirby, Indranuj",
+        "Kirby Gong",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 0,
+        "Disagree somewhat": 1,
+        "Neither agree nor disagree": 5,
+        "Agree somewhat": 13,
+        "Agree strongly": 19
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 2,
+        "Typical": 18,
+        "Somewhat heavier": 15,
+        "Much heavier": 3
+    }
+}

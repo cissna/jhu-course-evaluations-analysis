@@ -1,0 +1,87 @@
+{
+    "course_name": "Cell Biology",
+    "instructor_name": "Kathryn Tifft Oshinnaiye",
+    "overall_quality_frequency": {
+        "Poor": 1,
+        "Weak": 7,
+        "Satisfactory": 40,
+        "Good": 106,
+        "Excellent": 75
+    },
+    "instructor_effectiveness_frequency": {
+        "Poor": 1,
+        "Weak": 5,
+        "Satisfactory": 24,
+        "Good": 76,
+        "Excellent": 120
+    },
+    "intellectual_challenge_frequency": {
+        "Poor": 0,
+        "Weak": 3,
+        "Satisfactory": 8,
+        "Good": 73,
+        "Excellent": 143
+    },
+    "ta_frequency": {
+        "Poor": 1,
+        "Weak": 4,
+        "Satisfactory": 9,
+        "Good": 2,
+        "Excellent": 7
+    },
+    "ta_names": [
+        "N/A",
+        "-",
+        "Clement",
+        "NA",
+        "n/A",
+        "N/A",
+        "All of them",
+        "all",
+        "NA",
+        "Justin",
+        "n/a",
+        "N/A",
+        "N/A",
+        "n/a",
+        "n/a",
+        "Clarice Diebold",
+        "N/A",
+        "I'm not sure who my TA was",
+        "N/A",
+        "N/A",
+        "N/A",
+        "none",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "Krieger School of Arts & Sciences / Whiting School of Engineering",
+        "n/a",
+        "NA",
+        "N/A",
+        "NA",
+        "n/a",
+        "N/A",
+        "N/A",
+        "n/a",
+        "N/A",
+        "n/a",
+        "N/A",
+        "N/A"
+    ],
+    "feedback_frequency": {
+        "Disagree strongly": 5,
+        "Disagree somewhat": 25,
+        "Neither agree nor disagree": 34,
+        "Agree somewhat": 96,
+        "Agree strongly": 61
+    },
+    "workload_frequency": {
+        "Much lighter": 0,
+        "Somewhat lighter": 5,
+        "Typical": 54,
+        "Somewhat heavier": 107,
+        "Much heavier": 59
+    }
+}
