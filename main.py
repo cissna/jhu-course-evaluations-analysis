@@ -3,7 +3,7 @@ import os
 from page_parse import GeneralClassScraper
 
 code = """
-AS.150.499
+AS.210.311
 """.strip()
 
 # Define the mappings from rating labels to numeric scores.
@@ -27,7 +27,7 @@ def parse_term(term_str):
     # We assume the term string is of the form XXYY
     # where "XX" is the term code (e.g. SP, FA, etc.)
     # and "YY" are the last two digits of the year.
-    season_priority = {"SP": 1, "SU": 2, "FA": 3, "WI": 4}  # adjust if needed
+    season_priority = {"SP": 1, "SU": 2, "FA": 3, "IN": -1}  # adjust if needed
     season = term_str[:2]
     year = int(term_str[2:])
     return (year, season_priority.get(season, 0))
@@ -49,7 +49,7 @@ cutoff_term = (23, 1)  # (year, season_order), where Spring is given priority 1
 # Assume that you have a scraper instance 'g' that returns a list of file names.
 # For example: "data/EN.553.420.04.FA24"
 g = GeneralClassScraper(code)
-file_list = g.scrape_all_pdfs()  # returns list of file paths like "data/EN.553.420.04.FA24"
+cache_entry = g.scrape_all_pdfs()  # returns list of file paths like "data/EN.553.420.04.FA24"
 
 # Create aggregation dictionaries.
 # Each instructor will have two sets of aggregates ("all" and "recent") for both quality and workload.
@@ -58,65 +58,62 @@ instructor_data = {}
 overall_data_all   = {"quality": [0, 0], "workload": [0, 0]}   # [weighted_sum, total_count]
 overall_data_recent = {"quality": [0, 0], "workload": [0, 0]}
 
-for file in file_list:
-    # The file name is expected to have the format:
-    # data/[class code].[section].[date]
-    # Example: "data/EN.553.420.04.FA24"
-    # Strip the "data/" prefix and split based on '.'.
-    fname = file.replace("data/", "")
-    parts = fname.split(".")
-    # The date is the last part (e.g. "FA24")
-    date_code = parts[-1]
-    file_term = parse_term(date_code)
-    is_recent = (file_term >= cutoff_term)
-    
-    # Load the JSON data from the file.
-    with open(file, 'r') as f:
-        data = json.load(f)
-    
-    # Get the instructor name (if missing or empty, use "Unknown").
-    instructor = data.get("instructor_name", "").strip() or "Unknown"
-    
-    # Get the frequency distributions.
-    quality_freq = data.get("overall_quality_frequency", {})
-    workload_freq = data.get("workload_frequency", {})
-    
-    # Compute the weighted sums and response counts.
-    quality_sum, quality_count = aggregate_frequency(quality_freq, quality_mapping)
-    workload_sum, workload_count = aggregate_frequency(workload_freq, workload_mapping)
-    
-    # Initialize aggregation for this instructor if not seen yet.
-    if instructor not in instructor_data:
-        instructor_data[instructor] = {
-            "all": {"quality": [0, 0], "workload": [0, 0]},
-            "recent": {"quality": [0, 0], "workload": [0, 0]}
-        }
-    # Update "all time" aggregator for this instructor.
-    instructor_data[instructor]["all"]["quality"][0] += quality_sum
-    instructor_data[instructor]["all"]["quality"][1] += quality_count
-    instructor_data[instructor]["all"]["workload"][0] += workload_sum
-    instructor_data[instructor]["all"]["workload"][1] += workload_count
+for period, specific_courses_in_period in cache_entry['data'].items():
+    for specific_course, data in specific_courses_in_period.items():
+        # The file name is expected to have the format:
+        # data/[class code].[section].[date]
+        # Example: "data/EN.553.420.04.FA24"
+        # Strip the "data/" prefix and split based on '.'.
+        # The date is the last part (e.g. "FA24")
+        date_code = period
+        file_term = parse_term(date_code)
+        is_recent = (file_term >= cutoff_term)
+        
+        
+        # Get the instructor name (if missing or empty, use "Unknown").
+        if data is None:
+            print(f'{specific_course} skipped due to previous pdf download failure')
+            continue  # not ideal, temporary measure until we have better failure handling.
+        instructor = data.get("instructor_name", "").strip() or "Unknown"
+        
+        # Get the frequency distributions.
+        quality_freq = data.get("overall_quality_frequency", {})
+        workload_freq = data.get("workload_frequency", {})
+        
+        # Compute the weighted sums and response counts.
+        quality_sum, quality_count = aggregate_frequency(quality_freq, quality_mapping)
+        workload_sum, workload_count = aggregate_frequency(workload_freq, workload_mapping)
+        
+        # Initialize aggregation for this instructor if not seen yet.
+        if instructor not in instructor_data:
+            instructor_data[instructor] = {
+                "all": {"quality": [0, 0], "workload": [0, 0]},
+                "recent": {"quality": [0, 0], "workload": [0, 0]}
+            }
+        # Update "all time" aggregator for this instructor.
+        instructor_data[instructor]["all"]["quality"][0] += quality_sum
+        instructor_data[instructor]["all"]["quality"][1] += quality_count
+        instructor_data[instructor]["all"]["workload"][0] += workload_sum
+        instructor_data[instructor]["all"]["workload"][1] += workload_count
 
-    # Also update overall (class-wide) aggregator for "all" data.
-    overall_data_all["quality"][0] += quality_sum
-    overall_data_all["quality"][1] += quality_count
-    overall_data_all["workload"][0] += workload_sum
-    overall_data_all["workload"][1] += workload_count
-    
-    # If the file qualifies as recent (>= SP23), update the "recent" aggregates.
-    if is_recent:
-        instructor_data[instructor]["recent"]["quality"][0] += quality_sum
-        instructor_data[instructor]["recent"]["quality"][1] += quality_count
-        instructor_data[instructor]["recent"]["workload"][0] += workload_sum
-        instructor_data[instructor]["recent"]["workload"][1] += workload_count
+        # Also update overall (class-wide) aggregator for "all" data.
+        overall_data_all["quality"][0] += quality_sum
+        overall_data_all["quality"][1] += quality_count
+        overall_data_all["workload"][0] += workload_sum
+        overall_data_all["workload"][1] += workload_count
+        
+        # If the file qualifies as recent (>= SP23), update the "recent" aggregates.
+        if is_recent:
+            instructor_data[instructor]["recent"]["quality"][0] += quality_sum
+            instructor_data[instructor]["recent"]["quality"][1] += quality_count
+            instructor_data[instructor]["recent"]["workload"][0] += workload_sum
+            instructor_data[instructor]["recent"]["workload"][1] += workload_count
 
-        overall_data_recent["quality"][0] += quality_sum
-        overall_data_recent["quality"][1] += quality_count
-        overall_data_recent["workload"][0] += workload_sum
-        overall_data_recent["workload"][1] += workload_count
-if (not file_list):
-    print(f"No files found for {code}")
-    exit()
+            overall_data_recent["quality"][0] += quality_sum
+            overall_data_recent["quality"][1] += quality_count
+            overall_data_recent["workload"][0] += workload_sum
+            overall_data_recent["workload"][1] += workload_count
+
 
 print(f"\n\nClass: {data.get('course_name')}    Code: {code}\n\n")
 
