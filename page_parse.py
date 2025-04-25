@@ -14,6 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests
 import urllib.parse
 import re
+from CourseCache import CourseCache
 
 import logging
 logging.getLogger("pdfminer").setLevel(logging.ERROR)  # to avoid some annoying text being printed: "CropBox missing from /Page, defaulting to MediaBox"
@@ -96,7 +97,8 @@ class SpecificClassScraper():
     """
     holds information of a specific class, and has a method to scrape the data for that class
     """
-    def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str):
+    def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str, course_cache: CourseCache=None, cache_prepped=True):
+
         pattern = r'^[a-z]{2}\.\d{3}\.\d{3}$'
         if not re.match(pattern, class_code.lower().strip()):
             raise ValueError(f"{class_code} is a invalid class code (should be XX.###.###)")
@@ -120,6 +122,14 @@ class SpecificClassScraper():
         self.ta_names = []  # List of names from question 5.
         self.feedback_frequency = {}
         self.workload_frequency = {}
+        
+        if course_cache is None:
+            self.cache = CourseCache()
+            assert(not cache_prepped)
+        else:
+            self.cache = course_cache
+        if not cache_prepped:
+            self.cache.ensure_course(course_code=class_code, period=f'{period}{year:02}')
 
     def scrape_pdf(self, driver):
         # print(f"Checking class code: {self.specific_class_code}:")
@@ -178,14 +188,10 @@ class SpecificClassScraper():
                 return file_name
             else:
                 print(f"❌ Failed to download PDF: {self.specific_class_code}")
-                with open("failed_pdf_downloads.txt", 'a') as f:
-                    f.write(self.specific_class_code + '\n')
-                return None
+                return False
         else:
             print(f"❌ No PDF URL intercepted: {self.specific_class_code}")
-            with open("failed_pdf_downloads.txt", 'a') as f:
-                f.write(self.specific_class_code + '\n')
-            return None
+            return False
 
     def parse_pdf(self):
         # Open the PDF and extract full text from all pages.
@@ -291,15 +297,13 @@ class SpecificClassScraper():
             "workload_frequency": self.workload_frequency
         }
 
-        # Write the data to file. The file path is: data/{self.specific_class_code}
-        output_dir = "data"
-        file_path = os.path.join(output_dir, self.specific_class_code)
-        with open(file_path, "w") as f:
-            json.dump(data, f, indent=4)
+        self.cache.data['.'.join(self.specific_class_code.split('.')[:3])]['data'][self.specific_class_code.split('.')[4]][self.specific_class_code] = data
+
+        self.cache.save()
 
         os.remove(self.pdf_file)
 
-        return file_path
+        return self.cache
 
 
 
@@ -307,7 +311,12 @@ class GeneralClassScraper():
     """
     Contains SpecificClassScraper()s for all versions of a class in the last (default=5) years
     """   
-    def __init__(self, class_code: str, years=5, intersession=False, summer=False):
+    def __init__(self, class_code: str, course_cache: CourseCache=None, years=5, intersession=False, summer=False):
+        if course_cache is None:
+            self.cache = CourseCache()
+        else:
+            self.cache = course_cache
+
         self.years = years
         self.class_code = class_code
         if intersession and summer:
@@ -327,19 +336,8 @@ class GeneralClassScraper():
 
 
     def scrape_all_pdfs(self):
-        try:
-            with open("course_cache.txt", 'r') as f:
-                for line in f.readlines():
-                    code, date = line.strip().split()
-                    
-                    if code == self.class_code.strip():
-                        if date == self.date:
-                            print(f'{self.class_code} already cached in course_cache.txt up to {self.last_period}{self.last_year}.')
-                            return ["data/" + f for f in os.listdir("data") if self.class_code in f]
-                        else:
-                            raise NotImplementedError("Deal with case where we have partial data——complicated")
-        except FileNotFoundError:
-            pass  # there are no courses with data currently on them in this period, so we proceed to the rest of the code.
+        if self.class_code in self.cache.data:
+            return self.cache.data[self.class_code]
 
         chrome_options = Options()
         chrome_options.add_argument("--headless")
@@ -351,9 +349,6 @@ class GeneralClassScraper():
         driver = webdriver.Chrome(options=chrome_options)
 
         try:
-            specifics: SpecificClassScraper = []
-            specifics.append(1)
-
             dates = []
 
             start_year = (self.last_year + 1) - self.years
@@ -382,19 +377,24 @@ class GeneralClassScraper():
                 if self.last_period == 'SP':
                     dates.pop()  # remove fall of last_year since it hasn't happened yet if last period is spring
             
-            data_files = []
+
             for period, year in dates:
+                first = True
                 for i in range(1, 1000):  # I think 33 is the highest, but a more dynamic strategy would be better, ofc.
-                    s = SpecificClassScraper(self.class_code, period, str(year), str(i))
+                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache, cache_prepped=not first)
                     result = s.scrape_pdf(driver)
                     if result is None:
                         break
-                    data_files.append(s.parse_pdf())
-            with open("course_cache.txt", 'a') as f:
-                f.write(f'{self.class_code} {self.date}\n')  # encode course but also last date we have data from.
-        
+                    elif result is False:
+                        self.cache.mark_failed(s.specific_class_code)
+                        break
+                    self.cache = s.parse_pdf()
+
+                    if first:  # all first serves to do is let the SpecificClassScraper know that it's not prepped on the first iteration
+                        first = False  
+
         
         finally:
             driver.quit()
         
-        return data_files  # will error if there is an exception, which is probably fine.
+        return self.cache.data[self.class_code]  # will error if there is an exception, which is probably fine.
