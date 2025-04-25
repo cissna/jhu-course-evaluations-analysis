@@ -97,7 +97,7 @@ class SpecificClassScraper():
     """
     holds information of a specific class, and has a method to scrape the data for that class
     """
-    def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str, course_cache: CourseCache=None, cache_prepped=True):
+    def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str, course_cache: CourseCache=None, cache_prepped=False):
 
         pattern = r'^[a-z]{2}\.\d{3}\.\d{3}$'
         if not re.match(pattern, class_code.lower().strip()):
@@ -125,7 +125,6 @@ class SpecificClassScraper():
         
         if course_cache is None:
             self.cache = CourseCache()
-            assert(not cache_prepped)
         else:
             self.cache = course_cache
         if not cache_prepped:
