@@ -22,7 +22,7 @@ import pdfplumber
 
 
 
-def parse_period(period_string: str, expecting_special=False) -> str:
+def _parse_period(period_string: str, expecting_special=False) -> str:
     """Processes period_string to ensure consistency
 
     Args:
@@ -52,7 +52,7 @@ def parse_period(period_string: str, expecting_special=False) -> str:
     raise ValueError(f'Period String, "{period_string}" should be spring, fall, intersession, or summer')
 
 
-def parse_year(year_string: str) -> int:
+def _parse_year(year_string: str) -> int:
     """Processes year_string to ensure consistency
 
     Args:
@@ -75,7 +75,7 @@ def parse_year(year_string: str) -> int:
 
 
 
-def parse_section(section_string: str) -> int:
+def _parse_section(section_string: str) -> int:
     """Processes section_string to ensure consistency
 
     Args:
@@ -103,9 +103,9 @@ class SpecificClassScraper():
         if not re.match(pattern, class_code.lower().strip()):
             raise ValueError(f"{class_code} is a invalid class code (should be XX.###.###)")
         
-        period = parse_period(period_string)
-        year = parse_year(year_string)
-        section = parse_section(section_string)
+        period = _parse_period(period_string)
+        year = _parse_year(year_string)
+        section = _parse_section(section_string)
         
         # at this point, the variables we care about are year, period, section, and class_code, here's how we use them:
         self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
