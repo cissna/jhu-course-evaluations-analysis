@@ -336,7 +336,28 @@ class GeneralClassScraper():
 
     def scrape_all_pdfs(self):
         if self.class_code in self.cache.data:
-            return self.cache.data[self.class_code]
+            course_entry = self.cache.data[self.class_code]
+
+            last_date_gathered = course_entry['metadata']['last_period_gathered']
+            if last_date_gathered == self.date:  # if the data is already gathered (at least for FA/SP)
+                # do some checks in the edge case that we are dealing with IN/SU
+                if self.intersession or self.summer:
+                    relevant = course_entry['metadata']['relevant_periods']
+
+                    if any(("IN" if self.intersession else "SU") in rel for rel in relevant):
+                        return self.cache.data[self.class_code]
+                        # we assume fall up to date means that IN/SU is up to date as well.
+
+                    raise NotImplementedError("if IN/SU is not present at all, then we need to do actual parsing. This might be hard")
+                else:
+                    return self.cache.data[self.class_code]
+            else:
+                # holy fuck.
+                # And it doesn't really even work, because it forces you to parse an extra semester if you are an odd number in the future (e.g. 1 🤦‍♂️)
+                self.years = str(self.last_year - 2000 - int(last_date_gathered[2:])) + int(self.last_period == 'FA' and last_date_gathered[:2] == 'SP')
+
+                if course_entry['metadata']['summer'] or course_entry['metadata']['intersession']:
+                    NotImplementedError("also technically supposed to do this processing for IN/SU if they are in the metadata. fuck.")
 
         chrome_options = Options()
         chrome_options.add_argument("--headless")
