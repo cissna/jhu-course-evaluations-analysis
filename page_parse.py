@@ -358,6 +358,7 @@ class GeneralClassScraper():
 
                 # then we will tell the later code to skip the first semester if ceil(years passed) = ((years passed) + 0.5):
                 skip_first_semester = self.last_period != last_date_gathered[:2]
+                self.cache.data['metadata']["last_period_gathered"] = self.date
 
                 if course_entry['metadata']['summer'] or course_entry['metadata']['intersession']:
                     NotImplementedError("also technically supposed to do this processing for IN/SU if they are in the metadata. fuck.")
