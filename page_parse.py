@@ -402,7 +402,7 @@ class GeneralClassScraper():
             
 
             if skip_first_semester:
-                dates.pop(0)  # only happens when dealing with downloading new evaluations when old evaluations were already downloaded
+                dates.pop(0)  # only can happen when dealing with downloading new evaluations when old evaluations were already downloaded
             for period, year in dates:
                 first = True
                 for i in range(1, 1000):  # I think 33 is the highest, but a more dynamic strategy would be better, ofc.
@@ -413,10 +413,14 @@ class GeneralClassScraper():
                     elif result is False:
                         self.cache.mark_failed(s.specific_class_code)
                         break
+                    
+                    if first:
+                        assert((period + str(year)[2:]) not in self.cache.data['metadata']["relevant_periods"])  # should really never happen.
+                        self.cache.data['metadata']["relevant_periods"].append(period + str(year)[2:])
                     self.cache = s.parse_pdf()
 
-                    if first:  # all first serves to do is let the SpecificClassScraper know that it's not prepped on the first iteration
-                        first = False  
+                    if first:  # first has 2 purposes: let the SpecificClassScraper know that it's not prepped on the first iteration
+                        first = False                # not add to relevant_periods multiple times
 
         
         finally:
