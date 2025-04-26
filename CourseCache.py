@@ -51,7 +51,9 @@ class CourseCache:
                     "failed_periods": [],
                     "first_period_gathered": self.periods[0],
                     "last_period_gathered": self.periods[-1],
-                    "relevant_periods": []
+                    "relevant_periods": [],
+                    "intersession": None,
+                    "summer": None
                 },
                 "data": {p: {} for p in self.periods if p == period}  # let the period be generated as you go
             }
