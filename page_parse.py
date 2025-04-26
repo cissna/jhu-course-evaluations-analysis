@@ -350,6 +350,20 @@ class GeneralClassScraper():
                         # we assume fall up to date means that IN/SU is up to date as well.
 
                     raise NotImplementedError("if IN/SU is not present at all, then we need to do actual parsing. This might be hard")
+                    # ideas in my brain rn:
+                    # simply add another boolean variable, where if it is present, we don't stop going on intersession or summer
+                    # consider how to balance this with user-inputted proper section (prob only for intersession?)
+
+                    # cases:
+                    # normal adding, normal updating works :)
+                    # adding special (no fa/sp)
+                    # updating special (no fa/sp)
+                    # adding special to entry with fa/sp
+                    # adding special to entry with fa/sp that is behind(need to update fa/sp and add special)
+                    # adding fa/sp to entry with special already (previously dubbed "crazy edge case")
+                    # adding fa/sp to entry with special that is behind (need to update special and add fa/sp)
+                    # updating special when fa/sp is behind
+                    # updating fa/sp when special is behind
                 else:
                     return self.cache.data[self.class_code]
             else:
