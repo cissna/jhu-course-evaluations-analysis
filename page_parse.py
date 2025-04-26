@@ -358,7 +358,7 @@ class GeneralClassScraper():
 
                 # then we will tell the later code to skip the first semester if ceil(years passed) = ((years passed) + 0.5):
                 skip_first_semester = self.last_period != last_date_gathered[:2]
-                self.cache.data['metadata']["last_period_gathered"] = self.date
+                course_entry['metadata']["last_period_gathered"] = self.date
 
                 if course_entry['metadata']['summer'] or course_entry['metadata']['intersession']:
                     NotImplementedError("also technically supposed to do this processing for IN/SU if they are in the metadata. fuck.")
@@ -416,8 +416,8 @@ class GeneralClassScraper():
                         break
                     
                     if first:
-                        assert((period + str(year)[2:]) not in self.cache.data['metadata']["relevant_periods"])  # should really never happen.
-                        self.cache.data['metadata']["relevant_periods"].append(period + str(year)[2:])
+                        assert((period + str(year)[2:]) not in self.cache.data[self.class_code]['metadata']["relevant_periods"])  # should really never happen.
+                        self.cache.data[self.class_code]['metadata']["relevant_periods"].append(period + str(year)[2:])
                     self.cache = s.parse_pdf()
 
                     if first:  # first has 2 purposes: let the SpecificClassScraper know that it's not prepped on the first iteration
