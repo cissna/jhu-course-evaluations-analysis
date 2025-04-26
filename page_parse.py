@@ -335,6 +335,7 @@ class GeneralClassScraper():
 
 
     def scrape_all_pdfs(self):
+        skip_first_semester = False
         if self.class_code in self.cache.data:
             course_entry = self.cache.data[self.class_code]
 
@@ -352,9 +353,11 @@ class GeneralClassScraper():
                 else:
                     return self.cache.data[self.class_code]
             else:
-                # holy fuck.
-                # And it doesn't really even work, because it forces you to parse an extra semester if you are an odd number in the future (e.g. 1 🤦‍♂️)
-                self.years = str(self.last_year - 2000 - int(last_date_gathered[2:])) + int(self.last_period == 'FA' and last_date_gathered[:2] == 'SP')
+                # essentially a ceiling operation, so if it's been 0.5 years (1 semester) since we collected data, we set self.years to 1.
+                self.years = (self.last_year - 2000 - int(last_date_gathered[2:])) + int(self.last_period == 'FA' and last_date_gathered[:2] == 'SP')
+
+                # then we will tell the later code to skip the first semester if ceil(years passed) = ((years passed) + 0.5):
+                skip_first_semester = self.last_period != last_date_gathered[:2]
 
                 if course_entry['metadata']['summer'] or course_entry['metadata']['intersession']:
                     NotImplementedError("also technically supposed to do this processing for IN/SU if they are in the metadata. fuck.")
@@ -398,6 +401,8 @@ class GeneralClassScraper():
                     dates.pop()  # remove fall of last_year since it hasn't happened yet if last period is spring
             
 
+            if skip_first_semester:
+                dates.pop(0)  # only happens when dealing with downloading new evaluations when old evaluations were already downloaded
             for period, year in dates:
                 first = True
                 for i in range(1, 1000):  # I think 33 is the highest, but a more dynamic strategy would be better, ofc.
