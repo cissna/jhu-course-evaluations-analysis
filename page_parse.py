@@ -97,7 +97,7 @@ class SpecificClassScraper():
     """
     holds information of a specific class, and has a method to scrape the data for that class
     """
-    def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str, course_cache: CourseCache=None, cache_prepped=False):
+    def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str, course_cache: CourseCache=None):
 
         pattern = r'^[a-z]{2}\.\d{3}\.\d{3}$'
         if not re.match(pattern, class_code.lower().strip()):
@@ -127,8 +127,8 @@ class SpecificClassScraper():
             self.cache = CourseCache()
         else:
             self.cache = course_cache
-        if not cache_prepped:
-            self.cache.ensure_course(course_code=class_code, period=f'{period}{year:02}')
+
+        self.cache.ensure_course(course_code=class_code, period=f'{period}{year:02}')
 
     def scrape_pdf(self, driver):
         # print(f"Checking class code: {self.specific_class_code}:")
@@ -400,7 +400,7 @@ class GeneralClassScraper():
             for period, year in dates:
                 first = True
                 for i in range(1, 100):
-                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache, cache_prepped=True)
+                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache)
                     result = s.scrape_pdf(driver)
                     if result is None:
                         if self.intersession or self.summer:
