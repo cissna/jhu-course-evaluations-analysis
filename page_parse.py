@@ -415,6 +415,7 @@ class GeneralClassScraper():
 
                     if first:  # first has 1 purposes: not add to relevant_periods multiple times
                         first = False
+            self.cache.save()  # save runs even if they have no valid courses, to save the fact that we already checked that
 
         
         finally:
