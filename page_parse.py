@@ -110,6 +110,7 @@ class SpecificClassScraper():
         # at this point, the variables we care about are year, period, section, and class_code, here's how we use them:
         # the split thing is to deal with my weird formatting of intersession/summer
         self.specific_class_code = f'{class_code.split('|')[0]}.{section:02}.{period}{year:02}'
+        self.general_class_code = class_code
 
         self.pdf_file = None
 
@@ -297,7 +298,7 @@ class SpecificClassScraper():
             "workload_frequency": self.workload_frequency
         }
 
-        self.cache.data['.'.join(self.specific_class_code.split('.')[:3])]['data'][self.specific_class_code.split('.')[4]][self.specific_class_code] = data
+        self.cache.data[self.general_class_code]['data'][self.specific_class_code.split('.')[4]][self.specific_class_code] = data
 
         self.cache.save()
 
