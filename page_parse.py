@@ -377,17 +377,11 @@ class GeneralClassScraper():
             start_year = (self.last_year + 1) - self.years
 
             if self.intersession:
-                raise AssertionError("WARNING: intersession does not currently work because of edge case with sections not starting at 1")
                 # possible changes:
                 # just search through sections and find it (slow, but not too many intersession courses and minimal work)
                 # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
                 dates = [("IN", year) for year in range(start_year, self.last_year + 1)]
             elif self.summer:
-                raise AssertionError("WARNING: summer does not NECESSARILY currently work because of edge case with sections not starting at 1")
-                # possible changes:
-                # just search through sections and find it (slow, but not too many intersession courses and minimal work)
-                # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
-                # look into feasibility of counting spring/fall courses, and basing summer section number off of them.
                 spring_offset = -1 if self.last_period == 'SP' else 0
                 summer_year_range = range(start_year + spring_offset, self.last_year + spring_offset + 1)
                 dates = [("SU", year) for year in summer_year_range]
@@ -405,21 +399,23 @@ class GeneralClassScraper():
                 dates.pop(0)  # only can happen when dealing with downloading new evaluations when old evaluations were already downloaded
             for period, year in dates:
                 first = True
-                for i in range(1, 1000):  # I think 33 is the highest, but a more dynamic strategy would be better, ofc.
+                for i in range(1, 100):
                     s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache, cache_prepped=True)
                     result = s.scrape_pdf(driver)
                     if result is None:
-                        break
+                        if self.intersession or self.summer:
+                            continue  # for special periods, we search through all 100
+                        else:
+                            break  # default behavior is we stop searching once we don't find a value
                     elif result is False:
                         self.cache.mark_failed(s.specific_class_code)
                         break
                     
-                    if first:
-                        assert((period + str(year)[2:]) not in self.cache.data[self.class_code]['metadata']["relevant_periods"])  # should really never happen.
-                        self.cache.data[self.class_code]['metadata']["relevant_periods"].append(period + str(year)[2:])
                     self.cache = s.parse_pdf()
 
                     if first:  # first has 1 purposes: not add to relevant_periods multiple times
+                        assert((period + str(year)[2:]) not in self.cache.data[self.class_code]['metadata']["relevant_periods"])  # should really never happen.
+                        self.cache.data[self.class_code]['metadata']["relevant_periods"].append(period + str(year)[2:])
                         first = False
             self.cache.save()  # save runs even if they have no valid courses, to save the fact that we already checked that
 
