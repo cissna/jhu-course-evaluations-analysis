@@ -319,13 +319,6 @@ class GeneralClassScraper():
         self.years = years
         self.class_code = class_code
 
-        if intersession and summer:
-            raise ValueError("Summer and Intersession do not go together")
-        if intersession or summer:
-            self.class_code += '|' + ('IN' if self.intersession else 'SU')
-        self.intersession = intersession
-        self.summer = summer
-
         now = datetime.now()
         self.last_year = now.year - 1
         self.last_period = 'FA'
@@ -336,6 +329,16 @@ class GeneralClassScraper():
         self.date = self.last_period + str(self.last_year)[2:]
 
         self.cache.ensure_course(course_code=class_code)
+
+        if intersession and summer:
+            raise ValueError("Summer and Intersession do not go together")
+        if intersession or summer:
+            self.class_code += '|' + ('IN' if self.intersession else 'SU')
+        self.intersession = intersession
+        self.summer = summer
+
+        self.cache[class_code]['metadata']['intersession'] = True if intersession else None
+        self.cache[class_code]['metadata']['summer'] = True if summer else None
         
 
 
