@@ -3,7 +3,7 @@ import os
 from page_parse import GeneralClassScraper
 
 code = """
-AS.210.312
+EN.601.675
 """.strip()
 
 # Define the mappings from rating labels to numeric scores.

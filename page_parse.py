@@ -337,11 +337,11 @@ class GeneralClassScraper():
         if intersession or summer:
             self.class_code += '|' + ('IN' if self.intersession else 'SU')
 
-            self.cache[class_code]['metadata']['intersession'] = True if intersession else None
-            self.cache[class_code]['metadata']['summer'] = True if summer else None
+            self.cache.data[class_code]['metadata']['intersession'] = True if intersession else None
+            self.cache.data[class_code]['metadata']['summer'] = True if summer else None
 
-            if self.cache.get(self.class_code[:-3], False):
-                self.cache[self.class_code[:-3]]['metadata']['intersession' if intersession else 'summer'] = self.class_code
+            if self.cache.data.get(self.class_code[:-3], False):
+                self.cache.data[self.class_code[:-3]]['metadata']['intersession' if intersession else 'summer'] = self.class_code
         
 
 
@@ -400,7 +400,7 @@ class GeneralClassScraper():
             for period, year in dates:
                 first = True
                 for i in range(1, 100):
-                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache)
+                    s = SpecificClassScraper(self.class_code.split('|')[0], period, str(year), str(i), self.cache)
                     result = s.scrape_pdf(driver)
                     if result is None:
                         if self.intersession or self.summer:
