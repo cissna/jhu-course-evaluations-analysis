@@ -334,10 +334,11 @@ class GeneralClassScraper():
             self.last_period = 'SP'
         
         self.date = self.last_period + str(self.last_year)[2:]
+
+        self.cache.ensure_course(course_code=class_code)
         
 
-# consolidate above comments into one case:
-# make summer/intersession courses stored with |IN or |SU at the end in cache.json, and let them live as fully separate data
+
     def scrape_all_pdfs(self):
         skip_first_semester = False
         if self.class_code in self.cache.data:
@@ -399,7 +400,7 @@ class GeneralClassScraper():
             for period, year in dates:
                 first = True
                 for i in range(1, 1000):  # I think 33 is the highest, but a more dynamic strategy would be better, ofc.
-                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache, cache_prepped=not first)
+                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache, cache_prepped=True)
                     result = s.scrape_pdf(driver)
                     if result is None:
                         break
@@ -412,8 +413,8 @@ class GeneralClassScraper():
                         self.cache.data[self.class_code]['metadata']["relevant_periods"].append(period + str(year)[2:])
                     self.cache = s.parse_pdf()
 
-                    if first:  # first has 2 purposes: let the SpecificClassScraper know that it's not prepped on the first iteration
-                        first = False                # not add to relevant_periods multiple times
+                    if first:  # first has 1 purposes: not add to relevant_periods multiple times
+                        first = False
 
         
         finally:
