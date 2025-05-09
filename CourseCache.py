@@ -60,9 +60,10 @@ class CourseCache:
         elif period is not None and period not in self.data[course_code]['data']:
             self.data[course_code]['data'][period] = {}
 
-    def mark_failed(self, full_code):
+    def mark_failed(self, full_code, intersession=False, summer=False):
+        assert(not (intersession and summer))
         period = full_code.split(".")[4]
-        general = ".".join(full_code.split(".")[:3])
+        general = ".".join(full_code.split(".")[:3]) + ("|IN" if intersession else ("|SU" if summer else ""))
         self.ensure_course(general)
         self.data[general]["data"].setdefault(period, {})
         self.data[general]["data"][period][full_code] = None

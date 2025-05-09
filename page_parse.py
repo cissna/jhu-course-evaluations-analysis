@@ -99,7 +99,7 @@ class SpecificClassScraper():
     """
     def __init__(self, class_code: str, period_string: str, year_string: str, section_string: str, course_cache: CourseCache=None):
 
-        pattern = r'^[a-z]{2}\.\d{3}\.\d{3}$'
+        pattern = r'^[a-z]{2}\.\d{3}\.\d{3}(\|(in|su))?$'
         if not re.match(pattern, class_code.lower().strip()):
             raise ValueError(f"{class_code} is a invalid class code (should be XX.###.###)")
         
@@ -108,7 +108,8 @@ class SpecificClassScraper():
         section = _parse_section(section_string)
         
         # at this point, the variables we care about are year, period, section, and class_code, here's how we use them:
-        self.specific_class_code = f'{class_code}.{section:02}.{period}{year:02}'
+        # the split thing is to deal with my weird formatting of intersession/summer
+        self.specific_class_code = f'{class_code.split('|')[0]}.{section:02}.{period}{year:02}'
 
         self.pdf_file = None
 
@@ -400,7 +401,7 @@ class GeneralClassScraper():
             for period, year in dates:
                 first = True
                 for i in range(1, 100):
-                    s = SpecificClassScraper(self.class_code.split('|')[0], period, str(year), str(i), self.cache)
+                    s = SpecificClassScraper(self.class_code, period, str(year), str(i), self.cache)
                     result = s.scrape_pdf(driver)
                     if result is None:
                         if self.intersession or self.summer:
