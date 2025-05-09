@@ -318,8 +318,11 @@ class GeneralClassScraper():
 
         self.years = years
         self.class_code = class_code
+
         if intersession and summer:
             raise ValueError("Summer and Intersession do not go together")
+        if intersession or summer:
+            self.class_code += '|' + ('IN' if self.intersession else 'SU')
         self.intersession = intersession
         self.summer = summer
 
@@ -333,7 +336,8 @@ class GeneralClassScraper():
         self.date = self.last_period + str(self.last_year)[2:]
         
 
-
+# consolidate above comments into one case:
+# make summer/intersession courses stored with |IN or |SU at the end in cache.json, and let them live as fully separate data
     def scrape_all_pdfs(self):
         skip_first_semester = False
         if self.class_code in self.cache.data:
@@ -341,31 +345,7 @@ class GeneralClassScraper():
 
             last_date_gathered = course_entry['metadata']['last_period_gathered']
             if last_date_gathered == self.date:  # if the data is already gathered (at least for FA/SP)
-                # do some checks in the edge case that we are dealing with IN/SU
-                if self.intersession or self.summer:
-                    relevant = course_entry['metadata']['relevant_periods']
-
-                    if any(("IN" if self.intersession else "SU") in rel for rel in relevant):
-                        return self.cache.data[self.class_code]
-                        # we assume fall up to date means that IN/SU is up to date as well.
-
-                    raise NotImplementedError("if IN/SU is not present at all, then we need to do actual parsing. This might be hard")
-                    # ideas in my brain rn:
-                    # simply add another boolean variable, where if it is present, we don't stop going on intersession or summer
-                    # consider how to balance this with user-inputted proper section (prob only for intersession?)
-
-                    # cases:
-                    # normal adding, normal updating works :)
-                    # adding special (no fa/sp)
-                    # updating special (no fa/sp)
-                    # adding special to entry with fa/sp
-                    # adding special to entry with fa/sp that is behind(need to update fa/sp and add special)
-                    # adding fa/sp to entry with special already (previously dubbed "crazy edge case")
-                    # adding fa/sp to entry with special that is behind (need to update special and add fa/sp)
-                    # updating special when fa/sp is behind
-                    # updating fa/sp when special is behind
-                else:
-                    return self.cache.data[self.class_code]
+                return self.cache.data[self.class_code]
             else:
                 # essentially a ceiling operation, so if it's been 0.5 years (1 semester) since we collected data, we set self.years to 1.
                 self.years = (self.last_year - 2000 - int(last_date_gathered[2:])) + int(self.last_period == 'FA' and last_date_gathered[:2] == 'SP')
@@ -373,9 +353,7 @@ class GeneralClassScraper():
                 # then we will tell the later code to skip the first semester if ceil(years passed) = ((years passed) + 0.5):
                 skip_first_semester = self.last_period != last_date_gathered[:2]
                 course_entry['metadata']["last_period_gathered"] = self.date
-
-                if course_entry['metadata']['summer'] or course_entry['metadata']['intersession']:
-                    NotImplementedError("also technically supposed to do this processing for IN/SU if they are in the metadata. fuck.")
+                    
 
         chrome_options = Options()
         chrome_options.add_argument("--headless")
@@ -392,13 +370,13 @@ class GeneralClassScraper():
             start_year = (self.last_year + 1) - self.years
 
             if self.intersession:
-                print("WARNING: intersession does not currently work because of edge case with sections not starting at 1")
+                raise AssertionError("WARNING: intersession does not currently work because of edge case with sections not starting at 1")
                 # possible changes:
                 # just search through sections and find it (slow, but not too many intersession courses and minimal work)
                 # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
                 dates = [("IN", year) for year in range(start_year, self.last_year + 1)]
             elif self.summer:
-                print("WARNING: summer does not NECESSARILY currently work because of edge case with sections not starting at 1")
+                raise AssertionError("WARNING: summer does not NECESSARILY currently work because of edge case with sections not starting at 1")
                 # possible changes:
                 # just search through sections and find it (slow, but not too many intersession courses and minimal work)
                 # add separate functionality to let user input section so you don't have to search as much (much more work, annoying for user)
