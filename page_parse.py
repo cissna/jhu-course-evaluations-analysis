@@ -411,6 +411,7 @@ class GeneralClassScraper():
                             break  # default behavior is we stop searching once we don't find a value
                     elif result is False:
                         self.cache.mark_failed(s.specific_class_code, intersession=self.intersession, summer=self.summer)
+                        self.cache.save()
                         break  # manage_failed_downloads.py already deals with this well,
                                # so if it fails we fully stop this period, continue onwards in solve_simple_failures()
                     
