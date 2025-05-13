@@ -1,6 +1,6 @@
 __pycache__/
 pdfs/
 .DS_Store
-course_catalog_*
+unimportant_files/
 old_*
 scratch.py
