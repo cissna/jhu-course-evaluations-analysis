@@ -1,4 +1,4 @@
-# Previous Goal of this repo:
+# Previous Goal of this Repository:
 
 1. Web scrape to download pdfs for a given class in a given semester
     - DONE!
