@@ -23,3 +23,6 @@ def make_cache_nice(cache_file='cache.json'):
         cache.data[key]["last_period_gathered"] = cache.data[key]['metadata']["last_period_gathered"]
         del cache.data[key]['metadata']
 
+
+if __name__ == "__main__":
+    make_cache_nice()
