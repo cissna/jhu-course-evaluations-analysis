@@ -337,7 +337,7 @@ class GeneralClassScraper():
         if intersession and summer:
             raise ValueError("Summer and Intersession do not go together")
         if intersession or summer:
-            self.class_code += '|' + ('IN' if self.intersession else 'SU')
+            self.class_code += '|' + ('IN' if intersession else 'SU')
 
             self.cache.data[class_code]['metadata']['intersession'] = True if intersession else None
             self.cache.data[class_code]['metadata']['summer'] = True if summer else None
