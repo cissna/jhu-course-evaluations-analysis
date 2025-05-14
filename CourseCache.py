@@ -48,7 +48,7 @@ class CourseCache:
         if course_code not in self.data:
             self.data[course_code] = {
                 "metadata": {
-                    "failed_periods": [],
+                    "failed_periods": [period],
                     "first_period_gathered": self.periods[0],
                     "last_period_gathered": self.periods[-1],
                     "relevant_periods": [],
@@ -59,6 +59,7 @@ class CourseCache:
             }
         elif period is not None and period not in self.data[course_code]['data']:
             self.data[course_code]['data'][period] = {}
+            self.data[course_code]['metadata']['failed_periods'].append(period)
 
     def mark_failed(self, full_code, intersession=False, summer=False):
         assert(not (intersession and summer))

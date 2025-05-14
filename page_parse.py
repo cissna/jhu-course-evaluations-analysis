@@ -415,12 +415,16 @@ class GeneralClassScraper():
                         break  # manage_failed_downloads.py already deals with this well,
                                # so if it fails we fully stop this period, continue onwards in solve_simple_failures()
                     
-                    self.cache = s.parse_pdf()
+                    self.cache = s.parse_pdf()  # probably unnecessary to reassign, but why not
 
                     if first:  # first has 1 purposes: not add to relevant_periods multiple times
                         assert((period + str(year)[2:]) not in self.cache.data[self.class_code]['metadata']["relevant_periods"])  # should really never happen.
                         self.cache.data[self.class_code]['metadata']["relevant_periods"].append(period + str(year)[2:])
                         first = False
+                    
+                # only after this for loop can we confirm nothing uncaught failed along the way:
+                self.cache.data[self.class_code]['metadata']['failed_periods'].remove(period)
+    
             self.cache.save()  # save runs even if they have no valid courses, to save the fact that we already checked that
 
         
