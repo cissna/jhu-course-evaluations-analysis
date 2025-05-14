@@ -19,11 +19,14 @@ def _find_courses_to_check_from_failed(cache: CourseCache) -> Dict[str, Dict[str
 
         data = course_entry['data']
         for fail in failed:
-            assert(fail in metadata['relevant_periods'])
+            if fail in metadata['relevant_periods']:  # this means it failed in such a way that it "mark_failed" was called on it
             
-            first_failed = min(key for key, value in data[fail].items() if value is None)
+                first_failed = min(key for key, value in data[fail].items() if value is None)
 
-            section = int(first_failed.split('.')[3])
+                section = int(first_failed.split('.')[3])
+            else:
+                # new case I added where the problem is that sections are initialized without the later code actually filling them in, so i leave them in failed until then
+                section = 1
 
             # create list of first specific course codes (entire code embedded in dictionary keys) within the failed period to check (up to section 99)
             specific_to_check[course_code][fail] = [sec for sec in range(section, 100)]
