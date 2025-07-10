@@ -24,8 +24,12 @@ class CourseCache:
         seasons = ["SP", "FA"]
         all_periods = []
         total_periods = 2 * years
+        first = True
         while len(all_periods) < total_periods:
             for season in reversed(seasons):  # FA, then SP (so newer first)
+                if first and last_period == "SP":
+                    first = False
+                    continue  # to make the most recent period in this list spring, not fall
                 if len(all_periods) < total_periods:
                     all_periods.insert(0, f"{season}{str(last_year)[2:]}")
             last_year -= 1
