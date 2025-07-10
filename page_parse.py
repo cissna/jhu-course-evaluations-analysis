@@ -2,7 +2,7 @@
 Uses classes for classes, where a class a scraper method that gets the relevant data from https://asen-jhu.evaluationkit.com/Report/Public/Results
 """
 
-from datetime import datetime
+from fake_datetime import datetime
 import json
 import os
 import time

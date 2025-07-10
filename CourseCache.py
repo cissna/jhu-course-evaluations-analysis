@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime
+from fake_datetime import datetime
 
 class CourseCache:
     def __init__(self, path="cache.json", years=5):
