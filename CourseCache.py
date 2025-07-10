@@ -4,7 +4,9 @@ from datetime import datetime
 
 class CourseCache:
     def __init__(self, path="cache.json", years=5):
-        self.path = path
+        # Construct path relative to this file
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        self.path = os.path.join(base_dir, path)
         self.periods = self._generate_periods(years)
         self.data = self._load()
 

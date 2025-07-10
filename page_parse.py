@@ -358,6 +358,8 @@ class GeneralClassScraper():
             else:
                 # essentially a ceiling operation, so if it's been 0.5 years (1 semester) since we collected data, we set self.years to 1.
                 self.years = (self.last_year - 2000 - int(last_date_gathered[2:])) + int(self.last_period == 'FA' and last_date_gathered[:2] == 'SP')
+                if self.years < 1:
+                    raise ValueError(f'Something fishy is going on with years.\nLast date gathered: {last_date_gathered}\nCurrent Last Date Even Possible to Be Gathered: {self.date}')
 
                 # then we will tell the later code to skip the first semester if ceil(years passed) = ((years passed) + 0.5):
                 skip_first_semester = self.last_period != last_date_gathered[:2]
